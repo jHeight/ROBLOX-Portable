@@ -1,0 +1,6 @@
+26.05.2015 09:37:29.45992 (18.9568550)Log "rbx_BaseThreadPool"
+09:37:29.45992 (18.9568550) Warning: httpGet http://www.roblox.com/asset/?id=137580676 failed. Trying again. Error: HTTP 500 (HTTP/1.1 500 Asset is not approved for the requester).  Elapsed time: 1.60643
+09:37:30.46992 (19.7039153) Warning: Content failed for http://www.roblox.com/asset/?id=137580676 because HTTP 500 (HTTP/1.1 500 Asset is not approved for the requester)
+09:37:30.46992 (19.7039153) Error:   Content failed because HTTP 500 (HTTP/1.1 500 Asset is not approved for the requester)
+09:37:30.46992 (19.7039153) Error:   Image failed to load: http://www.roblox.com/asset/?id=137580676: Request failed
+26.05.2015 09:38:21.32456 (71.0305178)End Log

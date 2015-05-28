@@ -1,0 +1,29 @@
+28.05.2015 08:15:42.54192 (2.7078559)Log "RobloxStudio"
+08:15:42.54192 (2.7088560)          CrashReporter Start
+08:15:42.54192 (2.7248578)          Initializing CrashEvent request, url: http://www.roblox.com/Error/Dmp.ashx?filename=C%3A%5CUsers%5CStudent%5CAppData%5CLocal%5CRoblox%5Clogs%5Clog%5F91316%200%2C%20197%2C%200%2C%2059946%2ERobloxStudio%2Ecrashevent
+08:15:42.54192 (2.7268580)          RobloxMainWindow::RobloxMainWindow - start
+08:15:45.57192 (6.3255817)          setAssetFolder C:/Program Files/Roblox/Versions/version-7b5c4ce60310443e/content
+08:15:51.63192 (12.1965891)          Use the new http api: yes
+08:16:01.7656 (21.9328802)          RobloxMainWindow::handleFileOpen http://www.roblox.com//Game/edit.ashx?PlaceID=235264088&upload=235264088&testmode=false
+08:16:01.7656 (21.9338804)          RobloxIDEDoc::open - start
+08:16:02.8656 (22.6199324)          	Locking DataModel
+08:16:02.8656 (22.8171653)          	Initializing Ogre
+08:16:02.8656 (22.8171653)          	Initializing View
+08:16:02.8656 (22.9039589)          	Initializing Explorer
+08:16:02.8656 (23.1059989)          	Loading File : 
+08:16:02.8656 (23.2209934)          	Loading Plugins
+08:16:03.9656 (24.0320829)          	Open Success
+08:16:03.9656 (24.0560888)          RobloxIDEDoc::open - end
+08:16:05.11656 (26.3127017)          RobloxMainWindow::RobloxMainWindow - end
+08:16:07.13656 (28.1478518)          		RobloxView::RobloxView - start
+08:16:07.13656 (28.1478518)          			UserInput
+08:16:08.14656 (28.9739040)          			Marshaller
+08:16:08.14656 (28.9739040)          			ProfilingSection
+08:16:08.14656 (28.9739040)          			BindToWorkspace
+08:16:08.14656 (29.2319222)          			RenderJobCyclic
+08:16:08.14656 (29.2319222)          			WrapMouseJob
+08:16:08.14656 (29.2319222)          			ConfigureStats
+08:16:08.14656 (29.2329222)          		RobloxView::RobloxView - end
+08:17:26.27120 (106.5917586)          RobloxMainWindow::closeEvent
+08:17:26.27120 (107.1441621)          RobloxMainWindow::~RobloxMainWindow
+28.05.2015 08:17:27.28120 (107.9102155)End Log

@@ -1,0 +1,34 @@
+26.05.2015 09:26:12.24352 (1.5470534)Log "RobloxStudio"
+09:26:12.24352 (1.5480528)          CrashReporter Start
+09:26:12.24352 (1.5790366)          Initializing CrashEvent request, url: http://www.roblox.com/Error/Dmp.ashx?filename=C%3A%5CUsers%5CStudent%5CAppData%5CLocal%5CRoblox%5Clogs%5Clog%5FDC501%200%2C%20196%2C%200%2C%2059751%2ERobloxStudio%2Ecrashevent
+09:26:12.24352 (1.5800361)          RobloxMainWindow::RobloxMainWindow - start
+09:26:13.25352 (2.2912197)          setAssetFolder D:/ROBLOX-Portable-master/RobloxVersions/version-615500bf52054337/content
+09:26:18.30352 (7.1730281)          Use the new http api: yes
+09:26:26.38352 (14.9425395)          RobloxMainWindow::handleFileOpen 
+09:26:26.38352 (14.9435345)          RobloxMainWindow::handleFileOpen 
+09:26:26.38352 (15.0057730)          RobloxMainWindow::RobloxMainWindow - end
+09:26:33.45352 (21.9157823)          RobloxMainWindow::handleFileOpen 
+09:26:33.45352 (21.9177818)          RobloxIDEDoc::open - start
+09:26:33.45352 (22.2625054)          	Locking DataModel
+09:26:33.45352 (22.6814718)          	Initializing Ogre
+09:26:33.45352 (22.6814718)          	Initializing View
+09:26:33.45352 (22.7679167)          	Initializing Explorer
+09:26:34.46352 (22.9264031)          	Loading File : 
+09:26:34.46352 (22.9563886)          	Initializing Terrain
+09:26:34.46352 (22.9903721)          	Initializing Undo
+09:26:34.46352 (23.0434559)          	Loading Plugins
+09:26:35.47352 (24.4365748)          	Open Success
+09:26:35.47352 (24.4885698)          RobloxIDEDoc::open - end
+09:26:37.49352 (26.7922527)          		RobloxView::RobloxView - start
+09:26:37.49352 (26.7922527)          			UserInput
+09:26:41.53352 (30.7833185)          			Marshaller
+09:26:41.53352 (30.7833185)          			ProfilingSection
+09:26:41.53352 (30.7833185)          			BindToWorkspace
+09:26:42.54352 (31.0353229)          			RenderRequestJob
+09:26:42.54352 (31.0353229)          			RenderJob
+09:26:42.54352 (31.0363241)          			WrapMouseJob
+09:26:42.54352 (31.0363241)          			ConfigureStats
+09:26:42.54352 (31.0373253)          		RobloxView::RobloxView - end
+09:27:06.12816 (55.8275020)          RobloxMainWindow::closeEvent
+09:27:07.13816 (56.7144426)          RobloxMainWindow::~RobloxMainWindow
+26.05.2015 09:27:10.16816 (59.3496839)End Log

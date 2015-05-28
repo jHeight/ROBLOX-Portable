@@ -1,0 +1,6 @@
+27.05.2015 08:06:33.29480 (179.1661057)Log "rbx_BaseThreadPool"
+08:06:33.29480 (179.1671007) Warning: httpGet http://www.roblox.com/asset/?id=0 failed. Trying again. Error: HTTP 404 (HTTP/1.1 404 http://www.roblox.com/asset/default.ashx?id=0).  Elapsed time: 0.20715
+08:06:33.29480 (179.3890453) Warning: Content failed for http://www.roblox.com/asset/?id=0 because HTTP 404 (HTTP/1.1 404 http://www.roblox.com/asset/default.ashx?id=0)
+08:06:33.29480 (179.3890453) Error:   Content failed because HTTP 404 (HTTP/1.1 404 http://www.roblox.com/asset/default.ashx?id=0)
+08:06:33.29480 (179.3900408) Error:   Image failed to load: http://www.roblox.com/asset/?id=0: Request failed
+27.05.2015 08:07:09.65480 (214.7603788)End Log

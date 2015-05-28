@@ -1,0 +1,2 @@
+27.05.2015 08:30:16.10688 (1602.2855407)Log "rbx_BaseThreadPool"
+08:30:16.10688 (1602.2865408) Warning: httpGet http://public.ecs.roblox.com/studio/e.png?sessionID=451E854C-4C70-46CD-89B2-D81C2530F134&userID=82324853&placeID=95206881&event=Game&action=ComputerMovement&label=ComputerMovementModeDefault&value=0 failed. Trying again. Error: CURL error (curl_easy_perform, 0889F110): Couldn't resolve host name.  Elapsed time: 0.288015

@@ -1,0 +1,5 @@
+27.05.2015 16:06:47.7640 (13.4963202)Log "Roblox TaskScheduler Thread 2"
+16:06:47.7640 (13.4963202) Warning: Connection accepted from 192.96.200.226|57427
+
+16:06:47.7640 (13.9744150) Warning: ClassDescriptor failed to learn ThumbnailGenerator
+27.05.2015 16:29:07.36920 (1353.4207449)End Log

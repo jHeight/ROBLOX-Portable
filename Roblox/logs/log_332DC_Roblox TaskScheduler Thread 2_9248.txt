@@ -1,0 +1,7 @@
+26.05.2015 09:37:26.42992 (15.4250689)Log "Roblox TaskScheduler Thread 2"
+09:37:26.42992 (15.4260690)          Starting script
+09:37:26.42992 (15.6590910)          ! Joining game '2c418ceb-8b0e-4bda-96d5-665197b1322e' place 162088381 at 209.15.226.61
+09:37:26.42992 (15.7260855) Warning: Connecting to 209.15.226.61:51329
+09:37:27.43992 (16.4214536) Warning: Connection accepted from 209.15.226.61|51329
+
+26.05.2015 09:38:21.32456 (71.3169624)End Log

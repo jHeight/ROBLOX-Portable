@@ -1,0 +1,46 @@
+26.05.2015 10:11:05.30376 (0.7511310)Log "Roblox"
+10:11:05.30376 (0.7521315)          setAssetFolder content
+10:11:09.34376 (5.0579970)          Use the new http api: yes
+10:11:09.34376 (5.1090082)          CrashReporter Start
+10:11:09.34376 (5.1480130)          Initializing CrashEvent request, url: http://www.roblox.com/Error/Dmp.ashx?filename=C%3A%5CUsers%5CStudent%5CAppData%5CLocal%5CRoblox%5Clogs%5Clog%5FC1734%200%2C%20196%2C%200%2C%2059751%2EClient%2Ecrashevent
+10:11:13.38376 (8.9708901)          Initializing new game
+10:14:10.18768 (186.0850600) Error:   Image failed to load: : Unexpected URL
+10:24:49.2408 (824.8641550) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8641550) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8651551) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8681555) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8691556) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8691556) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8701557) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8701557) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8701557) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8711558) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8711558) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8721559) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8721559) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8721559) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8721559) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8731560) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8731560) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8731560) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8731560) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8731560) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8731560) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8731560) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8741561) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8741561) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8741561) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8741561) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8741561) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8741561) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8751563) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8751563) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8751563) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8751563) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8761564) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8761564) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8771565) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8771565) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8781536) Error:   Timeout before resuming thread
+10:24:49.2408 (824.8781536) Error:   Timeout before resuming thread
+26.05.2015 10:24:49.2408 (825.0926529)End Log

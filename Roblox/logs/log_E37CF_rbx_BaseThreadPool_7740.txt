@@ -1,0 +1,6 @@
+27.05.2015 19:01:29.3880 (9012.9073338)Log "rbx_BaseThreadPool"
+19:01:29.3880 (9012.9083338) Warning: httpGet http://www.roblox.com/asset/?id= failed. Trying again. Error: HTTP 400 (HTTP/1.1 400 Input string was not in a correct format.).  Elapsed time: 0.428478
+19:01:29.3880 (9013.0823468) Warning: Content failed for http://www.roblox.com/asset/?id= because HTTP 400 (HTTP/1.1 400 Input string was not in a correct format.)
+19:01:29.3880 (9013.0833469) Error:   Content failed because HTTP 400 (HTTP/1.1 400 Input string was not in a correct format.)
+19:01:29.3880 (9013.0833469) Error:   Image failed to load: http://www.roblox.com/asset/?id=: Request failed
+27.05.2015 20:47:10.53424 (15353.4348720)End Log

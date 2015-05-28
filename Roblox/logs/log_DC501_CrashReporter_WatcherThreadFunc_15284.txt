@@ -1,0 +1,3 @@
+26.05.2015 09:26:12.24352 (1.5470534)Log "CrashReporter_WatcherThreadFunc"
+09:26:12.24352 (1.5480528)          WatcherThread Started
+26.05.2015 09:27:10.16816 (59.3486839)End Log

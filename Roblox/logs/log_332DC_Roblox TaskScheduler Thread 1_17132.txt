@@ -1,0 +1,6 @@
+26.05.2015 09:37:27.43992 (16.6296210)Log "Roblox TaskScheduler Thread 1"
+09:37:27.43992 (16.6296210) Warning: ClassDescriptor failed to learn ThumbnailGenerator
+09:37:29.45992 (18.4607873) Error:   DataStore can't be accessed from client
+09:37:29.45992 (18.4607873)          Script 'Players.zsoltisawesome.PlayerGui.LocalScript', Line 3
+09:37:29.45992 (18.4607873)          Stack End
+26.05.2015 09:38:21.32456 (71.2936338)End Log

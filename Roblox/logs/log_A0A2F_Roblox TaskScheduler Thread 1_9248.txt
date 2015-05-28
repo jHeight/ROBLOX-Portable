@@ -1,0 +1,98 @@
+27.05.2015 12:01:44.50240 (5500.9937462)Log "Roblox TaskScheduler Thread 1"
+12:01:44.50240 (5500.9947459) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:01:44.50240 (5500.9947459)          Stack Begin
+12:01:44.50240 (5500.9947459)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:01:44.50240 (5500.9947459)          Stack End
+12:01:46.52240 (5503.0059343) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:01:46.52240 (5503.0069352)          Stack Begin
+12:01:46.52240 (5503.0069352)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:01:46.52240 (5503.0069352)          Stack End
+12:01:53.59240 (5510.1174775) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:01:53.59240 (5510.1174775)          Stack Begin
+12:01:53.59240 (5510.1174775)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:01:53.59240 (5510.1174775)          Stack End
+12:01:55.61240 (5512.1168121) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:01:55.61240 (5512.1168121)          Stack Begin
+12:01:55.61240 (5512.1178121)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:01:55.61240 (5512.1178121)          Stack End
+12:02:02.2704 (5519.1991770) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:02:02.2704 (5519.2071783)          Stack Begin
+12:02:02.2704 (5519.2131793)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:02:02.2704 (5519.2191803)          Stack End
+12:02:07.7704 (5524.2160668) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:02:07.7704 (5524.2250671)          Stack Begin
+12:02:07.7704 (5524.2320673)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:02:07.7704 (5524.2370675)          Stack End
+12:03:47.42168 (5624.0709570) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:03:47.42168 (5624.0769538)          Stack Begin
+12:03:47.42168 (5624.0839502)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:03:47.42168 (5624.0889476)          Stack End
+12:04:10.65168 (5647.1192516) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:04:10.65168 (5647.1192516)          Stack Begin
+12:04:10.65168 (5647.1192516)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:04:10.65168 (5647.1192516)          Stack End
+12:04:16.5632 (5653.1604997) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:04:16.5632 (5653.1604997)          Stack Begin
+12:04:16.5632 (5653.1604997)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:04:16.5632 (5653.1604997)          Stack End
+12:04:35.24632 (5672.3530639) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:04:35.24632 (5672.3530639)          Stack Begin
+12:04:35.24632 (5672.3530639)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:04:35.24632 (5672.3530639)          Stack End
+12:04:40.29632 (5677.3996031) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:04:40.29632 (5677.3996031)          Stack Begin
+12:04:40.29632 (5677.3996031)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:04:40.29632 (5677.3996031)          Stack End
+12:04:43.32632 (5680.4265947) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:04:43.32632 (5680.4265947)          Stack Begin
+12:04:43.32632 (5680.4275949)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:04:43.32632 (5680.4275949)          Stack End
+12:05:42.26096 (5738.8172804) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:05:42.26096 (5738.8232790)          Stack Begin
+12:05:42.26096 (5738.8282779)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:05:42.26096 (5738.8352763)          Stack End
+12:05:44.28096 (5740.8189398) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:05:44.28096 (5740.8199398)          Stack Begin
+12:05:44.28096 (5740.8199398)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:05:44.28096 (5740.8199398)          Stack End
+12:05:48.32096 (5744.8796845) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:05:48.32096 (5744.8856826)          Stack Begin
+12:05:48.32096 (5744.8926802)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:05:48.32096 (5744.8986782)          Stack End
+12:06:54.32560 (5811.2110576) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:06:54.32560 (5811.2120576)          Stack Begin
+12:06:54.32560 (5811.2120576)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:06:54.32560 (5811.2120576)          Stack End
+12:06:56.34560 (5813.1867264) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:06:56.34560 (5813.1877265)          Stack Begin
+12:06:56.34560 (5813.1877265)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:06:56.34560 (5813.1877265)          Stack End
+12:08:33.488 (5910.2029602) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:08:33.488 (5910.2039605)          Stack Begin
+12:08:33.488 (5910.2039605)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:08:33.488 (5910.2039605)          Stack End
+12:08:39.6488 (5916.2964816) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:08:39.6488 (5916.2964816)          Stack Begin
+12:08:39.6488 (5916.2974867)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:08:39.6488 (5916.2974867)          Stack End
+12:09:15.42488 (5952.1363358) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:09:15.42488 (5952.1423374)          Stack Begin
+12:09:15.42488 (5952.1492703)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:09:15.42488 (5952.1552679)          Stack End
+12:39:49.41480 (7786.2386703) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:39:49.41480 (7786.2466684)          Stack Begin
+12:39:49.41480 (7786.2526669)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:39:49.41480 (7786.2586655)          Stack End
+12:39:51.43480 (7788.2693376) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:39:51.43480 (7788.2723389)          Stack Begin
+12:39:51.43480 (7788.2723389)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:39:51.43480 (7788.2723389)          Stack End
+12:39:56.48480 (7793.3141724) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:39:56.48480 (7793.3141724)          Stack Begin
+12:39:56.48480 (7793.3141724)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:39:56.48480 (7793.3141724)          Stack End
+12:44:41.5800 (8078.0820897) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+12:44:41.5800 (8078.0820897)          Stack Begin
+12:44:41.5800 (8078.0820897)          Script 'Workspace.Training Dummy.Respawn', Line 7
+12:44:41.5800 (8078.0820897)          Stack End
+27.05.2015 13:12:59.65400 (9776.2525211)End Log

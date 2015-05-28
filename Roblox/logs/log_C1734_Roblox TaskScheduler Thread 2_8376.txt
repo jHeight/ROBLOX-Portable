@@ -1,0 +1,4 @@
+26.05.2015 10:11:36.61376 (31.7781761)Log "Roblox TaskScheduler Thread 2"
+10:11:36.61376 (31.7791762) Error:   Players.zsoltisawesome.Backpack.HeatWave.Local Gui
+10:14:24.32768 (200.0167043) Error:   Players.zsoltisawesome.Backpack.HeatWave.Local Gui
+26.05.2015 10:24:49.2408 (825.1065909)End Log

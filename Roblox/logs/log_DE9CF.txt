@@ -1,0 +1,8 @@
+27.05.2015 12:21:38.64592 (2.5680418)Log "Roblox"
+12:21:38.64592 (2.5680418)          setAssetFolder content
+12:21:40.1056 (4.7871757)          Use the new http api: yes
+12:21:40.1056 (4.8441841)          CrashReporter Start
+12:21:40.1056 (4.8661863)          Initializing CrashEvent request, url: http://www.roblox.com/Error/Dmp.ashx?filename=C%3A%5CUsers%5CStudent%5CAppData%5CLocal%5CRoblox%5Clogs%5Clog%5FDE9CF%200%2C%20196%2C%200%2C%2059751%2EClient%2Ecrashevent
+12:21:41.2056 (6.1664521)          Initializing new game
+12:21:52.13056 (16.7366742) Error:   Image failed to load: : Unexpected URL
+27.05.2015 12:28:59.46840 (443.7806544)End Log

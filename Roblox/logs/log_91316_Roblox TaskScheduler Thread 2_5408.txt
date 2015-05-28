@@ -1,0 +1,3 @@
+28.05.2015 08:16:03.9656 (24.3470812)Log "Roblox TaskScheduler Thread 2"
+08:16:03.9656 (24.3470812)          DataModel Loading http://www.roblox.com/asset/?id=235264088
+28.05.2015 08:17:27.28120 (107.8502231)End Log

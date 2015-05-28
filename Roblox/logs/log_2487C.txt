@@ -1,0 +1,739 @@
+27.05.2015 08:03:37.50088 (3.3322117)Log "RobloxStudio"
+08:03:37.50088 (3.3322117)          CrashReporter Start
+08:03:37.50088 (3.3652168)          Initializing CrashEvent request, url: http://www.roblox.com/Error/Dmp.ashx?filename=C%3A%5CUsers%5CStudent%5CAppData%5CLocal%5CRoblox%5Clogs%5Clog%5F2487C%200%2C%20196%2C%200%2C%2059751%2ERobloxStudio%2Ecrashevent
+08:03:37.50088 (3.3662169)          RobloxMainWindow::RobloxMainWindow - start
+08:03:39.52088 (4.9793191)          setAssetFolder D:/ROBLOX-Portable-master/RobloxVersions/version-615500bf52054337/content
+08:03:45.58088 (11.3176992)          Use the new http api: yes
+08:03:55.2552 (21.6343761)          RobloxMainWindow::handleFileOpen 
+08:03:55.2552 (21.6353755)          RobloxMainWindow::handleFileOpen 
+08:03:55.2552 (21.6943384)          RobloxMainWindow::RobloxMainWindow - end
+08:04:19.26552 (45.1165792)          RobloxMainWindow::handleFileOpen http://www.roblox.com//Game/edit.ashx?PlaceID=95206881&upload=&testmode=false
+08:04:19.26552 (45.1175791)          RobloxIDEDoc::open - start
+08:04:19.26552 (45.6635914)          	Locking DataModel
+08:04:20.27552 (45.8311097)          	Initializing Ogre
+08:04:20.27552 (45.8321098)          	Initializing View
+08:04:20.27552 (45.9181212)          	Initializing Explorer
+08:04:20.27552 (46.0501367)          	Loading File : 
+08:04:22.29552 (47.7367110)          	Loading Plugins
+08:04:22.29552 (48.4487304)          	Open Success
+08:04:22.29552 (48.4647302)          RobloxIDEDoc::open - end
+08:04:28.35552 (54.0019771)          		RobloxView::RobloxView - start
+08:04:28.35552 (54.0019771)          			UserInput
+08:04:31.38552 (57.3442934)          			Marshaller
+08:04:31.38552 (57.3442934)          			ProfilingSection
+08:04:31.38552 (57.3442934)          			BindToWorkspace
+08:04:31.38552 (57.5165998)          			RenderRequestJob
+08:04:31.38552 (57.5165998)          			RenderJob
+08:04:31.38552 (57.5165998)          			WrapMouseJob
+08:04:31.38552 (57.5175941)          			ConfigureStats
+08:04:31.38552 (57.5185884)          		RobloxView::RobloxView - end
+08:06:06.2480 (152.2856327)          Auto-Saving...
+08:06:09.5480 (154.9689397)          		RobloxView::RobloxView - start
+08:06:09.5480 (154.9689397)          			UserInput
+08:06:11.7480 (156.7265896)          			Marshaller
+08:06:11.7480 (156.7265896)          			ProfilingSection
+08:06:11.7480 (156.8927320)          			BindToWorkspace
+08:06:11.7480 (157.0435465)          			RenderRequestJob
+08:06:11.7480 (157.0435465)          			RenderJob
+08:06:11.7480 (157.0435465)          			WrapMouseJob
+08:06:11.7480 (157.0435465)          			ConfigureStats
+08:06:11.7480 (157.0445452)          		RobloxView::RobloxView - end
+08:06:35.31480 (181.4616727)          Layout Set Buttons index=1, InsertSets=8
+08:07:09.65480 (214.7623835)          		RobloxView::RobloxView - start
+08:07:09.65480 (214.7623835)          			UserInput
+08:07:11.1944 (217.2782108)          			Marshaller
+08:07:11.1944 (217.2782108)          			ProfilingSection
+08:07:11.1944 (217.2782108)          			BindToWorkspace
+08:07:11.1944 (217.6312372)          			RenderRequestJob
+08:07:11.1944 (217.6312372)          			RenderJob
+08:07:11.1944 (217.6312372)          			WrapMouseJob
+08:07:11.1944 (217.6312372)          			ConfigureStats
+08:07:11.1944 (217.6322372)          		RobloxView::RobloxView - end
+08:08:46.31408 (312.2282188)          Auto-Saving...
+08:13:46.3728 (612.0763200)          Auto-Saving...
+08:17:12.13120 (818.6186907)          Auto-Saving...
+08:17:13.14120 (819.4877670)          		RobloxView::RobloxView - start
+08:17:13.14120 (819.4877670)          			UserInput
+08:17:13.14120 (819.5907803)          			Marshaller
+08:17:13.14120 (819.5907803)          			ProfilingSection
+08:17:13.14120 (819.5907803)          			BindToWorkspace
+08:17:14.15120 (819.7667908)          			RenderRequestJob
+08:17:14.15120 (819.7667908)          			RenderJob
+08:17:14.15120 (819.7667908)          			WrapMouseJob
+08:17:14.15120 (819.7667908)          			ConfigureStats
+08:17:14.15120 (819.7667908)          		RobloxView::RobloxView - end
+08:17:34.35120 (840.0754647)          Layout Set Buttons index=1, InsertSets=6
+08:20:15.65048 (1001.5903004)          		RobloxView::RobloxView - start
+08:20:15.65048 (1001.5903004)          			UserInput
+08:20:16.512 (1001.7012920)          			Marshaller
+08:20:16.512 (1001.7012920)          			ProfilingSection
+08:20:16.512 (1001.7022920)          			BindToWorkspace
+08:20:16.512 (1001.8542240)          			RenderRequestJob
+08:20:16.512 (1001.8542240)          			RenderJob
+08:20:16.512 (1001.8542240)          			WrapMouseJob
+08:20:16.512 (1001.8542240)          			ConfigureStats
+08:20:16.512 (1001.8542240)          		RobloxView::RobloxView - end
+08:22:51.24440 (1157.3277730)          Auto-Saving...
+08:22:52.25440 (1158.3462479)          		RobloxView::RobloxView - start
+08:22:52.25440 (1158.3462479)          			UserInput
+08:22:52.25440 (1158.6162657)          			Marshaller
+08:22:52.25440 (1158.6162657)          			ProfilingSection
+08:22:52.25440 (1158.6162657)          			BindToWorkspace
+08:22:53.26440 (1158.7622949)          			RenderRequestJob
+08:22:53.26440 (1158.7622949)          			RenderJob
+08:22:53.26440 (1158.7622949)          			WrapMouseJob
+08:22:53.26440 (1158.7622949)          			ConfigureStats
+08:22:53.26440 (1158.7632950)          		RobloxView::RobloxView - end
+08:23:20.53440 (1186.1563554)          Board unequipped
+08:23:20.53440 (1186.2203609)          		RobloxView::RobloxView - start
+08:23:20.53440 (1186.2203609)          			UserInput
+08:23:20.53440 (1186.3334601)          			Marshaller
+08:23:20.53440 (1186.3334601)          			ProfilingSection
+08:23:20.53440 (1186.3334601)          			BindToWorkspace
+08:23:20.53440 (1186.4672550)          			RenderRequestJob
+08:23:20.53440 (1186.4682476)          			RenderJob
+08:23:20.53440 (1186.4682476)          			WrapMouseJob
+08:23:20.53440 (1186.4682476)          			ConfigureStats
+08:23:20.53440 (1186.4682476)          		RobloxView::RobloxView - end
+08:23:46.13904 (1212.0530534)          Auto-Saving...
+08:24:09.36904 (1235.5130791)          Auto-Saving...
+08:24:10.37904 (1236.0851302)          		RobloxView::RobloxView - start
+08:24:10.37904 (1236.0851302)          			UserInput
+08:24:10.37904 (1236.5841780)          			Marshaller
+08:24:10.37904 (1236.5841780)          			ProfilingSection
+08:24:10.37904 (1236.5851781)          			BindToWorkspace
+08:24:11.38904 (1236.7551842)          			RenderRequestJob
+08:24:11.38904 (1236.7551842)          			RenderJob
+08:24:11.38904 (1236.7551842)          			WrapMouseJob
+08:24:11.38904 (1236.7551842)          			ConfigureStats
+08:24:11.38904 (1236.7551842)          		RobloxView::RobloxView - end
+08:24:39.1368 (1265.2657350)          Board unequipped
+08:24:39.1368 (1265.3147429)          		RobloxView::RobloxView - start
+08:24:39.1368 (1265.3157431)          			UserInput
+08:24:39.1368 (1265.3887191)          			Marshaller
+08:24:39.1368 (1265.3887191)          			ProfilingSection
+08:24:39.1368 (1265.3887191)          			BindToWorkspace
+08:24:39.1368 (1265.5147027)          			RenderRequestJob
+08:24:39.1368 (1265.5147027)          			RenderJob
+08:24:39.1368 (1265.5147027)          			WrapMouseJob
+08:24:39.1368 (1265.5147027)          			ConfigureStats
+08:24:39.1368 (1265.5167025)          		RobloxView::RobloxView - end
+08:26:28.44832 (1373.8883161)          Auto-Saving...
+08:26:29.45832 (1374.6763780)          		RobloxView::RobloxView - start
+08:26:29.45832 (1374.6773781)          			UserInput
+08:26:29.45832 (1374.8643858)          			Marshaller
+08:26:29.45832 (1374.8653854)          			ProfilingSection
+08:26:29.45832 (1374.8663850)          			BindToWorkspace
+08:26:29.45832 (1375.0194209)          			RenderRequestJob
+08:26:29.45832 (1375.0194209)          			RenderJob
+08:26:29.45832 (1375.0194209)          			WrapMouseJob
+08:26:29.45832 (1375.0194209)          			ConfigureStats
+08:26:29.45832 (1375.0204211)          		RobloxView::RobloxView - end
+08:26:31.47832 (1376.7940618)          Baseplate waiting for Teams
+08:26:39.55832 (1384.9196331)          Board unequipped
+08:26:39.55832 (1384.9836871)          		RobloxView::RobloxView - start
+08:26:39.55832 (1384.9836871)          			UserInput
+08:26:39.55832 (1385.0586400)          			Marshaller
+08:26:39.55832 (1385.0596398)          			ProfilingSection
+08:26:39.55832 (1385.0596398)          			BindToWorkspace
+08:26:39.55832 (1385.2216545)          			RenderRequestJob
+08:26:39.55832 (1385.2216545)          			RenderJob
+08:26:39.55832 (1385.2216545)          			WrapMouseJob
+08:26:39.55832 (1385.2216545)          			ConfigureStats
+08:26:39.55832 (1385.2226546)          		RobloxView::RobloxView - end
+08:27:24.35296 (1430.2627339)          Auto-Saving...
+08:27:25.36296 (1430.9828334)          		RobloxView::RobloxView - start
+08:27:25.36296 (1430.9828334)          			UserInput
+08:27:25.36296 (1431.0728411)          			Marshaller
+08:27:25.36296 (1431.0728411)          			ProfilingSection
+08:27:25.36296 (1431.0738412)          			BindToWorkspace
+08:27:25.36296 (1431.3018575)          			RenderRequestJob
+08:27:25.36296 (1431.3028576)          			RenderJob
+08:27:25.36296 (1431.3048577)          			WrapMouseJob
+08:27:25.36296 (1431.3048577)          			ConfigureStats
+08:27:25.36296 (1431.3048577)          		RobloxView::RobloxView - end
+08:27:37.48296 (1442.8816231)          		RobloxView::RobloxView - start
+08:27:37.48296 (1442.8826238)          			UserInput
+08:27:37.48296 (1442.9805128)          			Marshaller
+08:27:37.48296 (1442.9805128)          			ProfilingSection
+08:27:37.48296 (1442.9805128)          			BindToWorkspace
+08:27:37.48296 (1443.1295883)          			RenderRequestJob
+08:27:37.48296 (1443.1295883)          			RenderJob
+08:27:37.48296 (1443.1295883)          			WrapMouseJob
+08:27:37.48296 (1443.1295883)          			ConfigureStats
+08:27:37.48296 (1443.1295883)          		RobloxView::RobloxView - end
+08:28:46.51760 (1512.1194654)          Auto-Saving...
+08:30:15.9688 (1600.9453606)          Auto-Saving...
+08:30:16.10688 (1601.9995264)          		RobloxView::RobloxView - start
+08:30:16.10688 (1601.9995264)          			UserInput
+08:30:16.10688 (1602.2555397)          			Marshaller
+08:30:16.10688 (1602.2555397)          			ProfilingSection
+08:30:16.10688 (1602.2555397)          			BindToWorkspace
+08:30:16.10688 (1602.3959805)          			RenderRequestJob
+08:30:16.10688 (1602.3959805)          			RenderJob
+08:30:16.10688 (1602.3969832)          			WrapMouseJob
+08:30:16.10688 (1602.3969832)          			ConfigureStats
+08:30:16.10688 (1602.3969832)          		RobloxView::RobloxView - end
+08:30:18.12688 (1604.2387081)          count5
+08:30:58.52688 (1643.7400085)          		RobloxView::RobloxView - start
+08:30:58.52688 (1643.7400085)          			UserInput
+08:30:58.52688 (1643.8270120)          			Marshaller
+08:30:58.52688 (1643.8270120)          			ProfilingSection
+08:30:58.52688 (1643.8280121)          			BindToWorkspace
+08:30:58.52688 (1643.9657548)          			RenderRequestJob
+08:30:58.52688 (1643.9657548)          			RenderJob
+08:30:58.52688 (1643.9657548)          			WrapMouseJob
+08:30:58.52688 (1643.9657548)          			ConfigureStats
+08:30:58.52688 (1643.9667484)          		RobloxView::RobloxView - end
+08:33:46.24080 (1812.1777893)          Auto-Saving...
+08:38:46.61936 (2112.2231743)          Auto-Saving...
+08:43:46.34256 (2412.5000945)          Auto-Saving...
+08:48:46.6576 (2712.3367876)          Auto-Saving...
+08:53:46.44432 (3012.3978800)          Auto-Saving...
+08:58:46.16752 (3312.4450514)          Auto-Saving...
+09:03:46.54608 (3612.4937604)          Auto-Saving...
+09:08:46.26928 (3912.5488440)          Auto-Saving...
+09:11:24.53856 (4070.1173414)          Auto-Saving...
+09:12:57.15784 (4162.8418193)          RobloxMainWindow::handleFileOpen http://www.roblox.com//Game/edit.ashx?PlaceID=235264088&upload=235264088&testmode=false
+09:12:57.15784 (4162.8418193)          RobloxIDEDoc::open - start
+09:12:57.15784 (4162.9878569)          	Locking DataModel
+09:12:57.15784 (4163.1288268)          	Initializing Ogre
+09:12:57.15784 (4163.1288268)          	Initializing View
+09:12:57.15784 (4163.1458254)          	Initializing Explorer
+09:12:57.15784 (4163.3098769)          	Loading File : 
+09:12:57.15784 (4163.3589954)          	Loading Plugins
+09:12:58.16784 (4163.8088263)          	Open Success
+09:12:58.16784 (4163.8278608)          RobloxIDEDoc::open - end
+09:13:01.19784 (4166.7820840)          		RobloxView::RobloxView - start
+09:13:01.19784 (4166.7820840)          			UserInput
+09:13:04.22784 (4170.3559418)          			Marshaller
+09:13:04.22784 (4170.3559418)          			ProfilingSection
+09:13:04.22784 (4170.3559418)          			BindToWorkspace
+09:13:05.23784 (4170.5469494)          			RenderRequestJob
+09:13:05.23784 (4170.5469494)          			RenderJob
+09:13:05.23784 (4170.5469494)          			WrapMouseJob
+09:13:05.23784 (4170.5469494)          			ConfigureStats
+09:13:05.23784 (4170.5479491)          		RobloxView::RobloxView - end
+09:17:47.43640 (4452.8562061)          Auto-Saving...
+09:21:49.23496 (4695.4911507)          > Game.Workspace.Part.SelectionBox.Adornee = Game.Workspace.Part
+09:21:49.23496 (4695.4951224) Error:   SelectionBox is not a valid member of Part
+09:21:49.23496 (4695.4981012)          Script 'Game.Workspace.Part.SelectionBox.Adornee = Game.Workspace.P', Line 1
+09:21:49.23496 (4695.5007762)          Stack End
+09:22:47.15960 (4752.7192122)          Auto-Saving...
+09:23:06.34960 (4772.4867221)          > Game.Workspace.Blade.SelectionBox.Adornee = Game.Workspace.Blade
+09:23:39.2424 (4804.8434473)          > Game.Workspace.Blade.SelectionBox.Adornee = Game.Workspace.Blade
+09:23:53.16424 (4818.9136835)          > Game.Workspace.Blade.SelectionBox.Adornee = Game.Workspace.Blade
+09:24:24.47424 (4849.5820212)          > Game.Workspace.Part.SelectionBox.Adornee = Game.Workspace.Part
+09:24:24.47424 (4849.5860302) Error:   SelectionBox is not a valid member of Part
+09:24:24.47424 (4849.5880347)          Script 'Game.Workspace.Part.SelectionBox.Adornee = Game.Workspace.P', Line 1
+09:24:24.47424 (4849.5910415)          Stack End
+09:24:26.49424 (4851.8093905)          > Game.Workspace.Part.SelectionBox.Adornee = Game.Workspace.Part
+09:24:26.49424 (4851.8133721) Error:   SelectionBox is not a valid member of Part
+09:24:26.49424 (4851.8163582)          Script 'Game.Workspace.Part.SelectionBox.Adornee = Game.Workspace.P', Line 1
+09:24:26.49424 (4851.8183490)          Stack End
+09:24:30.53424 (4856.0250276)          > Game.Workspace.Blade.SelectionBox.Adornee = Game.Workspace.Blade
+09:27:47.53816 (5052.7767660)          Auto-Saving...
+09:32:47.26136 (5352.8308339)          Auto-Saving...
+09:37:47.63992 (5652.9861351)          Auto-Saving...
+09:42:47.36312 (5952.9546606)          Auto-Saving...
+09:44:45.23240 (6071.0616699)          Auto-Saving...
+09:44:46.24240 (6071.9436871)          		RobloxView::RobloxView - start
+09:44:46.24240 (6071.9436871)          			UserInput
+09:44:46.24240 (6072.1616732)          			Marshaller
+09:44:46.24240 (6072.1616732)          			ProfilingSection
+09:44:46.24240 (6072.1616732)          			BindToWorkspace
+09:44:46.24240 (6072.3057035)          			RenderRequestJob
+09:44:46.24240 (6072.3057035)          			RenderJob
+09:44:46.24240 (6072.3057035)          			WrapMouseJob
+09:44:46.24240 (6072.3057035)          			ConfigureStats
+09:44:46.24240 (6072.3067037)          		RobloxView::RobloxView - end
+09:44:58.36240 (6083.8021226)          		RobloxView::RobloxView - start
+09:44:58.36240 (6083.8021226)          			UserInput
+09:44:58.36240 (6083.8832640)          			Marshaller
+09:44:58.36240 (6083.8832640)          			ProfilingSection
+09:44:58.36240 (6083.8842629)          			BindToWorkspace
+09:44:58.36240 (6084.0173276)          			RenderRequestJob
+09:44:58.36240 (6084.0173276)          			RenderJob
+09:44:58.36240 (6084.0173276)          			WrapMouseJob
+09:44:58.36240 (6084.0173276)          			ConfigureStats
+09:44:58.36240 (6084.0173276)          		RobloxView::RobloxView - end
+09:45:52.24704 (6137.8428344)          Auto-Saving...
+09:45:53.25704 (6138.5938619)          		RobloxView::RobloxView - start
+09:45:53.25704 (6138.5948622)          			UserInput
+09:45:53.25704 (6138.6778528)          			Marshaller
+09:45:53.25704 (6138.6778528)          			ProfilingSection
+09:45:53.25704 (6138.6778528)          			BindToWorkspace
+09:45:53.25704 (6138.8376935)          			RenderRequestJob
+09:45:53.25704 (6138.8376935)          			RenderJob
+09:45:53.25704 (6138.8376935)          			WrapMouseJob
+09:45:53.25704 (6138.8376935)          			ConfigureStats
+09:45:53.25704 (6138.8376935)          		RobloxView::RobloxView - end
+09:46:00.32704 (6146.3933349)          		RobloxView::RobloxView - start
+09:46:00.32704 (6146.3933349)          			UserInput
+09:46:01.33704 (6146.5869861)          			Marshaller
+09:46:01.33704 (6146.5869861)          			ProfilingSection
+09:46:01.33704 (6146.5869861)          			BindToWorkspace
+09:46:01.33704 (6146.7849038)          			RenderRequestJob
+09:46:01.33704 (6146.7849038)          			RenderJob
+09:46:01.33704 (6146.7849038)          			WrapMouseJob
+09:46:01.33704 (6146.7849038)          			ConfigureStats
+09:46:01.33704 (6146.7859069)          		RobloxView::RobloxView - end
+09:46:16.48704 (6162.3866503)          Auto-Saving...
+09:46:17.49704 (6163.4269381)          		RobloxView::RobloxView - start
+09:46:17.49704 (6163.4269381)          			UserInput
+09:46:18.50704 (6163.5108140)          			Marshaller
+09:46:18.50704 (6163.5118191)          			ProfilingSection
+09:46:18.50704 (6163.5118191)          			BindToWorkspace
+09:46:18.50704 (6163.6658256)          			RenderRequestJob
+09:46:18.50704 (6163.6658256)          			RenderJob
+09:46:18.50704 (6163.6658256)          			WrapMouseJob
+09:46:18.50704 (6163.6658256)          			ConfigureStats
+09:46:18.50704 (6163.6668207)          		RobloxView::RobloxView - end
+09:46:28.60704 (6174.0845049)          		RobloxView::RobloxView - start
+09:46:28.60704 (6174.0845049)          			UserInput
+09:46:28.60704 (6174.2034645)          			Marshaller
+09:46:28.60704 (6174.2034645)          			ProfilingSection
+09:46:28.60704 (6174.2034645)          			BindToWorkspace
+09:46:28.60704 (6174.3424692)          			RenderRequestJob
+09:46:28.60704 (6174.3424692)          			RenderJob
+09:46:28.60704 (6174.3424692)          			WrapMouseJob
+09:46:28.60704 (6174.3424692)          			ConfigureStats
+09:46:28.60704 (6174.3424692)          		RobloxView::RobloxView - end
+09:46:34.1168 (6180.3863122)          Auto-Saving...
+09:46:35.2168 (6181.1030095)          		RobloxView::RobloxView - start
+09:46:35.2168 (6181.1040094)          			UserInput
+09:46:35.2168 (6181.2000817)          			Marshaller
+09:46:35.2168 (6181.2000817)          			ProfilingSection
+09:46:35.2168 (6181.2000817)          			BindToWorkspace
+09:46:35.2168 (6181.3460624)          			RenderRequestJob
+09:46:35.2168 (6181.3460624)          			RenderJob
+09:46:35.2168 (6181.3460624)          			WrapMouseJob
+09:46:35.2168 (6181.3460624)          			ConfigureStats
+09:46:35.2168 (6181.3470623)          		RobloxView::RobloxView - end
+09:46:42.9168 (6188.4535853)          		RobloxView::RobloxView - start
+09:46:42.9168 (6188.4535853)          			UserInput
+09:46:43.10168 (6188.5292032)          			Marshaller
+09:46:43.10168 (6188.5292032)          			ProfilingSection
+09:46:43.10168 (6188.5301982)          			BindToWorkspace
+09:46:43.10168 (6188.6568653)          			RenderRequestJob
+09:46:43.10168 (6188.6568653)          			RenderJob
+09:46:43.10168 (6188.6568653)          			WrapMouseJob
+09:46:43.10168 (6188.6568653)          			ConfigureStats
+09:46:43.10168 (6188.6578355)          		RobloxView::RobloxView - end
+09:47:23.50168 (6229.0264496)          Auto-Saving...
+09:47:24.51168 (6229.5716309)          		RobloxView::RobloxView - start
+09:47:24.51168 (6229.5726179)          			UserInput
+09:47:24.51168 (6229.6911705)          			Marshaller
+09:47:24.51168 (6229.6911705)          			ProfilingSection
+09:47:24.51168 (6229.6911705)          			BindToWorkspace
+09:47:24.51168 (6229.8681229)          			RenderRequestJob
+09:47:24.51168 (6229.8681229)          			RenderJob
+09:47:24.51168 (6229.8681229)          			WrapMouseJob
+09:47:24.51168 (6229.8681229)          			ConfigureStats
+09:47:24.51168 (6229.8681229)          		RobloxView::RobloxView - end
+09:47:32.59168 (6237.8676846)          		RobloxView::RobloxView - start
+09:47:32.59168 (6237.8676846)          			UserInput
+09:47:32.59168 (6237.9456235)          			Marshaller
+09:47:32.59168 (6237.9456235)          			ProfilingSection
+09:47:32.59168 (6237.9456235)          			BindToWorkspace
+09:47:32.59168 (6238.0925004)          			RenderRequestJob
+09:47:32.59168 (6238.0925004)          			RenderJob
+09:47:32.59168 (6238.0925004)          			WrapMouseJob
+09:47:32.59168 (6238.0925004)          			ConfigureStats
+09:47:32.59168 (6238.0934996)          		RobloxView::RobloxView - end
+09:47:47.8632 (6253.0271467)          Auto-Saving...
+09:48:11.32632 (6276.8710568)          Auto-Saving...
+09:48:12.33632 (6277.5281012)          		RobloxView::RobloxView - start
+09:48:12.33632 (6277.5281012)          			UserInput
+09:48:12.33632 (6277.5971044)          			Marshaller
+09:48:12.33632 (6277.5971044)          			ProfilingSection
+09:48:12.33632 (6277.5981044)          			BindToWorkspace
+09:48:12.33632 (6277.7491431)          			RenderRequestJob
+09:48:12.33632 (6277.7491431)          			RenderJob
+09:48:12.33632 (6277.7491431)          			WrapMouseJob
+09:48:12.33632 (6277.7491431)          			ConfigureStats
+09:48:12.33632 (6277.7491431)          		RobloxView::RobloxView - end
+09:48:17.38632 (6282.5848955)          		RobloxView::RobloxView - start
+09:48:17.38632 (6282.5848955)          			UserInput
+09:48:17.38632 (6282.6899033)          			Marshaller
+09:48:17.38632 (6282.6909034)          			ProfilingSection
+09:48:17.38632 (6282.6909034)          			BindToWorkspace
+09:48:17.38632 (6282.8369084)          			RenderRequestJob
+09:48:17.38632 (6282.8369084)          			RenderJob
+09:48:17.38632 (6282.8369084)          			WrapMouseJob
+09:48:17.38632 (6282.8369084)          			ConfigureStats
+09:48:17.38632 (6282.8379085)          		RobloxView::RobloxView - end
+09:48:28.49632 (6293.4821954)          Auto-Saving...
+09:48:29.50632 (6294.6402098)          		RobloxView::RobloxView - start
+09:48:29.50632 (6294.6402098)          			UserInput
+09:48:29.50632 (6294.7822308)          			Marshaller
+09:48:29.50632 (6294.7822308)          			ProfilingSection
+09:48:29.50632 (6294.7822308)          			BindToWorkspace
+09:48:29.50632 (6294.9772435)          			RenderRequestJob
+09:48:29.50632 (6294.9772435)          			RenderJob
+09:48:29.50632 (6294.9772435)          			WrapMouseJob
+09:48:29.50632 (6294.9772435)          			ConfigureStats
+09:48:29.50632 (6294.9772435)          		RobloxView::RobloxView - end
+09:48:38.59632 (6303.5089762)          		RobloxView::RobloxView - start
+09:48:38.59632 (6303.5089762)          			UserInput
+09:48:38.59632 (6303.6170438)          			Marshaller
+09:48:38.59632 (6303.6170438)          			ProfilingSection
+09:48:38.59632 (6303.6170438)          			BindToWorkspace
+09:48:38.59632 (6303.7540026)          			RenderRequestJob
+09:48:38.59632 (6303.7540026)          			RenderJob
+09:48:38.59632 (6303.7540026)          			WrapMouseJob
+09:48:38.59632 (6303.7540026)          			ConfigureStats
+09:48:38.59632 (6303.7540026)          		RobloxView::RobloxView - end
+09:48:53.9096 (6319.3164321)          Auto-Saving...
+09:48:54.10096 (6319.9630957)          		RobloxView::RobloxView - start
+09:48:54.10096 (6319.9630957)          			UserInput
+09:48:54.10096 (6320.0772845)          			Marshaller
+09:48:54.10096 (6320.0772845)          			ProfilingSection
+09:48:54.10096 (6320.0772845)          			BindToWorkspace
+09:48:54.10096 (6320.3002976)          			RenderRequestJob
+09:48:54.10096 (6320.3002976)          			RenderJob
+09:48:54.10096 (6320.3002976)          			WrapMouseJob
+09:48:54.10096 (6320.3002976)          			ConfigureStats
+09:48:54.10096 (6320.3002976)          		RobloxView::RobloxView - end
+09:49:01.17096 (6327.0287416)          		RobloxView::RobloxView - start
+09:49:01.17096 (6327.0297395)          			UserInput
+09:49:01.17096 (6327.1207880)          			Marshaller
+09:49:01.17096 (6327.1207880)          			ProfilingSection
+09:49:01.17096 (6327.1207880)          			BindToWorkspace
+09:49:01.17096 (6327.2767038)          			RenderRequestJob
+09:49:01.17096 (6327.2777003)          			RenderJob
+09:49:01.17096 (6327.2777003)          			WrapMouseJob
+09:49:01.17096 (6327.2777003)          			ConfigureStats
+09:49:01.17096 (6327.2777003)          		RobloxView::RobloxView - end
+09:49:26.42096 (6351.4728186)          Auto-Saving...
+09:49:26.42096 (6352.1548599)          		RobloxView::RobloxView - start
+09:49:26.42096 (6352.1548599)          			UserInput
+09:49:26.42096 (6352.2338802)          			Marshaller
+09:49:26.42096 (6352.2338802)          			ProfilingSection
+09:49:26.42096 (6352.2338802)          			BindToWorkspace
+09:49:27.43096 (6352.4777806)          			RenderRequestJob
+09:49:27.43096 (6352.4777806)          			RenderJob
+09:49:27.43096 (6352.4777806)          			WrapMouseJob
+09:49:27.43096 (6352.4777806)          			ConfigureStats
+09:49:27.43096 (6352.4787804)          		RobloxView::RobloxView - end
+09:49:37.53096 (6363.4462973)          		RobloxView::RobloxView - start
+09:49:37.53096 (6363.4472908)          			UserInput
+09:49:38.54096 (6363.5318879)          			Marshaller
+09:49:38.54096 (6363.5318879)          			ProfilingSection
+09:49:38.54096 (6363.5318879)          			BindToWorkspace
+09:49:38.54096 (6363.6731706)          			RenderRequestJob
+09:49:38.54096 (6363.6731706)          			RenderJob
+09:49:38.54096 (6363.6731706)          			WrapMouseJob
+09:49:38.54096 (6363.6731706)          			ConfigureStats
+09:49:38.54096 (6363.6731706)          		RobloxView::RobloxView - end
+09:50:05.15560 (6390.6570346)          Auto-Saving...
+09:50:05.15560 (6391.2328920)          		RobloxView::RobloxView - start
+09:50:05.15560 (6391.2338984)          			UserInput
+09:50:05.15560 (6391.3174373)          			Marshaller
+09:50:05.15560 (6391.3174373)          			ProfilingSection
+09:50:05.15560 (6391.3174373)          			BindToWorkspace
+09:50:06.16560 (6391.4780972)          			RenderRequestJob
+09:50:06.16560 (6391.4780972)          			RenderJob
+09:50:06.16560 (6391.4780972)          			WrapMouseJob
+09:50:06.16560 (6391.4780972)          			ConfigureStats
+09:50:06.16560 (6391.4780972)          		RobloxView::RobloxView - end
+09:50:13.23560 (6398.6569031)          		RobloxView::RobloxView - start
+09:50:13.23560 (6398.6579032)          			UserInput
+09:50:13.23560 (6398.7488095)          			Marshaller
+09:50:13.23560 (6398.7488095)          			ProfilingSection
+09:50:13.23560 (6398.7498088)          			BindToWorkspace
+09:50:13.23560 (6398.8869614)          			RenderRequestJob
+09:50:13.23560 (6398.8869614)          			RenderJob
+09:50:13.23560 (6398.8869614)          			WrapMouseJob
+09:50:13.23560 (6398.8869614)          			ConfigureStats
+09:50:13.23560 (6398.8869614)          		RobloxView::RobloxView - end
+09:52:47.46488 (6553.0795685)          Auto-Saving...
+09:57:47.18808 (6853.1275146)          Auto-Saving...
+10:01:19.34200 (7064.7434020)          Auto-Saving...
+10:01:20.35200 (7065.5596861)          		RobloxView::RobloxView - start
+10:01:20.35200 (7065.5596861)          			UserInput
+10:01:20.35200 (7065.6676984)          			Marshaller
+10:01:20.35200 (7065.6676984)          			ProfilingSection
+10:01:20.35200 (7065.6676984)          			BindToWorkspace
+10:01:20.35200 (7065.8247061)          			RenderRequestJob
+10:01:20.35200 (7065.8247061)          			RenderJob
+10:01:20.35200 (7065.8257061)          			WrapMouseJob
+10:01:20.35200 (7065.8257061)          			ConfigureStats
+10:01:20.35200 (7065.8257061)          		RobloxView::RobloxView - end
+10:01:25.40200 (7070.7305133)          		RobloxView::RobloxView - start
+10:01:25.40200 (7070.7315134)          			UserInput
+10:01:25.40200 (7070.8080940)          			Marshaller
+10:01:25.40200 (7070.8080940)          			ProfilingSection
+10:01:25.40200 (7070.8080940)          			BindToWorkspace
+10:01:25.40200 (7070.9403082)          			RenderRequestJob
+10:01:25.40200 (7070.9403082)          			RenderJob
+10:01:25.40200 (7070.9403082)          			WrapMouseJob
+10:01:25.40200 (7070.9403082)          			ConfigureStats
+10:01:25.40200 (7070.9403082)          		RobloxView::RobloxView - end
+10:02:05.14664 (7110.9899459)          Auto-Saving...
+10:02:06.15664 (7111.5124736)          		RobloxView::RobloxView - start
+10:02:06.15664 (7111.5124736)          			UserInput
+10:02:06.15664 (7111.5904815)          			Marshaller
+10:02:06.15664 (7111.5904815)          			ProfilingSection
+10:02:06.15664 (7111.5914816)          			BindToWorkspace
+10:02:06.15664 (7111.7382729)          			RenderRequestJob
+10:02:06.15664 (7111.7382729)          			RenderJob
+10:02:06.15664 (7111.7382729)          			WrapMouseJob
+10:02:06.15664 (7111.7382729)          			ConfigureStats
+10:02:06.15664 (7111.7382729)          		RobloxView::RobloxView - end
+10:02:23.32664 (7128.4491989)          		RobloxView::RobloxView - start
+10:02:23.32664 (7128.4491989)          			UserInput
+10:02:23.32664 (7128.5315376)          			Marshaller
+10:02:23.32664 (7128.5315376)          			ProfilingSection
+10:02:23.32664 (7128.5315376)          			BindToWorkspace
+10:02:23.32664 (7128.6647071)          			RenderRequestJob
+10:02:23.32664 (7128.6647071)          			RenderJob
+10:02:23.32664 (7128.6647071)          			WrapMouseJob
+10:02:23.32664 (7128.6647071)          			ConfigureStats
+10:02:23.32664 (7128.6657071)          		RobloxView::RobloxView - end
+10:02:47.56664 (7153.1772500)          Auto-Saving...
+10:04:34.32592 (7259.7804053)          Auto-Saving...
+10:04:35.33592 (7261.1075282)          		RobloxView::RobloxView - start
+10:04:35.33592 (7261.1075282)          			UserInput
+10:04:35.33592 (7261.2345164)          			Marshaller
+10:04:35.33592 (7261.2345164)          			ProfilingSection
+10:04:35.33592 (7261.2355163)          			BindToWorkspace
+10:04:36.34592 (7261.4835387)          			RenderRequestJob
+10:04:36.34592 (7261.4835387)          			RenderJob
+10:04:36.34592 (7261.4835387)          			WrapMouseJob
+10:04:36.34592 (7261.4835387)          			ConfigureStats
+10:04:36.34592 (7261.4835387)          		RobloxView::RobloxView - end
+10:04:38.36592 (7263.5982243) Error:   BladeTip is not a valid member of Script
+10:04:38.36592 (7263.6012246)          Script 'Workspace.Model.Script', Line 1
+10:04:38.36592 (7263.6032248)          Stack End
+10:04:42.40592 (7267.7439096)          		RobloxView::RobloxView - start
+10:04:42.40592 (7267.7449097)          			UserInput
+10:04:42.40592 (7267.8189079)          			Marshaller
+10:04:42.40592 (7267.8189079)          			ProfilingSection
+10:04:42.40592 (7267.8189079)          			BindToWorkspace
+10:04:42.40592 (7267.9539138)          			RenderRequestJob
+10:04:42.40592 (7267.9549138)          			RenderJob
+10:04:42.40592 (7267.9549138)          			WrapMouseJob
+10:04:42.40592 (7267.9549138)          			ConfigureStats
+10:04:42.40592 (7267.9559139)          		RobloxView::RobloxView - end
+10:04:55.53592 (7280.8423255)          Auto-Saving...
+10:04:56.54592 (7281.5693978)          		RobloxView::RobloxView - start
+10:04:56.54592 (7281.5693978)          			UserInput
+10:04:56.54592 (7281.6514086)          			Marshaller
+10:04:56.54592 (7281.6514086)          			ProfilingSection
+10:04:56.54592 (7281.6514086)          			BindToWorkspace
+10:04:56.54592 (7281.8514141)          			RenderRequestJob
+10:04:56.54592 (7281.8514141)          			RenderJob
+10:04:56.54592 (7281.8514141)          			WrapMouseJob
+10:04:56.54592 (7281.8514141)          			ConfigureStats
+10:04:56.54592 (7281.8514141)          		RobloxView::RobloxView - end
+10:05:11.4056 (7297.0466583)          		RobloxView::RobloxView - start
+10:05:11.4056 (7297.0466583)          			UserInput
+10:05:11.4056 (7297.1416493)          			Marshaller
+10:05:11.4056 (7297.1416493)          			ProfilingSection
+10:05:11.4056 (7297.1416493)          			BindToWorkspace
+10:05:11.4056 (7297.3126680)          			RenderRequestJob
+10:05:11.4056 (7297.3126680)          			RenderJob
+10:05:11.4056 (7297.3126680)          			WrapMouseJob
+10:05:11.4056 (7297.3136682)          			ConfigureStats
+10:05:11.4056 (7297.3146683)          		RobloxView::RobloxView - end
+10:07:47.28984 (7453.2322745)          Auto-Saving...
+10:12:47.1304 (7753.2913892)          Auto-Saving...
+10:16:41.38696 (7986.4759320) Error:   Image failed to load: 0: Unexpected URL
+10:17:47.39160 (8053.3419582)          Auto-Saving...
+10:19:41.22088 (8166.4392209)          Auto-Saving...
+10:19:41.22088 (8167.3407994)          		RobloxView::RobloxView - start
+10:19:41.22088 (8167.3417995)          			UserInput
+10:19:42.23088 (8167.4518061)          			Marshaller
+10:19:42.23088 (8167.4518061)          			ProfilingSection
+10:19:42.23088 (8167.4518061)          			BindToWorkspace
+10:19:42.23088 (8167.5898072)          			RenderRequestJob
+10:19:42.23088 (8167.5898072)          			RenderJob
+10:19:42.23088 (8167.5898072)          			WrapMouseJob
+10:19:42.23088 (8167.5898072)          			ConfigureStats
+10:19:42.23088 (8167.5908070)          		RobloxView::RobloxView - end
+10:20:02.43088 (8187.6462877)          		RobloxView::RobloxView - start
+10:20:02.43088 (8187.6462877)          			UserInput
+10:20:02.43088 (8187.7194016)          			Marshaller
+10:20:02.43088 (8187.7194016)          			ProfilingSection
+10:20:02.43088 (8187.7204023)          			BindToWorkspace
+10:20:02.43088 (8187.8552934)          			RenderRequestJob
+10:20:02.43088 (8187.8552934)          			RenderJob
+10:20:02.43088 (8187.8552934)          			WrapMouseJob
+10:20:02.43088 (8187.8552934)          			ConfigureStats
+10:20:02.43088 (8187.8562930)          		RobloxView::RobloxView - end
+10:20:36.11552 (8222.0615950)          Auto-Saving...
+10:20:37.12552 (8222.8876638)          		RobloxView::RobloxView - start
+10:20:37.12552 (8222.8876638)          			UserInput
+10:20:37.12552 (8222.9706761)          			Marshaller
+10:20:37.12552 (8222.9706761)          			ProfilingSection
+10:20:37.12552 (8222.9706761)          			BindToWorkspace
+10:20:37.12552 (8223.1256832)          			RenderRequestJob
+10:20:37.12552 (8223.1256832)          			RenderJob
+10:20:37.12552 (8223.1256832)          			WrapMouseJob
+10:20:37.12552 (8223.1256832)          			ConfigureStats
+10:20:37.12552 (8223.1256832)          		RobloxView::RobloxView - end
+10:20:39.14552 (8225.0020658) Error:   TR is not a valid member of Model
+10:20:39.14552 (8225.0040552)          Script 'Workspace.Energy Sword.Script', Line 4
+10:20:39.14552 (8225.0100234)          Stack End
+10:20:39.14552 (8225.0120128) Error:   TR is not a valid member of Model
+10:20:39.14552 (8225.0130075)          Script 'Workspace.Energy Sword.Blade.TR', Line 2
+10:20:39.14552 (8225.0159916)          Stack End
+10:20:39.14552 (8225.0229545) Error:   TR is not a valid member of Model
+10:20:39.14552 (8225.0259385)          Script 'Workspace.Energy Sword.BladeTip.TR', Line 2
+10:20:39.14552 (8225.0289226)          Stack End
+10:20:39.14552 (8225.0329014) Error:   TR is not a valid member of Model
+10:20:39.14552 (8225.0348908)          Script 'Workspace.Energy Sword.Blade.TR', Line 2
+10:20:39.14552 (8225.0368802)          Stack End
+10:20:39.14552 (8225.0388696) Error:   TR is not a valid member of Model
+10:20:39.14552 (8225.0408590)          Script 'Workspace.Energy Sword.Blade.TR', Line 2
+10:20:39.14552 (8225.0438431)          Stack End
+10:20:40.15552 (8225.4124188) Error:   TR is not a valid member of Model
+10:20:40.15552 (8225.4134191)          Script 'Workspace.Energy Sword.Blade.TR', Line 2
+10:20:40.15552 (8225.4184210)          Stack End
+10:21:11.46552 (8257.0319178)          		RobloxView::RobloxView - start
+10:21:11.46552 (8257.0319178)          			UserInput
+10:21:11.46552 (8257.1172929)          			Marshaller
+10:21:11.46552 (8257.1182984)          			ProfilingSection
+10:21:11.46552 (8257.1182984)          			BindToWorkspace
+10:21:11.46552 (8257.2564056)          			RenderRequestJob
+10:21:11.46552 (8257.2564056)          			RenderJob
+10:21:11.46552 (8257.2564056)          			WrapMouseJob
+10:21:11.46552 (8257.2574056)          			ConfigureStats
+10:21:11.46552 (8257.2574056)          		RobloxView::RobloxView - end
+10:22:48.12480 (8353.3970759)          Auto-Saving...
+10:23:43.1944 (8408.5417968)          Auto-Saving...
+10:23:45.3944 (8410.9265128)          		RobloxView::RobloxView - start
+10:23:45.3944 (8410.9265128)          			UserInput
+10:23:45.3944 (8411.1119609)          			Marshaller
+10:23:45.3944 (8411.1119609)          			ProfilingSection
+10:23:45.3944 (8411.1219878)          			BindToWorkspace
+10:23:45.3944 (8411.2705426)          			RenderRequestJob
+10:23:45.3944 (8411.2715426)          			RenderJob
+10:23:45.3944 (8411.2715426)          			WrapMouseJob
+10:23:45.3944 (8411.2715426)          			ConfigureStats
+10:23:45.3944 (8411.2715426)          		RobloxView::RobloxView - end
+10:23:48.6944 (8413.7917420) Error:   TR is not a valid member of Model
+10:23:48.6944 (8413.7937421)          Script 'Workspace.Energy Sword.Script', Line 4
+10:23:48.6944 (8413.7957422)          Stack End
+10:23:48.6944 (8414.2187731) Error:   TR is not a valid member of Model
+10:23:48.6944 (8414.2207731)          Script 'Workspace.Energy Sword.BladeTip.TR', Line 2
+10:23:48.6944 (8414.2237731)          Stack End
+10:23:48.6944 (8414.2527811) Error:   TR is not a valid member of Model
+10:23:48.6944 (8414.2547813)          Script 'Workspace.Energy Sword.Blade.TR', Line 2
+10:23:48.6944 (8414.2577815)          Stack End
+10:23:48.6944 (8414.2597817) Error:   TR is not a valid member of Model
+10:23:48.6944 (8414.2617819)          Script 'Workspace.Energy Sword.Blade.TR', Line 2
+10:23:48.6944 (8414.2637821)          Stack End
+10:23:48.6944 (8414.2657822) Error:   TR is not a valid member of Model
+10:23:48.6944 (8414.2677824)          Script 'Workspace.Energy Sword.Blade.TR', Line 2
+10:23:48.6944 (8414.2697826)          Stack End
+10:23:48.6944 (8414.2717827) Error:   TR is not a valid member of Model
+10:23:48.6944 (8414.2737829)          Script 'Workspace.Energy Sword.Blade.TR', Line 2
+10:23:48.6944 (8414.2757831)          Stack End
+10:24:23.41944 (8448.5571947)          		RobloxView::RobloxView - start
+10:24:23.41944 (8448.5571947)          			UserInput
+10:24:23.41944 (8448.6251691)          			Marshaller
+10:24:23.41944 (8448.6251691)          			ProfilingSection
+10:24:23.41944 (8448.6251691)          			BindToWorkspace
+10:24:23.41944 (8448.7732242)          			RenderRequestJob
+10:24:23.41944 (8448.7732242)          			RenderJob
+10:24:23.41944 (8448.7732242)          			WrapMouseJob
+10:24:23.41944 (8448.7732242)          			ConfigureStats
+10:24:23.41944 (8448.7742243)          		RobloxView::RobloxView - end
+10:24:59.12408 (8485.3031244)          Auto-Saving...
+10:25:01.14408 (8486.3675808)          		RobloxView::RobloxView - start
+10:25:01.14408 (8486.3685810)          			UserInput
+10:25:01.14408 (8486.4425825)          			Marshaller
+10:25:01.14408 (8486.4425825)          			ProfilingSection
+10:25:01.14408 (8486.4425825)          			BindToWorkspace
+10:25:01.14408 (8486.5926647)          			RenderRequestJob
+10:25:01.14408 (8486.5926647)          			RenderJob
+10:25:01.14408 (8486.5926647)          			WrapMouseJob
+10:25:01.14408 (8486.5926647)          			ConfigureStats
+10:25:01.14408 (8486.5936652)          		RobloxView::RobloxView - end
+10:25:03.16408 (8489.0242945) Error:   TR is not a valid member of Model
+10:25:03.16408 (8489.0262948)          Script 'Workspace.Energy Sword.Script', Line 4
+10:25:03.16408 (8489.0282952)          Stack End
+10:25:03.16408 (8489.0302955) Error:   TR is not a valid member of Model
+10:25:03.16408 (8489.0322959)          Script 'Workspace.Energy Sword.BladeTip.TR', Line 2
+10:25:03.16408 (8489.0342962)          Stack End
+10:25:04.17408 (8489.3683039) Error:   TR is not a valid member of Model
+10:25:04.17408 (8489.3703040)          Script 'Workspace.Energy Sword.Blade.TR', Line 2
+10:25:04.17408 (8489.3723042)          Stack End
+10:25:04.17408 (8489.3753044) Error:   TR is not a valid member of Model
+10:25:04.17408 (8489.3763045)          Script 'Workspace.Energy Sword.Blade.TR', Line 2
+10:25:04.17408 (8489.3793048)          Stack End
+10:25:04.17408 (8489.3813049) Error:   TR is not a valid member of Model
+10:25:04.17408 (8489.3833051)          Script 'Workspace.Energy Sword.Blade.TR', Line 2
+10:25:04.17408 (8489.3853052)          Stack End
+10:25:04.17408 (8489.3883055) Error:   TR is not a valid member of Model
+10:25:04.17408 (8489.3913057)          Script 'Workspace.Energy Sword.Blade.TR', Line 2
+10:25:04.17408 (8489.3923058)          Stack End
+10:27:08.10336 (8613.8199937)          		RobloxView::RobloxView - start
+10:27:08.10336 (8613.8199937)          			UserInput
+10:27:08.10336 (8613.9000108)          			Marshaller
+10:27:08.10336 (8613.9000108)          			ProfilingSection
+10:27:08.10336 (8613.9010109)          			BindToWorkspace
+10:27:08.10336 (8614.0835562)          			RenderRequestJob
+10:27:08.10336 (8614.0845594)          			RenderJob
+10:27:08.10336 (8614.0845594)          			WrapMouseJob
+10:27:08.10336 (8614.0845594)          			ConfigureStats
+10:27:08.10336 (8614.0845594)          		RobloxView::RobloxView - end
+10:27:48.50336 (8653.9044377)          Auto-Saving...
+10:28:35.31800 (8700.6272624)          Auto-Saving...
+10:28:35.31800 (8701.3103233)          		RobloxView::RobloxView - start
+10:28:35.31800 (8701.3103233)          			UserInput
+10:28:36.32800 (8701.3830893)          			Marshaller
+10:28:36.32800 (8701.3830893)          			ProfilingSection
+10:28:36.32800 (8701.3830893)          			BindToWorkspace
+10:28:36.32800 (8701.5713353)          			RenderRequestJob
+10:28:36.32800 (8701.5713353)          			RenderJob
+10:28:36.32800 (8701.5713353)          			WrapMouseJob
+10:28:36.32800 (8701.5713353)          			ConfigureStats
+10:28:36.32800 (8701.5713353)          		RobloxView::RobloxView - end
+10:28:38.34800 (8704.0765339) Error:   TR is not a valid member of Model
+10:28:38.34800 (8704.0785906)          Script 'Workspace.Energy Sword.Blade.TR', Line 2
+10:28:38.34800 (8704.0816755)          Stack End
+10:28:38.34800 (8704.0857888) Error:   TR is not a valid member of Model
+10:28:38.34800 (8704.0878454)          Script 'Workspace.Energy Sword.BladeTip.TR', Line 2
+10:28:38.34800 (8704.0940153)          Stack End
+10:28:39.35800 (8704.8341089) Error:   TR is not a valid member of Model
+10:28:39.35800 (8704.8401064)          Script 'Workspace.Energy Sword.Blade.TR', Line 2
+10:28:39.35800 (8704.8421056)          Stack End
+10:28:39.35800 (8704.8441047) Error:   TR is not a valid member of Model
+10:28:39.35800 (8704.8471034)          Script 'Workspace.Energy Sword.Blade.TR', Line 2
+10:28:39.35800 (8704.8491026)          Stack End
+10:28:39.35800 (8704.8511018) Error:   TR is not a valid member of Model
+10:28:39.35800 (8704.8531009)          Script 'Workspace.Energy Sword.Blade.TR', Line 2
+10:28:39.35800 (8704.8560996)          Stack End
+10:28:39.35800 (8704.8580988) Error:   TR is not a valid member of Model
+10:28:39.35800 (8704.8600979)          Script 'Workspace.Energy Sword.Script', Line 4
+10:28:39.35800 (8704.8620971)          Stack End
+10:28:42.38800 (8707.8392260)          		RobloxView::RobloxView - start
+10:28:42.38800 (8707.8392260)          			UserInput
+10:28:42.38800 (8707.9134733)          			Marshaller
+10:28:42.38800 (8707.9134733)          			ProfilingSection
+10:28:42.38800 (8707.9144632)          			BindToWorkspace
+10:28:42.38800 (8708.0683228)          			RenderRequestJob
+10:28:42.38800 (8708.0683228)          			RenderJob
+10:28:42.38800 (8708.0683228)          			WrapMouseJob
+10:28:42.38800 (8708.0683228)          			ConfigureStats
+10:28:42.38800 (8708.0713231)          		RobloxView::RobloxView - end
+10:28:51.47800 (8716.9308255)          Auto-Saving...
+10:28:52.48800 (8717.7728807)          		RobloxView::RobloxView - start
+10:28:52.48800 (8717.7728807)          			UserInput
+10:28:52.48800 (8717.8838999)          			Marshaller
+10:28:52.48800 (8717.8838999)          			ProfilingSection
+10:28:52.48800 (8717.8838999)          			BindToWorkspace
+10:28:52.48800 (8718.0309161)          			RenderRequestJob
+10:28:52.48800 (8718.0309161)          			RenderJob
+10:28:52.48800 (8718.0309161)          			WrapMouseJob
+10:28:52.48800 (8718.0309161)          			ConfigureStats
+10:28:52.48800 (8718.0309161)          		RobloxView::RobloxView - end
+10:28:54.50800 (8719.8825659) Error:   An error occurred
+10:28:54.50800 (8719.8845660)          Script 'loadfile("http://www.roblox.com/game/visit.ashx?IsPlaySolo=', Line 1
+10:28:54.50800 (8719.8865660)          Stack End
+10:28:57.53800 (8722.9157899)          Auto-Saving...
+10:29:19.10264 (8745.0523826)          RobloxMainWindow::closeEvent
+10:29:22.13264 (8747.8921464)          RobloxMainWindow::closeEvent

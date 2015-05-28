@@ -1,0 +1,11 @@
+26.05.2015 10:11:22.47376 (17.4227361)Log "Roblox TaskScheduler Thread 1"
+10:11:22.47376 (17.4237362)          Starting script
+10:11:22.47376 (17.6427591)          ! Joining game '815226a8-8e66-418f-ad45-df05c3305c1d' place 158304791 at 108.178.24.2
+10:11:23.48376 (18.6138544) Warning: Connecting to 108.178.24.2:59337
+10:11:24.49376 (19.9244856) Warning: Connection accepted from 108.178.24.2|59337
+
+10:11:24.49376 (20.0495039) Warning: ClassDescriptor failed to learn ThumbnailGenerator
+10:17:16.8160 (371.6211013) Error:   Players.zsoltisawesome.Backpack.HeatWave.Local Gui
+10:19:37.18088 (512.2644744) Error:   Players.zsoltisawesome.Backpack.HeatWave.Local Gui
+10:20:07.48088 (542.8715265) Error:   Players.zsoltisawesome.Backpack.HeatWave.Local Gui
+26.05.2015 10:24:49.2408 (825.1045998)End Log

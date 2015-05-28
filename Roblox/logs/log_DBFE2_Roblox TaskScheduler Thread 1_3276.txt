@@ -1,0 +1,5 @@
+26.05.2015 09:35:59.21528 (39.2933786)Log "Roblox TaskScheduler Thread 1"
+09:35:59.21528 (39.2933786) Error:   DataStore can't be accessed from client
+09:35:59.21528 (39.2943788)          Script 'Players.Guest 7294.PlayerGui.LocalScript', Line 3
+09:35:59.21528 (39.2943788)          Stack End
+26.05.2015 09:36:13.35528 (53.4187720)End Log

@@ -1,0 +1,5 @@
+27.05.2015 08:06:43.39480 (189.7053842)Log "rbx_BaseThreadPool"
+08:06:43.39480 (189.7053842) Warning: httpGet http://www.roblox.com/asset/?versionid=47214053&serverplaceid=95206881&clientinsert=0 failed. Trying again. Error: HTTP 403 (HTTP/1.1 403 Asset is not trusted for this place).  Elapsed time: 0.20396
+08:06:44.40480 (189.9153898) Warning: Content failed for http://www.roblox.com/Asset/?assetversionid=47214053&serverplaceid=95206881&clientinsert=0 because HTTP 403 (HTTP/1.1 403 Asset is not trusted for this place)
+08:06:44.40480 (189.9203902) Error:   Content failed because HTTP 403 (HTTP/1.1 403 Asset is not trusted for this place)
+27.05.2015 08:07:09.65480 (214.7593764)End Log

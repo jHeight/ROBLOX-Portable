@@ -1,0 +1,667 @@
+08:23:57:39.021:Creating resource group General
+08:23:57:39.023:Creating resource group Internal
+08:23:57:39.024:Creating resource group Autodetect
+08:23:57:39.025:SceneManagerFactory for type 'DefaultSceneManager' registered.
+08:23:57:39.027:Registering ResourceManager for type Material
+08:23:57:39.028:Registering ResourceManager for type Mesh
+08:23:57:39.028:Registering ResourceManager for type Skeleton
+08:23:57:39.029:MovableObjectFactory for type 'ParticleSystem' registered.
+08:23:57:39.031:OverlayElementFactory for type Panel registered.
+08:23:57:39.032:OverlayElementFactory for type BorderPanel registered.
+08:23:57:39.032:OverlayElementFactory for type TextArea registered.
+08:23:57:39.032:Registering ResourceManager for type Font
+08:23:57:39.032:ArchiveFactory for archive type FileSystem registered.
+08:23:57:39.032:ArchiveFactory for archive type Zip registered.
+08:23:57:39.032:DDS codec registering
+08:23:57:39.055:FreeImage version: 3.13.1
+08:23:57:39.055:This program uses FreeImage, a free, open source image library supporting all common bitmap formats. See http://freeimage.sourceforge.net for details
+08:23:57:39.056:Supported formats: bmp,ico,jpg,jif,jpeg,jpe,jng,koa,iff,lbm,mng,pbm,pbm,pcd,pcx,pgm,pgm,png,ppm,ppm,ras,tga,targa,tif,tiff,wap,wbmp,wbm,psd,cut,xbm,xpm,gif,hdr,g3,sgi,exr,j2k,j2c,jp2,pfm,pct,pict,pic,bay,bmq,cr2,crw,cs1,dc2,dcr,dng,erf,fff,hdr,k25,kdc,mdc,mos,mrw,nef,orf,pef,pxn,raf,raw,rdc,sr2,srf,arw,3fr,cine,ia,kc2,mef,nrw,qtk,rw2,sti,drf,dsc,ptx,cap,iiq,rwz
+08:23:57:39.056:Registering ResourceManager for type HighLevelGpuProgram
+08:23:57:39.056:Registering ResourceManager for type Compositor
+08:23:57:39.057:MovableObjectFactory for type 'Entity' registered.
+08:23:57:39.057:MovableObjectFactory for type 'Light' registered.
+08:23:57:39.058:MovableObjectFactory for type 'BillboardSet' registered.
+08:23:57:39.058:MovableObjectFactory for type 'ManualObject' registered.
+08:23:57:39.058:MovableObjectFactory for type 'BillboardChain' registered.
+08:23:57:39.058:MovableObjectFactory for type 'RibbonTrail' registered.
+08:23:57:39.058:*-*-* OGRE Initialising
+08:23:57:39.058:*-*-* Version 1.7.2 (Cthugha)
+08:23:57:39.058:SceneManagerFactory for type 'RbxSceneManager' registered.
+08:23:57:39.058:Loading library RenderSystem_Direct3D9.dll
+08:23:57:39.207:Installing plugin: D3D9 RenderSystem
+08:23:57:39.207:D3D9 : Direct3D9 Rendering Subsystem created.
+08:23:58:39.315:D3D9: Driver Detection Starts
+08:23:58:39.317:D3D9: Driver Detection Ends
+08:23:58:39.362:Plugin successfully installed
+08:23:58:39.362:Loading library Plugin_CgProgramManager.dll
+08:23:58:39.564:Installing plugin: Cg Program Manager
+08:23:58:39.605:Plugin successfully installed
+08:23:58:39.605:Loading library Plugin_ParticleFX.dll
+08:23:58:40.039:Installing plugin: ParticleFX
+08:23:58:40.039:Particle Emitter Type 'Point' registered
+08:23:58:40.039:Particle Emitter Type 'Box' registered
+08:23:58:40.039:Particle Emitter Type 'Ellipsoid' registered
+08:23:58:40.039:Particle Emitter Type 'Cylinder' registered
+08:23:58:40.039:Particle Emitter Type 'Ring' registered
+08:23:58:40.039:Particle Emitter Type 'HollowEllipsoid' registered
+08:23:58:40.039:Particle Affector Type 'LinearForce' registered
+08:23:58:40.039:Particle Affector Type 'ColourFader' registered
+08:23:58:40.039:Particle Affector Type 'ColourFader2' registered
+08:23:58:40.04:Particle Affector Type 'ColourImage' registered
+08:23:58:40.04:Particle Affector Type 'ColourInterpolator' registered
+08:23:58:40.04:Particle Affector Type 'Scaler' registered
+08:23:58:40.04:Particle Affector Type 'Rotator' registered
+08:23:58:40.04:Particle Affector Type 'DirectionRandomiser' registered
+08:23:58:40.04:Particle Affector Type 'DeflectorPlane' registered
+08:23:58:40.04:Plugin successfully installed
+08:23:58:40.04:NOTE forcing Floating-point mode to be Consistent
+08:23:58:40.04:D3D9 : RenderSystem Option: Resource Creation Policy = Create on active device
+08:23:58:40.04:CPU Identifier & Features
+08:23:58:40.04:-------------------------
+08:23:58:40.04: *   CPU ID: AuthenticAMD: AMD E1-6010 APU with AMD Radeon R2 Graphics
+08:23:58:40.04: *      SSE: yes
+08:23:58:40.041: *     SSE2: yes
+08:23:58:40.041: *     SSE3: yes
+08:23:58:40.041: *      MMX: yes
+08:23:58:40.041: *   MMXEXT: yes
+08:23:58:40.041: *    3DNOW: no
+08:23:58:40.041: * 3DNOWEXT: no
+08:23:58:40.041: *     CMOV: yes
+08:23:58:40.041: *      TSC: yes
+08:23:58:40.041: *      FPU: yes
+08:23:58:40.041: *      PRO: yes
+08:23:58:40.041: *       HT: no
+08:23:58:40.041:-------------------------
+08:23:58:40.042:D3D9 : Subsystem Initialising
+08:23:58:40.042:Registering ResourceManager for type Texture
+08:23:58:40.042:Registering ResourceManager for type GpuProgram
+08:23:58:40.042:***************************************
+08:23:58:40.042:*** D3D9 : Subsystem Initialised OK ***
+08:23:58:40.042:***************************************
+08:23:58:40.042:RBX device=Monitor-1-AMD Radeon(TM) R2 Graphics
+08:23:58:40.043:RBX vidMemSize=521834496
+08:23:58:40.043:D3D9RenderSystem::_createRenderWindow "win0", 100x100 windowed  miscParams: externalWindowHandle=67936 
+08:23:58:40.055:D3D9 : Created D3D9 Rendering Window 'win0' : 100x100, 32bpp
+08:23:58:40.055:D3D9 : WARNING - disabling VSync in windowed mode can cause timing issues at lower frame rates, turn VSync on if you observe this problem.
+08:23:58:40.153:D3D9: Vertex texture format supported - PF_L8
+08:23:58:40.153:D3D9: Vertex texture format supported - PF_L16
+08:23:58:40.153:D3D9: Vertex texture format supported - PF_A8
+08:23:58:40.153:D3D9: Vertex texture format supported - PF_A4L4
+08:23:58:40.153:D3D9: Vertex texture format supported - PF_BYTE_LA
+08:23:58:40.153:D3D9: Vertex texture format supported - PF_R5G6B5
+08:23:58:40.153:D3D9: Vertex texture format supported - PF_B5G6R5
+08:23:58:40.153:D3D9: Vertex texture format supported - PF_A4R4G4B4
+08:23:58:40.153:D3D9: Vertex texture format supported - PF_A1R5G5B5
+08:23:58:40.154:D3D9: Vertex texture format supported - PF_A8R8G8B8
+08:23:58:40.154:D3D9: Vertex texture format supported - PF_B8G8R8A8
+08:23:58:40.154:D3D9: Vertex texture format supported - PF_A2R10G10B10
+08:23:58:40.154:D3D9: Vertex texture format supported - PF_A2B10G10R10
+08:23:58:40.154:D3D9: Vertex texture format supported - PF_DXT1
+08:23:58:40.154:D3D9: Vertex texture format supported - PF_DXT2
+08:23:58:40.154:D3D9: Vertex texture format supported - PF_DXT3
+08:23:58:40.154:D3D9: Vertex texture format supported - PF_DXT4
+08:23:58:40.154:D3D9: Vertex texture format supported - PF_DXT5
+08:23:58:40.154:D3D9: Vertex texture format supported - PF_FLOAT16_RGB
+08:23:58:40.154:D3D9: Vertex texture format supported - PF_FLOAT16_RGBA
+08:23:58:40.154:D3D9: Vertex texture format supported - PF_FLOAT32_RGB
+08:23:58:40.154:D3D9: Vertex texture format supported - PF_FLOAT32_RGBA
+08:23:58:40.154:D3D9: Vertex texture format supported - PF_X8R8G8B8
+08:23:58:40.154:D3D9: Vertex texture format supported - PF_X8B8G8R8
+08:23:58:40.154:D3D9: Vertex texture format supported - PF_R8G8B8A8
+08:23:58:40.154:D3D9: Vertex texture format supported - PF_DEPTH
+08:23:58:40.155:D3D9: Vertex texture format supported - PF_SHORT_RGBA
+08:23:58:40.155:D3D9: Vertex texture format supported - PF_FLOAT16_R
+08:23:58:40.155:D3D9: Vertex texture format supported - PF_FLOAT32_R
+08:23:58:40.155:D3D9: Vertex texture format supported - PF_SHORT_GR
+08:23:58:40.155:D3D9: Vertex texture format supported - PF_FLOAT16_GR
+08:23:58:40.155:D3D9: Vertex texture format supported - PF_FLOAT32_GR
+08:23:58:40.155:D3D9: Vertex texture format supported - PF_SHORT_RGB
+08:23:58:40.155:D3D9: Vertex texture format supported - PF_PVRTC_RGB2
+08:23:58:40.155:D3D9: Vertex texture format supported - PF_PVRTC_RGBA2
+08:23:58:40.155:D3D9: Vertex texture format supported - PF_PVRTC_RGB4
+08:23:58:40.155:D3D9: Vertex texture format supported - PF_PVRTC_RGBA4
+08:23:58:40.155:RenderSystem capabilities
+08:23:58:40.155:-------------------------
+08:23:58:40.155:RenderSystem Name: Direct3D9 Rendering Subsystem
+08:23:58:40.155:GPU Vendor: ati
+08:23:58:40.155:Device Name: Monitor-1-AMD Radeon(TM) R2 Graphics
+08:23:58:40.156:Driver Version: 8.17.10.1267
+08:23:58:40.156: * Fixed function pipeline: yes
+08:23:58:40.156: * Hardware generation of mipmaps: yes
+08:23:58:40.156: * Texture blending: yes
+08:23:58:40.156: * Anisotropic texture filtering: yes
+08:23:58:40.156: * Dot product texture operation: yes
+08:23:58:40.156: * Cube mapping: yes
+08:23:58:40.156: * Hardware stencil buffer: yes
+08:23:58:40.156:   - Stencil depth: 8
+08:23:58:40.156:   - Two sided stencil support: yes
+08:23:58:40.156:   - Wrap stencil values: yes
+08:23:58:40.156: * Hardware vertex / index buffers: yes
+08:23:58:40.156: * Vertex programs: yes
+08:23:58:40.156: * Number of floating-point constants for vertex programs: 256
+08:23:58:40.156: * Number of integer constants for vertex programs: 16
+08:23:58:40.157: * Number of boolean constants for vertex programs: 16
+08:23:58:40.157: * Fragment programs: yes
+08:23:58:40.157: * Number of floating-point constants for fragment programs: 224
+08:23:58:40.157: * Number of integer constants for fragment programs: 16
+08:23:58:40.157: * Number of boolean constants for fragment programs: 16
+08:23:58:40.157: * Geometry programs: no
+08:23:58:40.157: * Number of floating-point constants for geometry programs: 0
+08:23:58:40.157: * Number of integer constants for geometry programs: 0
+08:23:58:40.157: * Number of boolean constants for geometry programs: 0
+08:23:58:40.157: * Supported Shader Profiles: hlsl ps_1_1 ps_1_2 ps_1_3 ps_1_4 ps_2_0 ps_2_a ps_2_b ps_2_x ps_3_0 vs_1_1 vs_2_0 vs_2_a vs_2_x vs_3_0
+08:23:58:40.157: * Texture Compression: yes
+08:23:58:40.157:   - DXT: yes
+08:23:58:40.157:   - VTC: no
+08:23:58:40.157:   - PVRTC: no
+08:23:58:40.157: * Scissor Rectangle: yes
+08:23:58:40.157: * Hardware Occlusion Query: yes
+08:23:58:40.157: * User clip planes: yes
+08:23:58:40.157: * VET_UBYTE4 vertex element type: yes
+08:23:58:40.158: * Infinite far plane projection: yes
+08:23:58:40.158: * Hardware render-to-texture: yes
+08:23:58:40.158: * Floating point textures: yes
+08:23:58:40.158: * Non-power-of-two textures: yes
+08:23:58:40.158: * Volume textures: yes
+08:23:58:40.158: * Multiple Render Targets: 4
+08:23:58:40.158:   - With different bit depths: yes
+08:23:58:40.158: * Point Sprites: yes
+08:23:58:40.158: * Extended point parameters: yes
+08:23:58:40.158: * Max Point Size: 10
+08:23:58:40.158: * Vertex texture fetch: yes
+08:23:58:40.158: * Number of world matrices: 0
+08:23:58:40.158: * Number of texture units: 8
+08:23:58:40.158: * Stencil buffer depth: 8
+08:23:58:40.158: * Number of vertex blend matrices: 0
+08:23:58:40.158:   - Max vertex textures: 4
+08:23:58:40.158:   - Vertex textures shared: no
+08:23:58:40.158: * Render to Vertex Buffer : no
+08:23:58:40.158: * DirectX per stage constants: yes
+08:23:58:40.159:DefaultWorkQueue('Root') initialising on thread main.
+08:23:58:40.159:Particle Renderer Type 'billboard' registered
+08:23:58:40.16:RBX maxVertexIndex=16777215
+08:23:58:40.16:RBX softwareVertexProcessing=false
+08:23:58:40.16:RBX textureSquareOnly=false
+08:23:58:40.16:RBX supportDepthBias=true
+08:23:58:40.161:RBX useLargeVertexBuffer=true
+08:23:58:40.161:Sync up log time - 40.16096040
+08:23:58:40.161:ArchiveFactory for archive type RbxArchive0 registered.
+08:23:59:40.247:Added resource location 'D:\ROBLOX~1\ROBLOX~2\VERSIO~1\content\' of type 'RbxArchive0' to resource group 'General' with recursive option
+08:23:59:40.247:Initialising resource group General
+08:23:59:40.247:Parsing scripts for resource group General
+08:23:59:40.658:Parsing script particles/explosionMat.material
+08:24:01:42.276:Parsing script particles/fireMat.material
+08:24:01:42.306:Parsing script particles/glow.material
+08:24:01:42.336:Parsing script particles/smokeMat.material
+08:24:01:42.366:Parsing script particles/sparklesMat.material
+08:24:01:42.398:Parsing script particles/explosion.particle
+08:24:01:42.442:Parsing script particles/fire.particle
+08:24:01:42.475:Parsing script particles/forceFieldBeam.particle
+08:24:01:42.513:Parsing script particles/forceFieldRadial.particle
+08:24:01:42.551:Parsing script particles/smoke.particle
+08:24:01:42.582:Parsing script particles/sparkles.particle
+08:24:01:42.617:Parsing script fonts/Arial-18pt.fontdef
+08:24:01:42.636:Parsing script fonts/Arial-48pt.fontdef
+08:24:01:42.653:Parsing script fonts/ArialBold-18pt.fontdef
+08:24:01:42.671:Parsing script fonts/ArialBold-48pt.fontdef
+08:24:01:42.688:Parsing script fonts/Legacy-18pt.fontdef
+08:24:01:42.709:Parsing script fonts/Legacy-64pt.fontdef
+08:24:01:42.726:Finished parsing scripts for resource group General
+08:24:01:42.726:Creating resource group Shaders
+08:24:01:42.785:Added resource location 'D:\ROBLOX~1\ROBLOX~2\VERSIO~1\content\../shaders' of type 'RbxArchive0' to resource group 'Shaders' with recursive option
+08:24:01:42.785:Initialising resource group Shaders
+08:24:01:42.785:Parsing scripts for resource group Shaders
+08:24:02:43.272:Parsing script materials/programs/glsl/glslcommon.program
+08:24:03:44.879:Parsing script materials/scripts/aluminum.material
+08:24:03:44.947:Unified program [AluminumVP] selecting delegate [AluminumVPCG] with profile [cg]
+08:24:03:44.947:Unified program [AluminumFP] selecting delegate [AluminumFPCG] with profile [cg]
+08:24:03:44.947:Unified program [AluminumVP_gbuffer] selecting delegate [AluminumVP_gbufferCG] with profile [cg]
+08:24:03:44.947:Unified program [AluminumFP_gbuffer] selecting delegate [AluminumFP_gbufferCG] with profile [cg]
+08:24:04:45.855:Parsing script materials/scripts/compound.material
+08:24:04:45.892:Unified program [ConcreteVP_gbuffer] selecting delegate [ConcreteVP_gbufferCG] with profile [cg]
+08:24:04:45.892:Unified program [ConcreteFP_gbuffer] selecting delegate [ConcreteFP_gbufferCG] with profile [cg]
+08:24:05:46.309:Parsing script materials/scripts/diamondPlate.material
+08:24:05:46.359:Unified program [DiamondPlateVP] selecting delegate [DiamondPlateVPCG] with profile [cg]
+08:24:05:46.359:Unified program [DiamondPlateFP] selecting delegate [DiamondPlateFPCG] with profile [cg]
+08:24:05:46.359:Unified program [DiamondPlateVP_gbuffer] selecting delegate [DiamondPlateVP_gbufferCG] with profile [cg]
+08:24:05:46.359:Unified program [DiamondPlateFP_gbuffer] selecting delegate [DiamondPlateFP_gbufferCG] with profile [cg]
+08:24:05:46.65:Parsing script materials/scripts/grass.material
+08:24:05:46.696:Unified program [mainVP] selecting delegate [mainVPCG] with profile [cg]
+08:24:05:46.696:Unified program [mainFP] selecting delegate [mainFPCG] with profile [cg]
+08:24:05:46.696:Unified program [mainVP_gbuffer] selecting delegate [mainVP_gbufferCG] with profile [cg]
+08:24:05:46.697:Unified program [mainFP_gbuffer] selecting delegate [mainFP_gbufferCG] with profile [cg]
+08:24:05:47.021:Parsing script materials/scripts/ice.material
+08:24:05:47.072:Unified program [IceVP] selecting delegate [IceVPCG] with profile [cg]
+08:24:05:47.072:Unified program [IceFP] selecting delegate [IceFPCG] with profile [cg]
+08:24:05:47.072:Unified program [IceVP_gbuffer] selecting delegate [IceVP_gbufferCG] with profile [cg]
+08:24:05:47.072:Unified program [IceFP_gbuffer] selecting delegate [IceFP_gbufferCG] with profile [cg]
+08:24:06:47.469:Parsing script materials/scripts/megacluster.material
+08:24:06:47.509:Parsing script materials/scripts/plastic.material
+08:24:06:47.575:Unified program [PlasticVP_med] selecting delegate [PlasticVP_medCG] with profile [cg]
+08:24:06:47.575:Unified program [PlasticFP_med] selecting delegate [PlasticFP_medCG] with profile [cg]
+08:24:06:47.575:Unified program [PlasticVP_gbuffer_med] selecting delegate [PlasticVP_gbuffer_medCG] with profile [cg]
+08:24:06:47.575:Unified program [PlasticFP_gbuffer_med] selecting delegate [PlasticFP_gbuffer_medCG] with profile [cg]
+08:24:06:47.575:Unified program [PlasticVP_high] selecting delegate [PlasticVP_highCG] with profile [cg]
+08:24:06:47.575:Unified program [PlasticFP_high] selecting delegate [PlasticFP_highCG] with profile [cg]
+08:24:06:47.576:Unified program [PlasticVP_high_gbuffer] selecting delegate [PlasticVP_high_gbufferCG] with profile [cg]
+08:24:06:47.576:Unified program [PlasticFP_high_gbuffer] selecting delegate [PlasticFP_high_gbufferCG] with profile [cg]
+08:24:07:48.265:Parsing script materials/scripts/rustMetal.material
+08:24:07:48.313:Unified program [RustVP] selecting delegate [RustVPCG] with profile [cg]
+08:24:07:48.313:Unified program [RustFP] selecting delegate [RustFPCG] with profile [cg]
+08:24:07:48.313:Unified program [RustVP_gbuffer] selecting delegate [RustVP_gbufferCG] with profile [cg]
+08:24:07:48.313:Unified program [RustFP_gbuffer] selecting delegate [RustFP_gbufferCG] with profile [cg]
+08:24:07:48.656:Parsing script materials/scripts/slate.material
+08:24:07:48.696:Unified program [SlateVP] selecting delegate [SlateVPCG] with profile [cg]
+08:24:07:48.696:Unified program [SlateFP] selecting delegate [SlateFPCG] with profile [cg]
+08:24:07:48.696:Unified program [SlateVP_gbuffer] selecting delegate [SlateVP_gbufferCG] with profile [cg]
+08:24:07:48.696:Unified program [SlateFP_gbuffer] selecting delegate [SlateFP_gbufferCG] with profile [cg]
+08:24:07:49.012:Parsing script materials/scripts/ssao.material
+08:24:08:49.314:Parsing script materials/scripts/wood.material
+08:24:08:49.379:Unified program [WoodVP] selecting delegate [WoodVPCG] with profile [cg]
+08:24:08:49.379:Unified program [WoodFP] selecting delegate [WoodFPCG] with profile [cg]
+08:24:08:49.379:Unified program [WoodVP_gbuffer] selecting delegate [WoodVP_gbufferCG] with profile [cg]
+08:24:08:49.379:Unified program [WoodFP_gbuffer] selecting delegate [WoodFP_gbufferCG] with profile [cg]
+08:24:08:49.795:Parsing script materials/scripts/ssao.compositor
+08:24:08:49.842:Finished parsing scripts for resource group Shaders
+08:24:08:49.842:Creating resource group Generated
+08:24:08:49.842:Initialising resource group Generated
+08:24:08:49.842:Parsing scripts for resource group Generated
+08:24:08:49.843:Finished parsing scripts for resource group Generated
+08:24:08:49.843:Parsing scripts for resource group Autodetect
+08:24:08:49.843:Finished parsing scripts for resource group Autodetect
+08:24:08:49.843:Parsing scripts for resource group Internal
+08:24:08:49.843:Finished parsing scripts for resource group Internal
+08:24:08:50.032:Texture: fonts/Legacy-18pt.png: Loading 1 faces(PF_A8R8G8B8,512x512x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,512x512x1.
+08:24:08:50.105:Texture: fonts/Legacy-64pt.png: Loading 1 faces(PF_A8R8G8B8,1024x1024x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,1024x1024x1.
+08:24:08:50.145:Texture: fonts/Arial-18pt.png: Loading 1 faces(PF_A8R8G8B8,512x512x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,512x512x1.
+08:24:09:50.238:Texture: fonts/Arial-48pt.png: Loading 1 faces(PF_A8R8G8B8,1024x1024x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,1024x1024x1.
+08:24:09:50.275:Texture: fonts/ArialBold-18pt.png: Loading 1 faces(PF_A8R8G8B8,512x512x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,512x512x1.
+08:24:09:50.34:Texture: fonts/ArialBold-48pt.png: Loading 1 faces(PF_A8R8G8B8,1024x1024x1) with 0 generated mipmaps from Image. Internal format is PF_A8R8G8B8,1024x1024x1.
+08:24:09:50.35:RBX useLargeVertexBufferOverride:
+08:24:09:50.35:RBX useLargeVertexBuffer=false
+08:24:09:50.35:Supported GPU program syntax: 
+08:24:09:50.351:hlsl
+08:24:09:50.351:ps_1_1
+08:24:09:50.351:ps_1_2
+08:24:09:50.351:ps_1_3
+08:24:09:50.351:ps_1_4
+08:24:09:50.351:ps_2_0
+08:24:09:50.351:ps_2_a
+08:24:09:50.352:ps_2_b
+08:24:09:50.352:ps_2_x
+08:24:09:50.352:ps_3_0
+08:24:09:50.352:vs_1_1
+08:24:09:50.352:vs_2_0
+08:24:09:50.352:vs_2_a
+08:24:09:50.353:vs_2_x
+08:24:09:50.353:vs_3_0
+08:24:09:50.369:Texture: textures/SurfacesAlpha.png: Loading 1 faces(PF_A8R8G8B8,64x640x1) with 9 generated mipmaps from Image. Internal format is PF_A8R8G8B8,64x640x1.
+08:24:10:52.115:D3D9 : Loading 3D Texture, image name : 'textures/noiseL8_32x32x32.dds' with 2147483647 mip map levels
+08:24:10:52.116:D3D9 : Loading 2D Texture, image name : 'textures/HorizLines_normal.dds' with 2147483647 mip map levels
+08:24:10:52.177:Texture: textures/WoodFallback.png: Loading 1 faces(PF_L8,1024x1024x1) with  hardware generated mipmaps from Image. Internal format is PF_L8,1024x1024x1.
+08:24:10:52.183:Texture: textures/surfacesAlpha.png: Loading 1 faces(PF_A8R8G8B8,64x640x1) with 9 generated mipmaps from Image. Internal format is PF_A8R8G8B8,64x640x1.
+08:24:11:52.307:Texture: textures/RustGradient.png: Loading 1 faces(PF_A8R8G8B8,256x256x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x256x1.
+08:24:11:52.314:D3D9 : Loading 2D Texture, image name : 'textures/Sand_Normal.dds' with 2147483647 mip map levels
+08:24:11:52.403:D3D9 : Loading 3D Texture, image name : 'textures/vol_ice_cracked2.dds' with 2147483647 mip map levels
+08:24:11:52.433:Texture: textures/SlateTile.png: Loading 1 faces(PF_R8G8B8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
+08:24:11:52.571:D3D9 : Loading 2D Texture, image name : 'textures/DPlate_Normal.dds' with 2147483647 mip map levels
+08:24:11:52.643:D3D9 : Loading 2D Texture, image name : 'textures/Crinkled_Normal.dds' with 2147483647 mip map levels
+08:24:11:52.647:D3D9 : Loading Cube Texture, base image name : 'textures/penv.dds' with 2147483647 mip map levels
+08:24:11:52.802:Texture: textures/Grass_Texture.jpg: Loading 1 faces(PF_R8G8B8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
+08:24:11:52.868:Texture: textures/dirt.jpg: Loading 1 faces(PF_R8G8B8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
+08:24:11:52.891:D3D9 : Loading 2D Texture, image name : 'textures/Grass_Normal.dds' with 2147483647 mip map levels
+08:24:11:52.938:Texture: textures/Grass_Texture_gray.jpg: Loading 1 faces(PF_L8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_L8,512x512x1.
+08:24:11:52.989:Texture: textures/ConcreteFallback.png: Loading 1 faces(PF_A8R8G8B8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,512x512x1.
+08:24:18:59.731:Material rbxskyboxsm0 was requested with isManual=true, but this is not applicable for materials; the flag has been reset to false
+08:24:18:59.747:Texture: Sky/moon.jpg: Loading 1 faces(PF_R8G8B8,128x128x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+08:24:18:59.76:Texture: Sky/sun.jpg: Loading 1 faces(PF_R8G8B8,128x128x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+08:24:18:59.772:Texture: Sky/sun-rays.jpg: Loading 1 faces(PF_R8G8B8,128x128x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+08:24:18:59.806:Texture: rbxasset://Sky/null_plainsky512_rt.jpg: Loading 1 faces(PF_R8G8B8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
+08:24:18:59.853:Texture: rbxasset://Sky/null_plainsky512_lf.jpg: Loading 1 faces(PF_R8G8B8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
+08:24:18:59.899:Texture: rbxasset://Sky/null_plainsky512_bk.jpg: Loading 1 faces(PF_R8G8B8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
+08:24:18:59.946:Texture: rbxasset://Sky/null_plainsky512_ft.jpg: Loading 1 faces(PF_R8G8B8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
+08:24:18:60.008:Texture: rbxasset://Sky/null_plainsky512_up.jpg: Loading 1 faces(PF_R8G8B8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
+08:24:18:60.054:Texture: rbxasset://Sky/null_plainsky512_dn.jpg: Loading 1 faces(PF_R8G8B8,512x512x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,512x512x1.
+08:24:18:60.074:Ogre: created lightrbxlight0
+08:24:18:60.075:D3D9 device: 0x[0A03B000] lost. Releasing D3D9 texture: reusableRTT1024x512
+08:24:18:60.075:Released D3D9 texture: reusableRTT1024x512
+08:24:18:60.075:D3D9 Device 0x[0A03B000] entered lost state
+08:24:18:60.075:D3D9 : WARNING - disabling VSync in windowed mode can cause timing issues at lower frame rates, turn VSync on if you observe this problem.
+08:24:18:60.101:!!! Direct3D Device successfully restored.
+08:24:18:60.101:D3D9 device: 0x[0A03B000] was reset
+08:24:18:60.111:Texture: spot_shadow_fade.png: Loading 1 faces(PF_R8G8B8,128x128x1) with  hardware generated mipmaps from Image. Internal format is PF_X8R8G8B8,128x128x1.
+08:24:20:61.434:Texture: rbxasset://textures/ui/BuildToolsFrame.png: Loading 1 faces(PF_A8R8G8B8,88x351x1) with 8 generated mipmaps from Image. Internal format is PF_A8R8G8B8,88x351x1.
+08:24:21:62.342:Texture: rbxasset://textures/Exit.png: Loading 1 faces(PF_A8R8G8B8,70x51x1) with 6 generated mipmaps from Image. Internal format is PF_A8R8G8B8,70x51x1.
+08:24:21:62.35:Texture: rbxasset://textures/TogglePlayMode_ds.png: Loading 1 faces(PF_A8R8G8B8,39x39x1) with 5 generated mipmaps from Image. Internal format is PF_A8R8G8B8,39x39x1.
+08:24:21:62.352:Texture: rbxasset://textures/ui/ToolButton_ds.png: Loading 1 faces(PF_A8R8G8B8,39x39x1) with 5 generated mipmaps from Image. Internal format is PF_A8R8G8B8,39x39x1.
+08:24:21:62.355:Texture: rbxasset://textures/ToggleFullScreen.png: Loading 1 faces(PF_A8R8G8B8,30x51x1) with 5 generated mipmaps from Image. Internal format is PF_A8R8G8B8,30x51x1.
+08:24:21:62.357:Texture: rbxasset://textures/ReportAbuse_ds.png: Loading 1 faces(PF_A8R8G8B8,39x39x1) with 5 generated mipmaps from Image. Internal format is PF_A8R8G8B8,39x39x1.
+08:24:21:62.359:Texture: rbxasset://textures/CameraZoomIn.png: Loading 1 faces(PF_A8R8G8B8,22x22x1) with 4 generated mipmaps from Image. Internal format is PF_A8R8G8B8,22x22x1.
+08:24:21:62.362:Texture: rbxasset://textures/CameraZoomOut.png: Loading 1 faces(PF_A8R8G8B8,22x22x1) with 4 generated mipmaps from Image. Internal format is PF_A8R8G8B8,22x22x1.
+08:24:21:62.364:Texture: rbxasset://textures/CameraTiltUp.png: Loading 1 faces(PF_A8R8G8B8,22x22x1) with 4 generated mipmaps from Image. Internal format is PF_A8R8G8B8,22x22x1.
+08:24:21:62.365:Texture: rbxasset://textures/CameraTiltDown.png: Loading 1 faces(PF_A8R8G8B8,22x22x1) with 4 generated mipmaps from Image. Internal format is PF_A8R8G8B8,22x22x1.
+08:24:21:62.366:Texture: rbxasset://textures/Screenshot.png: Loading 1 faces(PF_A8R8G8B8,31x31x1) with 4 generated mipmaps from Image. Internal format is PF_A8R8G8B8,31x31x1.
+08:24:21:62.368:Texture: rbxasset://textures/RecordToggle.png: Loading 1 faces(PF_A8R8G8B8,31x31x1) with 4 generated mipmaps from Image. Internal format is PF_A8R8G8B8,31x31x1.
+08:24:21:62.376:Texture: rbxasset://textures/Help.png: Loading 1 faces(PF_A8R8G8B8,45x51x1) with 5 generated mipmaps from Image. Internal format is PF_A8R8G8B8,45x51x1.
+08:24:21:62.778:D3D9 device: 0x[0A03B000] lost. Releasing D3D9 texture: reusableRTT1024x512
+08:24:21:62.778:Released D3D9 texture: reusableRTT1024x512
+08:24:21:62.778:D3D9 Device 0x[0A03B000] entered lost state
+08:24:21:62.778:D3D9 : WARNING - disabling VSync in windowed mode can cause timing issues at lower frame rates, turn VSync on if you observe this problem.
+08:24:21:62.794:!!! Direct3D Device successfully restored.
+08:24:21:62.795:D3D9 device: 0x[0A03B000] was reset
+08:24:24:65.677:Texture: rbxasset://textures/TogglePlayMode.png: Loading 1 faces(PF_A8R8G8B8,41x41x1) with 5 generated mipmaps from Image. Internal format is PF_A8R8G8B8,41x41x1.
+08:25:12:113.38:Texture: rbxasset://Textures/ArrowCursor.png: Loading 1 faces(PF_A8R8G8B8,80x80x1) with 6 generated mipmaps from Image. Internal format is PF_A8R8G8B8,80x80x1.
+08:25:18:119.87:Texture: rbxasset://textures/blackBkg_round_slice1.png: Loading 1 faces(PF_A8R8G8B8,8x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x8x1.
+08:25:18:119.87:Texture: rbxasset://textures/blackBkg_round_slice2.png: Loading 1 faces(PF_A8R8G8B8,1x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,1x8x1.
+08:25:18:119.87:Texture: rbxasset://textures/blackBkg_round_slice3.png: Loading 1 faces(PF_A8R8G8B8,8x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x8x1.
+08:25:18:119.87:Texture: rbxasset://textures/blackBkg_round_slice4.png: Loading 1 faces(PF_A8R8G8B8,8x1x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x1x1.
+08:25:18:119.87:Texture: rbxasset://textures/blackBkg_round_slice5.png: Loading 1 faces(PF_A8R8G8B8,8x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x8x1.
+08:25:18:119.87:Texture: rbxasset://textures/blackBkg_round_slice6.png: Loading 1 faces(PF_A8R8G8B8,8x1x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x1x1.
+08:25:18:119.87:Texture: http://www.roblox.com/asset/?id=54479709: Loading 1 faces(PF_A8R8G8B8,256x256x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x256x1.
+08:25:18:119.88:Texture: http://www.roblox.com/asset/?id=54479720: Loading 1 faces(PF_A8R8G8B8,256x256x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x256x1.
+08:25:18:119.93:Texture: rbxasset://textures/blackBkg_round_slice7.png: Loading 1 faces(PF_A8R8G8B8,8x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x8x1.
+08:25:18:119.93:Texture: rbxasset://textures/blackBkg_round_slice8.png: Loading 1 faces(PF_A8R8G8B8,1x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,1x8x1.
+08:25:18:119.93:Texture: rbxasset://textures/blackBkg_round_slice9.png: Loading 1 faces(PF_A8R8G8B8,8x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x8x1.
+08:25:18:119.93:Texture: rbxasset://textures/ui/btn_grey_slice1.png: Loading 1 faces(PF_A8R8G8B8,8x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x8x1.
+08:25:18:119.93:Texture: rbxasset://textures/ui/btn_grey_slice2.png: Loading 1 faces(PF_A8R8G8B8,1x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,1x8x1.
+08:25:18:119.93:Texture: rbxasset://textures/ui/btn_grey_slice3.png: Loading 1 faces(PF_A8R8G8B8,8x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x8x1.
+08:25:18:119.93:Texture: rbxasset://textures/ui/btn_grey_slice4.png: Loading 1 faces(PF_A8R8G8B8,8x1x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x1x1.
+08:25:18:119.93:Texture: rbxasset://textures/ui/btn_grey_slice5.png: Loading 1 faces(PF_A8R8G8B8,8x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x8x1.
+08:25:18:119.93:Texture: rbxasset://textures/ui/btn_grey_slice6.png: Loading 1 faces(PF_A8R8G8B8,8x1x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x1x1.
+08:25:18:119.93:Texture: rbxasset://textures/ui/btn_grey_slice7.png: Loading 1 faces(PF_A8R8G8B8,8x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x8x1.
+08:25:18:119.93:Texture: rbxasset://textures/ui/btn_grey_slice8.png: Loading 1 faces(PF_A8R8G8B8,1x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,1x8x1.
+08:25:18:119.93:Texture: rbxasset://textures/ui/btn_grey_slice9.png: Loading 1 faces(PF_A8R8G8B8,8x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x8x1.
+08:25:18:120.12:Texture: http://www.roblox.com/asset/?id=54479706: Loading 1 faces(PF_A8R8G8B8,256x256x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x256x1.
+08:25:19:120.8:Texture: rbxasset://textures/ui/btn_white_slice1.png: Loading 1 faces(PF_A8R8G8B8,8x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x8x1.
+08:25:19:120.8:Texture: rbxasset://textures/ui/btn_white_slice2.png: Loading 1 faces(PF_A8R8G8B8,1x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,1x8x1.
+08:25:19:120.86:Texture: rbxasset://textures/ui/btn_white_slice3.png: Loading 1 faces(PF_A8R8G8B8,8x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x8x1.
+08:25:19:120.86:Texture: rbxasset://textures/ui/btn_white_slice4.png: Loading 1 faces(PF_A8R8G8B8,8x1x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x1x1.
+08:25:19:120.86:Texture: rbxasset://textures/ui/btn_white_slice5.png: Loading 1 faces(PF_A8R8G8B8,8x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x8x1.
+08:25:19:120.86:Texture: rbxasset://textures/ui/btn_white_slice6.png: Loading 1 faces(PF_A8R8G8B8,8x1x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x1x1.
+08:25:19:120.86:Texture: rbxasset://textures/ui/btn_white_slice7.png: Loading 1 faces(PF_A8R8G8B8,8x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x8x1.
+08:25:19:120.86:Texture: rbxasset://textures/ui/btn_white_slice8.png: Loading 1 faces(PF_A8R8G8B8,1x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,1x8x1.
+08:25:19:120.86:Texture: rbxasset://textures/ui/btn_white_slice9.png: Loading 1 faces(PF_A8R8G8B8,8x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x8x1.
+08:25:20:121.7:Texture: rbxasset://textures/ui/btn_red_slice1.png: Loading 1 faces(PF_A8R8G8B8,8x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x8x1.
+08:25:20:121.77:Texture: rbxasset://textures/ui/btn_red_slice2.png: Loading 1 faces(PF_A8R8G8B8,1x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,1x8x1.
+08:25:20:121.77:Texture: rbxasset://textures/ui/btn_red_slice3.png: Loading 1 faces(PF_A8R8G8B8,8x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x8x1.
+08:25:20:121.77:Texture: rbxasset://textures/ui/btn_red_slice4.png: Loading 1 faces(PF_A8R8G8B8,8x1x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x1x1.
+08:25:20:121.77:Texture: rbxasset://textures/ui/btn_red_slice5.png: Loading 1 faces(PF_A8R8G8B8,8x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x8x1.
+08:25:20:121.77:Texture: rbxasset://textures/ui/btn_red_slice6.png: Loading 1 faces(PF_A8R8G8B8,8x1x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x1x1.
+08:25:20:121.77:Texture: rbxasset://textures/ui/btn_red_slice7.png: Loading 1 faces(PF_A8R8G8B8,8x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x8x1.
+08:25:20:121.78:Texture: rbxasset://textures/ui/btn_red_slice8.png: Loading 1 faces(PF_A8R8G8B8,1x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,1x8x1.
+08:25:20:121.78:Texture: rbxasset://textures/ui/btn_red_slice9.png: Loading 1 faces(PF_A8R8G8B8,8x8x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,8x8x1.
+08:25:26:127.25:Texture: http://www.roblox.com/asset/?id=54479716: Loading 1 faces(PF_A8R8G8B8,256x256x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x256x1.
+08:25:26:127.3:delete: Texture http://www.roblox.com/asset/?id=54479709
+08:25:34:135.65:D3D9 device: 0x[0A03B000] lost. Releasing D3D9 texture: reusableRTT1024x512
+08:25:34:135.65:Released D3D9 texture: reusableRTT1024x512
+08:25:34:135.65:D3D9 Device 0x[0A03B000] entered lost state
+08:25:34:135.65:D3D9 : WARNING - disabling VSync in windowed mode can cause timing issues at lower frame rates, turn VSync on if you observe this problem.
+08:25:34:135.65:!!! Direct3D Device successfully restored.
+08:25:34:135.65:D3D9 device: 0x[0A03B000] was reset
+08:25:42:143.78:D3D9 device: 0x[0A03B000] lost. Releasing D3D9 texture: reusableRTT1024x512
+08:25:42:143.78:Released D3D9 texture: reusableRTT1024x512
+08:25:42:143.78:D3D9 Device 0x[0A03B000] entered lost state
+08:25:42:143.78:D3D9 : WARNING - disabling VSync in windowed mode can cause timing issues at lower frame rates, turn VSync on if you observe this problem.
+08:25:42:143.78:!!! Direct3D Device successfully restored.
+08:25:42:143.78:D3D9 device: 0x[0A03B000] was reset
+08:34:06:647.39:Texture: rbxasset://Textures/DragCursor.png: Loading 1 faces(PF_A8R8G8B8,80x80x1) with 6 generated mipmaps from Image. Internal format is PF_A8R8G8B8,80x80x1.
+08:34:23:665.05:Texture: rbxasset://Textures/ResizeCursor.png: Loading 1 faces(PF_A8R8G8B8,64x64x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,64x64x1.
+08:34:42:684.19:Texture: rbxasset://Textures/GrabRotateCursor.png: Loading 1 faces(PF_A8R8G8B8,80x80x1) with 6 generated mipmaps from Image. Internal format is PF_A8R8G8B8,80x80x1.
+08:38:42:923.33:Texture: http://www.roblox.com/asset/?id=50914227: Loading 1 faces(PF_A8R8G8B8,256x256x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x256x1.
+08:59:20:2161.7:Texture: rbxasset://textures/face.png: Loading 1 faces(PF_A8R8G8B8,128x128x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,128x128x1.
+08:59:21:2162.5:delete: Material P[http://www.roblox.com/asset/?id=50914227        0 1 (1, 1, 1) 0 20 0 0 -0.3]
+08:59:21:2162.5:delete: Texture http://www.roblox.com/asset/?id=50914227
+09:00:25:2226.4:delete: Material P[rbxasset://textures/face.png        0 1 (1, 1, 1) 0 20 0 0 -0.3]
+09:01:12:2273.9:Texture: rbxasset://Textures/advancedMove.png: Loading 1 faces(PF_A8R8G8B8,157x98x1) with 7 generated mipmaps from Image. Internal format is PF_A8R8G8B8,157x98x1.
+09:02:13:2334.8:Texture: http://www.roblox.com/asset/?id=54479709: Loading 1 faces(PF_A8R8G8B8,256x256x1) with  hardware generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x256x1.
+09:02:13:2335:delete: Texture http://www.roblox.com/asset/?id=54479716
+09:02:28:2350:delete: Texture http://www.roblox.com/asset/?id=54479720
+09:02:28:2350:delete: Texture http://www.roblox.com/asset/?id=54479706
+09:02:28:2350:delete: Texture http://www.roblox.com/asset/?id=54479709
+09:03:04:2385.4:delete: Mesh Mesh_08daae00160000000000a040cfcc4c3e0000a0400000000000000000000000000000803fcdcc4c3d0100000008200000a3a2a5ff0c
+09:03:04:2385.4:mesh0(rc=4) Prefab_Plane grp=Internal
+09:03:04:2385.4:mesh1(rc=4) Prefab_Cube grp=Internal
+09:03:04:2385.4:mesh2(rc=4) Prefab_Sphere grp=Internal
+09:03:04:2385.4:mesh3(rc=4) rbxdummymesh grp=General
+09:03:04:2385.4:mesh4(rc=4) sm0bmshc25153255255 grp=General
+09:03:04:2385.4:mesh5(rc=4) sm0sph0001 grp=General
+09:03:04:2385.4:mesh6(rc=4) sm0bmshc2551270255 grp=General
+09:03:04:2385.4:mesh7(rc=5) c01adorn grp=General
+09:03:04:2385.4:matl0(rc=5) DefaultSettings grp=Internal
+09:03:04:2385.4:matl1(rc=12) BaseWhite grp=Internal
+09:03:04:2385.4:matl2(rc=4) BaseWhiteNoLighting grp=Internal
+09:03:04:2385.4:matl3(rc=4) explosion/explosionMatl grp=General
+09:03:04:2385.4:matl4(rc=4) explosion/explosparkMatl grp=General
+09:03:04:2385.4:matl5(rc=4) explosion/explosmokeMatl grp=General
+09:03:04:2385.4:matl6(rc=4) fireMat1 grp=General
+09:03:04:2385.4:matl7(rc=4) PE/lensflare grp=General
+09:03:04:2385.4:matl8(rc=4) PE/smoke grp=General
+09:03:04:2385.4:matl9(rc=4) sparkle/sparkleMatl grp=General
+09:03:04:2385.4:matl10(rc=4) Aluminum_Low grp=Shaders
+09:03:04:2385.4:matl11(rc=4) Aluminum_Med grp=Shaders
+09:03:04:2385.4:matl12(rc=4) Aluminum_High grp=Shaders
+09:03:04:2385.4:matl13(rc=4) Concrete_Low grp=Shaders
+09:03:04:2385.4:matl14(rc=4) Concrete_Med grp=Shaders
+09:03:04:2385.4:matl15(rc=4) Concrete_High grp=Shaders
+09:03:04:2385.4:matl16(rc=4) DiamondPlate_Low grp=Shaders
+09:03:04:2385.4:matl17(rc=4) DiamondPlate_Med grp=Shaders
+09:03:04:2385.4:matl18(rc=4) DiamondPlate_High grp=Shaders
+09:03:04:2385.4:matl19(rc=4) Grass_Low grp=Shaders
+09:03:04:2385.4:matl20(rc=4) Grass_Med grp=Shaders
+09:03:04:2385.4:matl21(rc=4) Grass_High grp=Shaders
+09:03:04:2385.4:matl22(rc=4) Ice_Low grp=Shaders
+09:03:04:2385.4:matl23(rc=4) Ice_Med grp=Shaders
+09:03:04:2385.4:matl24(rc=4) Ice_High grp=Shaders
+09:03:04:2385.4:matl25(rc=4) MegaCluster_Low grp=Shaders
+09:03:04:2385.4:matl26(rc=4) MegaCluster_Water grp=Shaders
+09:03:04:2385.4:matl27(rc=4) PlasticStudless grp=Shaders
+09:03:04:2385.4:matl28(rc=4) PlasticStudlessTransparent grp=Shaders
+09:03:04:2385.4:matl29(rc=4) PlasticStuds_Low grp=Shaders
+09:03:04:2385.4:matl30(rc=4) Plastic_Low grp=Shaders
+09:03:04:2385.4:matl31(rc=4) PlasticStuds_Med grp=Shaders
+09:03:04:2385.4:matl32(rc=4) Plastic_Med grp=Shaders
+09:03:04:2385.4:matl33(rc=4) PlasticStuds_High grp=Shaders
+09:03:04:2385.4:matl34(rc=4) Plastic_High grp=Shaders
+09:03:04:2385.4:matl35(rc=4) PlasticTransparent_Low grp=Shaders
+09:03:04:2385.4:matl36(rc=4) PlasticStudsTransparent_Low grp=Shaders
+09:03:04:2385.4:matl37(rc=4) PlasticTransparent_Med grp=Shaders
+09:03:04:2385.4:matl38(rc=4) PlasticStudsTransparent_Med grp=Shaders
+09:03:04:2385.4:matl39(rc=4) PlasticTransparent_High grp=Shaders
+09:03:04:2385.4:matl40(rc=4) PlasticStudsTransparent_High grp=Shaders
+09:03:04:2385.4:matl41(rc=4) Rust_Low grp=Shaders
+09:03:04:2385.4:matl42(rc=4) Rust_Med grp=Shaders
+09:03:04:2385.4:matl43(rc=4) Rust_High grp=Shaders
+09:03:04:2385.4:matl44(rc=4) Slate_Low grp=Shaders
+09:03:04:2385.4:matl45(rc=4) Slate_Med grp=Shaders
+09:03:04:2385.4:matl46(rc=4) Slate_High grp=Shaders
+09:03:04:2385.4:matl47(rc=6) ssao grp=Shaders
+09:03:04:2385.4:matl48(rc=6) ssaoBlurX grp=Shaders
+09:03:04:2385.4:matl49(rc=6) ssaoBlurY grp=Shaders
+09:03:04:2385.4:matl50(rc=5) modulate grp=Shaders
+09:03:04:2385.4:matl51(rc=5) blank grp=Shaders
+09:03:04:2385.4:matl52(rc=4) Wood_Low grp=Shaders
+09:03:04:2385.4:matl53(rc=4) Wood_Med grp=Shaders
+09:03:04:2385.4:matl54(rc=4) Wood_High grp=Shaders
+09:03:04:2385.4:matl55(rc=5) Fonts/fonts/Legacy-18pt grp=General
+09:03:04:2385.4:matl56(rc=5) Fonts/fonts/Legacy-64pt grp=General
+09:03:04:2385.4:matl57(rc=5) Fonts/fonts/Arial-18pt grp=General
+09:03:04:2385.4:matl58(rc=5) Fonts/fonts/Arial-48pt grp=General
+09:03:04:2385.4:matl59(rc=5) Fonts/fonts/ArialBold-18pt grp=General
+09:03:04:2385.4:matl60(rc=5) Fonts/fonts/ArialBold-48pt grp=General
+09:03:04:2385.4:matl61(rc=4) PlasticStuds grp=Shaders
+09:03:04:2385.4:matl62(rc=4) Plastic grp=Shaders
+09:03:04:2385.4:matl63(rc=4) PlasticTransparent grp=Shaders
+09:03:04:2385.4:matl64(rc=4) PlasticStudsTransparent grp=Shaders
+09:03:04:2385.4:matl65(rc=4) Wood grp=Shaders
+09:03:04:2385.4:matl66(rc=4) Rust grp=Shaders
+09:03:04:2385.4:matl67(rc=4) Slate grp=Shaders
+09:03:04:2385.4:matl68(rc=4) DiamondPlate grp=Shaders
+09:03:04:2385.4:matl69(rc=4) Aluminum grp=Shaders
+09:03:04:2385.4:matl70(rc=4) Grass grp=Shaders
+09:03:04:2385.4:matl71(rc=4) Concrete grp=Shaders
+09:03:04:2385.4:matl72(rc=4) Ice grp=Shaders
+09:03:04:2385.4:matl73(rc=4) loff0 grp=General
+09:03:04:2385.4:matl74(rc=4) rbxskyboxsm0 grp=General
+09:03:04:2385.4:matl75(rc=4) sm0sunMatl grp=General
+09:03:04:2385.4:matl76(rc=4) sm0sunRaysMatl grp=General
+09:03:04:2385.4:matl77(rc=4) sm0moonMatl grp=General
+09:03:04:2385.4:matl78(rc=4) sm0starsMatl2 grp=General
+09:03:04:2385.4:matl79(rc=4) sm0SkyBoxPlane0 grp=General
+09:03:04:2385.4:matl80(rc=4) sm0SkyBoxPlane1 grp=General
+09:03:04:2385.4:matl81(rc=4) sm0SkyBoxPlane2 grp=General
+09:03:04:2385.4:matl82(rc=4) sm0SkyBoxPlane3 grp=General
+09:03:04:2385.4:matl83(rc=4) sm0SkyBoxPlane4 grp=General
+09:03:04:2385.4:matl84(rc=4) sm0SkyBoxPlane5 grp=General
+09:03:04:2385.4:matl85(rc=4) Ogre/Debug/ShadowVolumes grp=Internal
+09:03:04:2385.4:matl86(rc=4) Ogre/StencilShadowVolumes grp=Internal
+09:03:04:2385.4:matl87(rc=4) Ogre/StencilShadowModulationPass grp=Internal
+09:03:04:2385.4:matl88(rc=4) Ogre/TextureShadowCaster grp=Internal
+09:03:04:2385.4:matl89(rc=4) Ogre/TextureShadowReceiver grp=Internal
+09:03:04:2385.4:matl90(rc=4) adrnClr0.1000.6001.0001.0000.0. grp=General
+09:03:04:2385.4:matl91(rc=4) adrnClr0.0800.4800.8001.0000.2. grp=General
+09:03:04:2385.4:matl92(rc=4) adrnClr1.0000.5000.0001.0000.0. grp=General
+09:03:04:2385.4:matl93(rc=4) adrnClr0.1000.6001.0001.0000.2. grp=General
+09:03:04:2385.4:matl94(rc=4) adrnClr0.7000.7000.7001.0000.2. grp=General
+09:03:04:2385.4:matl95(rc=4) adrnClr0.0000.0001.0001.0000.2. grp=General
+09:03:04:2385.4:delete: Texture default_texture116151752
+09:03:04:2385.4:delete: Texture reusableRTT1024x512
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/BuildToolsFrame.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/Exit.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/Exit_ovr.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/Exit_dn.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/TogglePlayMode.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/TogglePlayMode_ovr.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/TogglePlayMode_dn.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/TogglePlayMode_ds.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/ToolButton_ds.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ToggleFullScreen.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ToggleFullScreen_ovr.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ToggleFullScreen_dn.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ToggleFullScreen_ds.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ReportAbuse.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ReportAbuse_ovr.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ReportAbuse_dn.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ReportAbuse_ds.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/CameraZoomIn.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/CameraZoomIn_ovr.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/CameraZoomIn_dn.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/CameraZoomIn_ds.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/CameraZoomOut.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/CameraZoomOut_ovr.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/CameraZoomOut_dn.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/CameraZoomOut_ds.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/CameraTiltUp.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/CameraTiltUp_ovr.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/CameraTiltUp_dn.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/CameraTiltUp_ds.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/CameraTiltDown.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/CameraTiltDown_ovr.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/CameraTiltDown_dn.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/CameraTiltDown_ds.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/Screenshot.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/Screenshot_ovr.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/Screenshot_dn.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/Screenshot_ds.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/RecordToggle.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/RecordToggle_ovr.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/RecordToggle_dn.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/RecordToggle_ds.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/Help.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/Help_ovr.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/Help_dn.png
+09:03:04:2385.4:delete: Texture rbxasset://Textures/ArrowCursor.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/blackBkg_round_slice1.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/blackBkg_round_slice2.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/blackBkg_round_slice3.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/blackBkg_round_slice4.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/blackBkg_round_slice5.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/blackBkg_round_slice6.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/blackBkg_round_slice7.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/blackBkg_round_slice8.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/blackBkg_round_slice9.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_grey_slice1.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_grey_slice2.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_grey_slice3.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_grey_slice4.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_grey_slice5.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_grey_slice6.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_grey_slice7.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_grey_slice8.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_grey_slice9.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_white_slice1.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_white_slice2.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_white_slice3.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_white_slice4.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_white_slice5.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_white_slice6.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_white_slice7.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_white_slice8.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_white_slice9.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_red_slice1.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_red_slice2.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_red_slice3.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_red_slice4.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_red_slice5.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_red_slice6.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_red_slice7.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_red_slice8.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/ui/btn_red_slice9.png
+09:03:04:2385.4:delete: Texture rbxasset://Textures/DragCursor.png
+09:03:04:2385.4:delete: Texture rbxasset://Textures/ResizeCursor.png
+09:03:04:2385.4:delete: Texture rbxasset://Textures/GrabRotateCursor.png
+09:03:04:2385.4:delete: Texture rbxasset://textures/face.png
+09:03:04:2385.4:delete: Texture rbxasset://Textures/advancedMove.png
+09:03:04:2385.4:tex0(rc=6) fonts/Legacy-18pt.png grp=General
+09:03:04:2385.4:tex1(rc=5) fonts/Legacy-64pt.png grp=General
+09:03:04:2385.4:tex2(rc=5) fonts/Arial-18pt.png grp=General
+09:03:04:2385.4:tex3(rc=5) fonts/Arial-48pt.png grp=General
+09:03:04:2385.4:tex4(rc=5) fonts/ArialBold-18pt.png grp=General
+09:03:04:2385.4:tex5(rc=5) fonts/ArialBold-48pt.png grp=General
+09:03:04:2385.4:tex6(rc=50) textures/SurfacesAlpha.png grp=General
+09:03:04:2385.4:tex7(rc=16) textures/noiseL8_32x32x32.dds grp=General
+09:03:04:2385.4:tex8(rc=8) textures/HorizLines_normal.dds grp=General
+09:03:04:2385.4:tex9(rc=6) textures/WoodFallback.png grp=General
+09:03:04:2385.4:tex10(rc=22) textures/surfacesAlpha.png grp=General
+09:03:04:2385.4:tex11(rc=8) textures/RustGradient.png grp=General
+09:03:04:2385.4:tex12(rc=12) textures/Sand_Normal.dds grp=General
+09:03:04:2385.4:tex13(rc=12) textures/vol_ice_cracked2.dds grp=General
+09:03:04:2385.4:tex14(rc=8) textures/SlateTile.png grp=General
+09:03:04:2385.4:tex15(rc=8) textures/DPlate_Normal.dds grp=General
+09:03:04:2385.4:tex16(rc=8) textures/Crinkled_Normal.dds grp=General
+09:03:04:2385.4:tex17(rc=14) textures/penv.dds grp=General
+09:03:04:2385.4:tex18(rc=8) textures/Grass_Texture.jpg grp=General
+09:03:04:2385.4:tex19(rc=8) textures/dirt.jpg grp=General
+09:03:04:2385.4:tex20(rc=8) textures/Grass_Normal.dds grp=General
+09:03:04:2385.4:tex21(rc=6) textures/Grass_Texture_gray.jpg grp=General
+09:03:04:2385.4:tex22(rc=8) textures/ConcreteFallback.png grp=General
+09:03:04:2385.4:tex23(rc=11) rbxasset://Sky/null_plainsky512_rt.jpg grp=Generated
+09:03:04:2385.4:tex24(rc=11) rbxasset://Sky/null_plainsky512_lf.jpg grp=Generated
+09:03:04:2385.4:tex25(rc=11) rbxasset://Sky/null_plainsky512_bk.jpg grp=Generated
+09:03:04:2385.4:tex26(rc=11) rbxasset://Sky/null_plainsky512_ft.jpg grp=Generated
+09:03:04:2385.4:tex27(rc=11) rbxasset://Sky/null_plainsky512_up.jpg grp=Generated
+09:03:04:2385.4:tex28(rc=11) rbxasset://Sky/null_plainsky512_dn.jpg grp=Generated
+09:03:04:2385.4:tex29(rc=5) Sky/moon.jpg grp=General
+09:03:04:2385.4:tex30(rc=5) Sky/sun.jpg grp=General
+09:03:04:2385.4:tex31(rc=5) Sky/sun-rays.jpg grp=General
+09:03:04:2385.4:tex32(rc=4) spot_shadow_fade.png grp=Internal
+09:03:04:2385.4:DefaultWorkQueue('Root') shutting down on thread main.
+09:03:04:2385.4:*-*-* OGRE Shutdown
+09:03:04:2385.4:Unregistering ResourceManager for type Compositor
+09:03:04:2385.4:Unregistering ResourceManager for type Font
+09:03:04:2385.4:Unregistering ResourceManager for type Skeleton
+09:03:04:2385.4:Unregistering ResourceManager for type Mesh
+09:03:04:2385.4:Unregistering ResourceManager for type HighLevelGpuProgram
+09:03:04:2385.4:Uninstalling plugin: ParticleFX
+09:03:04:2385.4:Plugin successfully uninstalled
+09:03:04:2385.4:Fake-unloading library Plugin_ParticleFX.dll
+09:03:04:2385.4:Uninstalling plugin: Cg Program Manager
+09:03:04:2385.4:Plugin successfully uninstalled
+09:03:04:2385.4:Fake-unloading library Plugin_CgProgramManager.dll
+09:03:04:2385.4:Uninstalling plugin: D3D9 RenderSystem
+09:03:04:2385.5:D3D9 : Shutting down cleanly.
+09:03:04:2385.5:Unregistering ResourceManager for type Texture
+09:03:04:2385.5:Unregistering ResourceManager for type GpuProgram
+09:03:04:2385.5:D3D9 : Direct3D9 Rendering Subsystem destroyed.
+09:03:04:2385.5:Plugin successfully uninstalled
+09:03:04:2385.5:Fake-unloading library RenderSystem_Direct3D9.dll
+09:03:04:2385.5:Unregistering ResourceManager for type Material

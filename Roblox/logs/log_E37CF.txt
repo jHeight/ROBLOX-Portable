@@ -1,0 +1,1225 @@
+27.05.2015 16:31:18.36848 (2.1756951)Log "RobloxStudio"
+16:31:18.36848 (2.1756951)          CrashReporter Start
+16:31:18.36848 (2.1988357)          Initializing CrashEvent request, url: http://www.roblox.com/Error/Dmp.ashx?filename=C%3A%5CUsers%5CStudent%5CAppData%5CLocal%5CRoblox%5Clogs%5Clog%5FE37CF%200%2C%20196%2C%200%2C%2059751%2ERobloxStudio%2Ecrashevent
+16:31:18.36848 (2.1998418)          RobloxMainWindow::RobloxMainWindow - start
+16:31:22.40848 (6.1606923)          setAssetFolder D:/ROBLOX-Portable-master/RobloxVersions/version-615500bf52054337/content
+16:31:29.47848 (13.0087445)          Use the new http api: yes
+16:31:37.55848 (21.3722815)          RobloxMainWindow::handleFileOpen 
+16:31:37.55848 (21.3732796)          RobloxMainWindow::handleFileOpen 
+16:31:51.4312 (35.0750614)          RobloxMainWindow::RobloxMainWindow - end
+16:32:49.62312 (93.4062384)          RobloxMainWindow::handleFileOpen http://www.roblox.com//Game/edit.ashx?PlaceID=235264088&upload=235264088&testmode=false
+16:32:49.62312 (93.4072338)          RobloxIDEDoc::open - start
+16:32:49.62312 (93.7832375)          	Locking DataModel
+16:32:50.63312 (94.0972508)          	Initializing Ogre
+16:32:50.63312 (94.0972508)          	Initializing View
+16:32:50.63312 (94.1329664)          	Initializing Explorer
+16:32:50.63312 (94.3322306)          	Loading File : 
+16:32:50.63312 (94.4187871)          	Loading Plugins
+16:32:52.65312 (96.2033857)          	Open Success
+16:32:52.65312 (96.2293417)          RobloxIDEDoc::open - end
+16:32:56.3776 (100.4609943)          		RobloxView::RobloxView - start
+16:32:56.3776 (100.4609943)          			UserInput
+16:32:58.5776 (102.0043363)          			Marshaller
+16:32:58.5776 (102.0043363)          			ProfilingSection
+16:32:58.5776 (102.0043363)          			BindToWorkspace
+16:32:58.5776 (102.2198324)          			RenderRequestJob
+16:32:58.5776 (102.2218321)          			RenderJob
+16:32:58.5776 (102.2218321)          			WrapMouseJob
+16:32:58.5776 (102.2218321)          			ConfigureStats
+16:32:58.5776 (102.2228319)          		RobloxView::RobloxView - end
+16:37:29.14632 (373.6355668)          Auto-Saving...
+16:38:26.6096 (430.2404268)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Sword'
+16:38:26.6096 (430.6583186)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Sword'
+16:38:26.6096 (430.8794540)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Sword'
+16:38:27.7096 (430.9923026)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Sword'
+16:38:27.7096 (431.1005028)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Sword'
+16:38:27.7096 (431.1875286)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Sword'
+16:38:27.7096 (431.3385200)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Sword'
+16:38:28.8096 (432.0493451)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Sword'
+16:38:28.8096 (432.6009580)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Sword'
+16:38:30.10096 (434.3684150)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Sword'
+16:38:31.11096 (435.6964252)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Sword'
+16:38:31.11096 (435.7684500)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Sword'
+16:38:32.12096 (435.9517120)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Sword'
+16:38:32.12096 (436.7933706)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Sword'
+16:38:32.12096 (436.8823883)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Sword'
+16:38:33.13096 (437.7546295)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Sword'
+16:39:09.49096 (473.8090648)          Auto-Saving...
+16:39:10.50096 (474.7188916)          		RobloxView::RobloxView - start
+16:39:10.50096 (474.7188916)          			UserInput
+16:39:11.51096 (474.9607853)          			Marshaller
+16:39:11.51096 (474.9607853)          			ProfilingSection
+16:39:11.51096 (474.9607853)          			BindToWorkspace
+16:39:11.51096 (475.1467242)          			RenderRequestJob
+16:39:11.51096 (475.1467242)          			RenderJob
+16:39:11.51096 (475.1477192)          			WrapMouseJob
+16:39:11.51096 (475.1477192)          			ConfigureStats
+16:39:11.51096 (475.1477192)          		RobloxView::RobloxView - end
+16:39:30.4560 (494.4439827)          		RobloxView::RobloxView - start
+16:39:30.4560 (494.4439827)          			UserInput
+16:39:30.4560 (494.6809221)          			Marshaller
+16:39:30.4560 (494.6809221)          			ProfilingSection
+16:39:30.4560 (494.6809221)          			BindToWorkspace
+16:39:30.4560 (494.8599142)          			RenderRequestJob
+16:39:30.4560 (494.8609142)          			RenderJob
+16:39:30.4560 (494.8609142)          			WrapMouseJob
+16:39:30.4560 (494.8609142)          			ConfigureStats
+16:39:30.4560 (494.8619141)          		RobloxView::RobloxView - end
+16:39:50.24560 (514.7683250)          Auto-Saving...
+16:39:51.25560 (515.6569610)          		RobloxView::RobloxView - start
+16:39:51.25560 (515.6569610)          			UserInput
+16:39:51.25560 (515.8665204)          			Marshaller
+16:39:51.25560 (515.8665204)          			ProfilingSection
+16:39:51.25560 (515.8675160)          			BindToWorkspace
+16:39:52.26560 (516.0222780)          			RenderRequestJob
+16:39:52.26560 (516.0222780)          			RenderJob
+16:39:52.26560 (516.0222780)          			WrapMouseJob
+16:39:52.26560 (516.0222780)          			ConfigureStats
+16:39:52.26560 (516.0232752)          		RobloxView::RobloxView - end
+16:40:35.4024 (559.3903145)          		RobloxView::RobloxView - start
+16:40:35.4024 (559.3903145)          			UserInput
+16:40:35.4024 (559.5123793)          			Marshaller
+16:40:35.4024 (559.5123793)          			ProfilingSection
+16:40:35.4024 (559.5123793)          			BindToWorkspace
+16:40:35.4024 (559.6909517)          			RenderRequestJob
+16:40:35.4024 (559.6919518)          			RenderJob
+16:40:35.4024 (559.6919518)          			WrapMouseJob
+16:40:35.4024 (559.6919518)          			ConfigureStats
+16:40:35.4024 (559.6919518)          		RobloxView::RobloxView - end
+16:41:50.13488 (634.2025700)          Auto-Saving...
+16:41:51.14488 (635.5394127)          		RobloxView::RobloxView - start
+16:41:51.14488 (635.5394127)          			UserInput
+16:41:51.14488 (635.8030426)          			Marshaller
+16:41:51.14488 (635.8030426)          			ProfilingSection
+16:41:51.14488 (635.8030426)          			BindToWorkspace
+16:41:52.15488 (635.9800810)          			RenderRequestJob
+16:41:52.15488 (635.9800810)          			RenderJob
+16:41:52.15488 (635.9800810)          			WrapMouseJob
+16:41:52.15488 (635.9800810)          			ConfigureStats
+16:41:52.15488 (635.9810845)          		RobloxView::RobloxView - end
+16:42:36.59488 (679.9014119)          		RobloxView::RobloxView - start
+16:42:36.59488 (679.9014119)          			UserInput
+16:42:36.59488 (680.0828370)          			Marshaller
+16:42:36.59488 (680.0828370)          			ProfilingSection
+16:42:36.59488 (680.0828370)          			BindToWorkspace
+16:42:36.59488 (680.2610531)          			RenderRequestJob
+16:42:36.59488 (680.2610531)          			RenderJob
+16:42:36.59488 (680.2610531)          			WrapMouseJob
+16:42:36.59488 (680.2610531)          			ConfigureStats
+16:42:36.59488 (680.2620544)          		RobloxView::RobloxView - end
+16:47:29.24808 (973.7079349)          Auto-Saving...
+16:52:29.62664 (1273.7544847)          Auto-Saving...
+16:57:29.34984 (1573.7999745)          Auto-Saving...
+17:02:30.8304 (1873.8635430)          Auto-Saving...
+17:07:30.46160 (2173.9021329)          Auto-Saving...
+17:12:30.18480 (2473.9542077)          Auto-Saving...
+17:12:37.25480 (2481.0937671)          Auto-Saving...
+17:12:39.27480 (2483.4267625)          		RobloxView::RobloxView - start
+17:12:39.27480 (2483.4277569)          			UserInput
+17:12:39.27480 (2483.6406720)          			Marshaller
+17:12:39.27480 (2483.6406720)          			ProfilingSection
+17:12:39.27480 (2483.6406720)          			BindToWorkspace
+17:12:40.28480 (2483.9306475)          			RenderRequestJob
+17:12:40.28480 (2483.9306475)          			RenderJob
+17:12:40.28480 (2483.9306475)          			WrapMouseJob
+17:12:40.28480 (2483.9306475)          			ConfigureStats
+17:12:40.28480 (2483.9316476)          		RobloxView::RobloxView - end
+17:14:15.57944 (2579.3405880)          		RobloxView::RobloxView - start
+17:14:15.57944 (2579.3415881)          			UserInput
+17:14:15.57944 (2579.4953977)          			Marshaller
+17:14:15.57944 (2579.4953977)          			ProfilingSection
+17:14:15.57944 (2579.4953977)          			BindToWorkspace
+17:14:15.57944 (2579.6546005)          			RenderRequestJob
+17:14:15.57944 (2579.6546005)          			RenderJob
+17:14:15.57944 (2579.6546005)          			WrapMouseJob
+17:14:15.57944 (2579.6556006)          			ConfigureStats
+17:14:15.57944 (2579.6556006)          		RobloxView::RobloxView - end
+17:14:19.61944 (2583.7763805)          Auto-Saving...
+17:14:20.62944 (2584.6435650)          		RobloxView::RobloxView - start
+17:14:20.62944 (2584.6435650)          			UserInput
+17:14:20.62944 (2584.7749645)          			Marshaller
+17:14:20.62944 (2584.7749645)          			ProfilingSection
+17:14:20.62944 (2584.7749645)          			BindToWorkspace
+17:14:21.63944 (2584.9701689)          			RenderRequestJob
+17:14:21.63944 (2584.9701689)          			RenderJob
+17:14:21.63944 (2584.9711693)          			WrapMouseJob
+17:14:21.63944 (2584.9721696)          			ConfigureStats
+17:14:21.63944 (2584.9721696)          		RobloxView::RobloxView - end
+17:15:29.872 (2653.3723004)          		RobloxView::RobloxView - start
+17:15:29.872 (2653.3723004)          			UserInput
+17:15:29.872 (2653.4843102)          			Marshaller
+17:15:29.872 (2653.4843102)          			ProfilingSection
+17:15:29.872 (2653.4843102)          			BindToWorkspace
+17:15:29.872 (2653.7472277)          			RenderRequestJob
+17:15:29.872 (2653.7482265)          			RenderJob
+17:15:29.872 (2653.7482265)          			WrapMouseJob
+17:15:29.872 (2653.7482265)          			ConfigureStats
+17:15:29.872 (2653.7482265)          		RobloxView::RobloxView - end
+17:17:17.43336 (2761.5982138) Error:   Error in script: '=' expected near '<eof>'
+17:17:30.56336 (2774.0179589)          Auto-Saving...
+17:17:45.5800 (2789.1216382)          > game.StarterPack["Energy Sword"].Humanoid.Torso = game.StarterPack["Energy Sword"].Handle
+17:17:51.11800 (2795.0310341)          Auto-Saving...
+17:17:52.12800 (2795.9900970)          		RobloxView::RobloxView - start
+17:17:52.12800 (2795.9900970)          			UserInput
+17:17:52.12800 (2796.1316586)          			Marshaller
+17:17:52.12800 (2796.1316586)          			ProfilingSection
+17:17:52.12800 (2796.1326616)          			BindToWorkspace
+17:17:52.12800 (2796.2940880)          			RenderRequestJob
+17:17:52.12800 (2796.2940880)          			RenderJob
+17:17:52.12800 (2796.2940880)          			WrapMouseJob
+17:17:52.12800 (2796.2940880)          			ConfigureStats
+17:17:52.12800 (2796.2950844)          		RobloxView::RobloxView - end
+17:18:02.22800 (2805.8947876)          > game.StarterPack["Energy Sword"].Humanoid.Torso = game.StarterPack["Energy Sword"].Handle
+17:18:33.53800 (2837.5028589)          		RobloxView::RobloxView - start
+17:18:33.53800 (2837.5028589)          			UserInput
+17:18:33.53800 (2837.7155029)          			Marshaller
+17:18:33.53800 (2837.7164981)          			ProfilingSection
+17:18:33.53800 (2837.7164981)          			BindToWorkspace
+17:18:34.54800 (2837.8908952)          			RenderRequestJob
+17:18:34.54800 (2837.8908952)          			RenderJob
+17:18:34.54800 (2837.8908952)          			WrapMouseJob
+17:18:34.54800 (2837.8908952)          			ConfigureStats
+17:18:34.54800 (2837.8908952)          		RobloxView::RobloxView - end
+17:19:44.59264 (2908.3837445)          Auto-Saving...
+17:19:46.61264 (2909.8279516)          		RobloxView::RobloxView - start
+17:19:46.61264 (2909.8289522)          			UserInput
+17:19:46.61264 (2910.0409622)          			Marshaller
+17:19:46.61264 (2910.0419632)          			ProfilingSection
+17:19:46.61264 (2910.0419632)          			BindToWorkspace
+17:19:46.61264 (2910.2798826)          			RenderRequestJob
+17:19:46.61264 (2910.2798826)          			RenderJob
+17:19:46.61264 (2910.2798826)          			WrapMouseJob
+17:19:46.61264 (2910.2798826)          			ConfigureStats
+17:19:46.61264 (2910.2798826)          		RobloxView::RobloxView - end
+17:20:04.13728 (2927.8647603)          		RobloxView::RobloxView - start
+17:20:04.13728 (2927.8647603)          			UserInput
+17:20:04.13728 (2928.0048057)          			Marshaller
+17:20:04.13728 (2928.0058060)          			ProfilingSection
+17:20:04.13728 (2928.0258117)          			BindToWorkspace
+17:20:04.13728 (2928.2476315)          			RenderRequestJob
+17:20:04.13728 (2928.2667771)          			RenderJob
+17:20:04.13728 (2928.2667771)          			WrapMouseJob
+17:20:04.13728 (2928.2667771)          			ConfigureStats
+17:20:04.13728 (2928.2677848)          		RobloxView::RobloxView - end
+17:20:18.27728 (2941.9736915)          Auto-Saving...
+17:20:23.32728 (2946.9471347)          		RobloxView::RobloxView - start
+17:20:23.32728 (2946.9471347)          			UserInput
+17:20:26.35728 (2950.2912791)          			Marshaller
+17:20:26.35728 (2950.2912791)          			ProfilingSection
+17:20:26.35728 (2950.2912791)          			BindToWorkspace
+17:20:26.35728 (2950.7643284)          			RenderRequestJob
+17:20:26.35728 (2950.7653285)          			RenderJob
+17:20:26.35728 (2950.7653285)          			WrapMouseJob
+17:20:26.35728 (2950.7653285)          			ConfigureStats
+17:20:26.35728 (2950.7653285)          		RobloxView::RobloxView - end
+17:20:47.56728 (2971.3312715)          		RobloxView::RobloxView - start
+17:20:47.56728 (2971.3312715)          			UserInput
+17:20:48.57728 (2972.3233176)          			Marshaller
+17:20:48.57728 (2972.3233176)          			ProfilingSection
+17:20:48.57728 (2972.3233176)          			BindToWorkspace
+17:20:49.58728 (2973.0218926)          			RenderRequestJob
+17:20:49.58728 (2973.0228926)          			RenderJob
+17:20:49.58728 (2973.0228926)          			WrapMouseJob
+17:20:49.58728 (2973.0228926)          			ConfigureStats
+17:20:49.58728 (2973.0228926)          		RobloxView::RobloxView - end
+17:21:31.35192 (3015.1615680)          Auto-Saving...
+17:21:32.36192 (3016.1126282)          		RobloxView::RobloxView - start
+17:21:32.36192 (3016.1136282)          			UserInput
+17:21:32.36192 (3016.3486534)          			Marshaller
+17:21:32.36192 (3016.3486534)          			ProfilingSection
+17:21:32.36192 (3016.3486534)          			BindToWorkspace
+17:21:32.36192 (3016.5445617)          			RenderRequestJob
+17:21:32.36192 (3016.5445617)          			RenderJob
+17:21:32.36192 (3016.5445617)          			WrapMouseJob
+17:21:32.36192 (3016.5445617)          			ConfigureStats
+17:21:32.36192 (3016.5445617)          		RobloxView::RobloxView - end
+17:22:51.49656 (3095.6553712)          		RobloxView::RobloxView - start
+17:22:51.49656 (3095.6563712)          			UserInput
+17:22:52.50656 (3095.8318804)          			Marshaller
+17:22:52.50656 (3095.8318804)          			ProfilingSection
+17:22:52.50656 (3095.8328758)          			BindToWorkspace
+17:22:52.50656 (3095.9918654)          			RenderRequestJob
+17:22:52.50656 (3095.9918654)          			RenderJob
+17:22:52.50656 (3095.9918654)          			WrapMouseJob
+17:22:52.50656 (3095.9918654)          			ConfigureStats
+17:22:52.50656 (3095.9918654)          		RobloxView::RobloxView - end
+17:22:54.52656 (3098.4400596)          Auto-Saving...
+17:22:55.53656 (3099.3230726)          		RobloxView::RobloxView - start
+17:22:55.53656 (3099.3230726)          			UserInput
+17:22:55.53656 (3099.7031549)          			Marshaller
+17:22:55.53656 (3099.7031549)          			ProfilingSection
+17:22:55.53656 (3099.7031549)          			BindToWorkspace
+17:22:56.54656 (3099.9646681)          			RenderRequestJob
+17:22:56.54656 (3099.9646681)          			RenderJob
+17:22:56.54656 (3099.9646681)          			WrapMouseJob
+17:22:56.54656 (3099.9646681)          			ConfigureStats
+17:22:56.54656 (3099.9646681)          		RobloxView::RobloxView - end
+17:24:01.54120 (3164.9320171)          		RobloxView::RobloxView - start
+17:24:01.54120 (3164.9320171)          			UserInput
+17:24:01.54120 (3165.4360760)          			Marshaller
+17:24:01.54120 (3165.4360760)          			ProfilingSection
+17:24:01.54120 (3165.4360760)          			BindToWorkspace
+17:24:01.54120 (3165.6070496)          			RenderRequestJob
+17:24:01.54120 (3165.6070496)          			RenderJob
+17:24:01.54120 (3165.6070496)          			WrapMouseJob
+17:24:01.54120 (3165.6070496)          			ConfigureStats
+17:24:01.54120 (3165.6070496)          		RobloxView::RobloxView - end
+17:27:30.976 (3374.1194588)          Auto-Saving...
+17:32:30.38832 (3674.2114711)          Auto-Saving...
+17:37:30.11152 (3974.2171628)          Auto-Saving...
+17:42:30.49008 (4274.2671324)          Auto-Saving...
+17:43:24.37472 (4328.2321881)          Auto-Saving...
+17:43:25.38472 (4329.2402587)          		RobloxView::RobloxView - start
+17:43:25.38472 (4329.2412588)          			UserInput
+17:43:25.38472 (4329.4338805)          			Marshaller
+17:43:25.38472 (4329.4338805)          			ProfilingSection
+17:43:25.38472 (4329.4338805)          			BindToWorkspace
+17:43:25.38472 (4329.6042819)          			RenderRequestJob
+17:43:25.38472 (4329.6042819)          			RenderJob
+17:43:25.38472 (4329.6042819)          			WrapMouseJob
+17:43:25.38472 (4329.6052821)          			ConfigureStats
+17:43:25.38472 (4329.6052821)          		RobloxView::RobloxView - end
+17:43:40.53472 (4343.7451348)          		RobloxView::RobloxView - start
+17:43:40.53472 (4343.7451348)          			UserInput
+17:43:40.53472 (4343.9015268)          			Marshaller
+17:43:40.53472 (4343.9015268)          			ProfilingSection
+17:43:40.53472 (4343.9015268)          			BindToWorkspace
+17:43:40.53472 (4344.0681352)          			RenderRequestJob
+17:43:40.53472 (4344.0681352)          			RenderJob
+17:43:40.53472 (4344.0681352)          			WrapMouseJob
+17:43:40.53472 (4344.0681352)          			ConfigureStats
+17:43:40.53472 (4344.0801122)          		RobloxView::RobloxView - end
+17:47:30.21328 (4574.3225935)          Auto-Saving...
+17:48:15.792 (4618.7666551)          Auto-Saving...
+17:48:17.2792 (4620.7038160)          		RobloxView::RobloxView - start
+17:48:17.2792 (4620.7038160)          			UserInput
+17:48:17.2792 (4620.9797072)          			Marshaller
+17:48:17.2792 (4620.9807073)          			ProfilingSection
+17:48:17.2792 (4620.9807073)          			BindToWorkspace
+17:48:17.2792 (4621.1827275)          			RenderRequestJob
+17:48:17.2792 (4621.1827275)          			RenderJob
+17:48:17.2792 (4621.1827275)          			WrapMouseJob
+17:48:17.2792 (4621.1827275)          			ConfigureStats
+17:48:17.2792 (4621.1837277)          		RobloxView::RobloxView - end
+17:48:35.20792 (4639.1548037)          		RobloxView::RobloxView - start
+17:48:35.20792 (4639.1548037)          			UserInput
+17:48:35.20792 (4639.3338606)          			Marshaller
+17:48:35.20792 (4639.3338606)          			ProfilingSection
+17:48:35.20792 (4639.3348556)          			BindToWorkspace
+17:48:35.20792 (4639.5004411)          			RenderRequestJob
+17:48:35.20792 (4639.5004411)          			RenderJob
+17:48:35.20792 (4639.5004411)          			WrapMouseJob
+17:48:35.20792 (4639.5004411)          			ConfigureStats
+17:48:35.20792 (4639.5014416)          		RobloxView::RobloxView - end
+17:49:12.57792 (4676.5686867)          Auto-Saving...
+17:49:14.59792 (4677.7426271)          		RobloxView::RobloxView - start
+17:49:14.59792 (4677.7436272)          			UserInput
+17:49:14.59792 (4678.0127501)          			Marshaller
+17:49:14.59792 (4678.0137452)          			ProfilingSection
+17:49:14.59792 (4678.0137452)          			BindToWorkspace
+17:49:14.59792 (4678.1871576)          			RenderRequestJob
+17:49:14.59792 (4678.1871576)          			RenderJob
+17:49:14.59792 (4678.1871576)          			WrapMouseJob
+17:49:14.59792 (4678.1871576)          			ConfigureStats
+17:49:14.59792 (4678.1881577)          		RobloxView::RobloxView - end
+17:49:21.1256 (4684.7421111)          		RobloxView::RobloxView - start
+17:49:21.1256 (4684.7421111)          			UserInput
+17:49:21.1256 (4684.8868718)          			Marshaller
+17:49:21.1256 (4684.8868718)          			ProfilingSection
+17:49:21.1256 (4684.8868718)          			BindToWorkspace
+17:49:21.1256 (4685.0524278)          			RenderRequestJob
+17:49:21.1256 (4685.0524278)          			RenderJob
+17:49:21.1256 (4685.0534305)          			WrapMouseJob
+17:49:21.1256 (4685.0534305)          			ConfigureStats
+17:49:21.1256 (4685.0534305)          		RobloxView::RobloxView - end
+17:52:30.59184 (4874.3631498)          Auto-Saving...
+17:57:30.31504 (5174.4144735)          Auto-Saving...
+18:02:30.3824 (5474.4794140)          Auto-Saving...
+18:05:22.44752 (5646.0230828)          > Instance.new("Texture",game.Workspace.Stud)
+18:07:30.41680 (5774.5355828)          Auto-Saving...
+18:12:30.14000 (6074.5646049)          Auto-Saving...
+18:17:31.52856 (6374.6483438)          Auto-Saving...
+18:22:31.25176 (6674.6706041)          Auto-Saving...
+18:22:53.47176 (6697.0098878)          Auto-Saving...
+18:22:54.48176 (6697.8779811)          		RobloxView::RobloxView - start
+18:22:54.48176 (6697.8779811)          			UserInput
+18:22:54.48176 (6698.1502356)          			Marshaller
+18:22:54.48176 (6698.1502356)          			ProfilingSection
+18:22:54.48176 (6698.1502356)          			BindToWorkspace
+18:22:54.48176 (6698.3300104)          			RenderRequestJob
+18:22:54.48176 (6698.3300104)          			RenderJob
+18:22:54.48176 (6698.3300104)          			WrapMouseJob
+18:22:54.48176 (6698.3300104)          			ConfigureStats
+18:22:54.48176 (6698.3300104)          		RobloxView::RobloxView - end
+18:22:58.52176 (6702.1597734)          		RobloxView::RobloxView - start
+18:22:58.52176 (6702.1597734)          			UserInput
+18:22:58.52176 (6702.2892139)          			Marshaller
+18:22:58.52176 (6702.2892139)          			ProfilingSection
+18:22:58.52176 (6702.2892139)          			BindToWorkspace
+18:22:58.52176 (6702.4388382)          			RenderRequestJob
+18:22:58.52176 (6702.4398387)          			RenderJob
+18:22:58.52176 (6702.4398387)          			WrapMouseJob
+18:22:58.52176 (6702.4398387)          			ConfigureStats
+18:22:58.52176 (6702.4398387)          		RobloxView::RobloxView - end
+18:23:00.54176 (6704.4029902)          Auto-Saving...
+18:23:01.55176 (6705.1624511)          		RobloxView::RobloxView - start
+18:23:01.55176 (6705.1634511)          			UserInput
+18:23:01.55176 (6705.2924656)          			Marshaller
+18:23:01.55176 (6705.2924656)          			ProfilingSection
+18:23:01.55176 (6705.2924656)          			BindToWorkspace
+18:23:01.55176 (6705.4772267)          			RenderRequestJob
+18:23:01.55176 (6705.4772267)          			RenderJob
+18:23:01.55176 (6705.4772267)          			WrapMouseJob
+18:23:01.55176 (6705.4772267)          			ConfigureStats
+18:23:01.55176 (6705.4782307)          		RobloxView::RobloxView - end
+18:25:33.10568 (6857.0228767)          		RobloxView::RobloxView - start
+18:25:33.10568 (6857.0228767)          			UserInput
+18:25:33.10568 (6857.2869100)          			Marshaller
+18:25:33.10568 (6857.2869100)          			ProfilingSection
+18:25:33.10568 (6857.2869100)          			BindToWorkspace
+18:25:33.10568 (6857.4419210)          			RenderRequestJob
+18:25:33.10568 (6857.4429211)          			RenderJob
+18:25:33.10568 (6857.4429211)          			WrapMouseJob
+18:25:33.10568 (6857.4429211)          			ConfigureStats
+18:25:33.10568 (6857.4429211)          		RobloxView::RobloxView - end
+18:26:34.6032 (6918.2514666)          Auto-Saving...
+18:26:36.8032 (6920.2081089)          		RobloxView::RobloxView - start
+18:26:36.8032 (6920.2081089)          			UserInput
+18:26:36.8032 (6920.4752279)          			Marshaller
+18:26:36.8032 (6920.4752279)          			ProfilingSection
+18:26:36.8032 (6920.4752279)          			BindToWorkspace
+18:26:37.9032 (6921.0501586)          			RenderRequestJob
+18:26:37.9032 (6921.0501586)          			RenderJob
+18:26:37.9032 (6921.0501586)          			WrapMouseJob
+18:26:37.9032 (6921.0511586)          			ConfigureStats
+18:26:37.9032 (6921.0511586)          		RobloxView::RobloxView - end
+18:28:15.41496 (7019.2698337)          		RobloxView::RobloxView - start
+18:28:15.41496 (7019.2698337)          			UserInput
+18:28:15.41496 (7019.3889024)          			Marshaller
+18:28:15.41496 (7019.3889024)          			ProfilingSection
+18:28:15.41496 (7019.3889024)          			BindToWorkspace
+18:28:16.42496 (7019.5603300)          			RenderRequestJob
+18:28:16.42496 (7019.5603300)          			RenderJob
+18:28:16.42496 (7019.5603300)          			WrapMouseJob
+18:28:16.42496 (7019.5603300)          			ConfigureStats
+18:28:16.42496 (7019.5613297)          		RobloxView::RobloxView - end
+18:32:22.26352 (7266.1237067)          Auto-Saving...
+18:32:23.27352 (7267.4453133)          		RobloxView::RobloxView - start
+18:32:23.27352 (7267.4453133)          			UserInput
+18:32:24.28352 (7267.5783105)          			Marshaller
+18:32:24.28352 (7267.5783105)          			ProfilingSection
+18:32:24.28352 (7267.6253138)          			BindToWorkspace
+18:32:24.28352 (7267.7853249)          			RenderRequestJob
+18:32:24.28352 (7267.7853249)          			RenderJob
+18:32:24.28352 (7267.7853249)          			WrapMouseJob
+18:32:24.28352 (7267.7853249)          			ConfigureStats
+18:32:24.28352 (7267.7863250)          		RobloxView::RobloxView - end
+18:40:37.62600 (7761.1186726)          		RobloxView::RobloxView - start
+18:40:37.62600 (7761.1186726)          			UserInput
+18:40:37.62600 (7761.2537030)          			Marshaller
+18:40:37.62600 (7761.2547031)          			ProfilingSection
+18:40:37.62600 (7761.2547031)          			BindToWorkspace
+18:40:37.62600 (7761.4512531)          			RenderRequestJob
+18:40:37.62600 (7761.4512531)          			RenderJob
+18:40:37.62600 (7761.4512531)          			WrapMouseJob
+18:40:37.62600 (7761.4512531)          			ConfigureStats
+18:40:37.62600 (7761.4522559)          		RobloxView::RobloxView - end
+18:42:31.45528 (7874.9192474)          Auto-Saving...
+18:47:31.17848 (8175.0792521)          Auto-Saving...
+18:52:31.55704 (8475.0182861)          Auto-Saving...
+18:54:35.48632 (8598.8209280)          Auto-Saving...
+18:54:36.49632 (8600.1230491)          		RobloxView::RobloxView - start
+18:54:36.49632 (8600.1230491)          			UserInput
+18:54:36.49632 (8600.2140217)          			Marshaller
+18:54:36.49632 (8600.2140217)          			ProfilingSection
+18:54:36.49632 (8600.2150215)          			BindToWorkspace
+18:54:36.49632 (8600.3580304)          			RenderRequestJob
+18:54:36.49632 (8600.3580304)          			RenderJob
+18:54:36.49632 (8600.3580304)          			WrapMouseJob
+18:54:36.49632 (8600.3580304)          			ConfigureStats
+18:54:36.49632 (8600.3580304)          		RobloxView::RobloxView - end
+18:54:51.64632 (8614.4551777)          		RobloxView::RobloxView - start
+18:54:51.64632 (8614.4551777)          			UserInput
+18:54:51.64632 (8614.5611950)          			Marshaller
+18:54:51.64632 (8614.5611950)          			ProfilingSection
+18:54:51.64632 (8614.5611950)          			BindToWorkspace
+18:54:51.64632 (8614.6871732)          			RenderRequestJob
+18:54:51.64632 (8614.6871732)          			RenderJob
+18:54:51.64632 (8614.6871732)          			WrapMouseJob
+18:54:51.64632 (8614.6871732)          			ConfigureStats
+18:54:51.64632 (8614.6871732)          		RobloxView::RobloxView - end
+18:57:31.28024 (8775.0751175)          Auto-Saving...
+19:02:32.1344 (9075.9407842)          Auto-Saving...
+19:07:31.38200 (9375.2379854)          Auto-Saving...
+19:12:31.10520 (9675.3181526)          Auto-Saving...
+19:17:31.48376 (9975.2698044)          Auto-Saving...
+19:19:05.11304 (10069.2384590)          Auto-Saving...
+19:19:06.12304 (10070.2655378)          		RobloxView::RobloxView - start
+19:19:06.12304 (10070.2655378)          			UserInput
+19:19:07.13304 (10070.4835480)          			Marshaller
+19:19:07.13304 (10070.4835480)          			ProfilingSection
+19:19:07.13304 (10070.4835480)          			BindToWorkspace
+19:19:07.13304 (10070.6325567)          			RenderRequestJob
+19:19:07.13304 (10070.6325567)          			RenderJob
+19:19:07.13304 (10070.6325567)          			WrapMouseJob
+19:19:07.13304 (10070.6325567)          			ConfigureStats
+19:19:07.13304 (10070.6325567)          		RobloxView::RobloxView - end
+19:19:25.31304 (10089.3146915)          		RobloxView::RobloxView - start
+19:19:25.31304 (10089.3146915)          			UserInput
+19:19:26.32304 (10089.3917002)          			Marshaller
+19:19:26.32304 (10089.3917002)          			ProfilingSection
+19:19:26.32304 (10089.3927003)          			BindToWorkspace
+19:19:26.32304 (10089.5256892)          			RenderRequestJob
+19:19:26.32304 (10089.5256892)          			RenderJob
+19:19:26.32304 (10089.5256892)          			WrapMouseJob
+19:19:26.32304 (10089.5256892)          			ConfigureStats
+19:19:26.32304 (10089.5266892)          		RobloxView::RobloxView - end
+19:22:31.20696 (10275.3197922)          Auto-Saving...
+19:24:58.36624 (10422.3176770)          Auto-Saving...
+19:24:59.37624 (10423.1577346)          		RobloxView::RobloxView - start
+19:24:59.37624 (10423.1577346)          			UserInput
+19:24:59.37624 (10423.2957441)          			Marshaller
+19:24:59.37624 (10423.2957441)          			ProfilingSection
+19:24:59.37624 (10423.2957441)          			BindToWorkspace
+19:25:00.38624 (10423.5137589)          			RenderRequestJob
+19:25:00.38624 (10423.5137589)          			RenderJob
+19:25:00.38624 (10423.5137589)          			WrapMouseJob
+19:25:00.38624 (10423.5137589)          			ConfigureStats
+19:25:00.38624 (10423.5147590)          		RobloxView::RobloxView - end
+19:25:15.53624 (10438.6284835)          		RobloxView::RobloxView - start
+19:25:15.53624 (10438.6284835)          			UserInput
+19:25:15.53624 (10438.7104857)          			Marshaller
+19:25:15.53624 (10438.7104857)          			ProfilingSection
+19:25:15.53624 (10438.7104857)          			BindToWorkspace
+19:25:15.53624 (10438.8464924)          			RenderRequestJob
+19:25:15.53624 (10438.8464924)          			RenderJob
+19:25:15.53624 (10438.8464924)          			WrapMouseJob
+19:25:15.53624 (10438.8464924)          			ConfigureStats
+19:25:15.53624 (10438.8474924)          		RobloxView::RobloxView - end
+19:25:37.10088 (10460.6312671)          Auto-Saving...
+19:25:38.11088 (10461.4053175)          		RobloxView::RobloxView - start
+19:25:38.11088 (10461.4053175)          			UserInput
+19:25:38.11088 (10461.5223691)          			Marshaller
+19:25:38.11088 (10461.5223691)          			ProfilingSection
+19:25:38.11088 (10461.5223691)          			BindToWorkspace
+19:25:38.11088 (10461.6713175)          			RenderRequestJob
+19:25:38.11088 (10461.6723172)          			RenderJob
+19:25:38.11088 (10461.6723172)          			WrapMouseJob
+19:25:38.11088 (10461.6723172)          			ConfigureStats
+19:25:38.11088 (10461.6723172)          		RobloxView::RobloxView - end
+19:26:01.34088 (10485.0911459)          		RobloxView::RobloxView - start
+19:26:01.34088 (10485.0911459)          			UserInput
+19:26:01.34088 (10485.1577386)          			Marshaller
+19:26:01.34088 (10485.1577386)          			ProfilingSection
+19:26:01.34088 (10485.1577386)          			BindToWorkspace
+19:26:01.34088 (10485.2886537)          			RenderRequestJob
+19:26:01.34088 (10485.2896485)          			RenderJob
+19:26:01.34088 (10485.2896485)          			WrapMouseJob
+19:26:01.34088 (10485.2896485)          			ConfigureStats
+19:26:01.34088 (10485.2896485)          		RobloxView::RobloxView - end
+19:27:32.59552 (10575.3761239)          Auto-Saving...
+19:28:57.13480 (10660.9600688)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:28:57.13480 (10661.2270568)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:28:58.14480 (10661.3740125)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:28:58.14480 (10661.5100558)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:28:58.14480 (10661.9280468)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:28:58.14480 (10662.0200558)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:28:58.14480 (10662.1000549)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:28:58.14480 (10662.2070603)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:28:59.15480 (10662.4950675)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:28:59.15480 (10663.2410643)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:00.16480 (10663.5640811)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:00.16480 (10663.6300374)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:00.16480 (10664.2970733)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:01.17480 (10664.3400806)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:01.17480 (10664.4181210)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:01.17480 (10664.5200640)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:01.17480 (10664.6931163)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:23.39480 (10687.2322867)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:24.40480 (10687.5772930)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:24.40480 (10687.7105102)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:24.40480 (10687.7789036)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:24.40480 (10688.2542570)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:25.41480 (10688.3462756)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:25.41480 (10688.4403064)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:25.41480 (10688.5412701)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:25.41480 (10689.1373202)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:26.42480 (10689.7423313)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:26.42480 (10689.8763167)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:26.42480 (10689.9713203)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:26.42480 (10690.1933067)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:26.42480 (10690.3273254)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:27.43480 (10690.3533290)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:27.43480 (10690.4793311)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:27.43480 (10690.6382843)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:46.62480 (10709.9145035)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:47.63480 (10710.7518461)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:47.63480 (10710.8935217)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:47.63480 (10710.9654759)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:47.63480 (10711.0576903)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:47.63480 (10711.1508488)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:47.63480 (10711.2457625)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:48.64480 (10711.5720523)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:49.65480 (10712.5579541)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:49.65480 (10712.8541243)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:49.65480 (10712.9730419)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:50.944 (10713.6646564)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:51.1944 (10714.5066503)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:51.1944 (10714.5906506)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:51.1944 (10714.6907562)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:29:51.1944 (10714.8488845)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:30:08.18944 (10732.0848963)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:30:09.19944 (10732.7718914)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:30:09.19944 (10732.9319008)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:30:09.19944 (10733.0109518)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:30:09.19944 (10733.2049060)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:30:11.21944 (10734.4630151)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:30:11.21944 (10734.5349048)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:30:11.21944 (10734.6379765)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:30:12.22944 (10735.4789921)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:30:12.22944 (10735.8869704)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:30:12.22944 (10736.1229628)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:30:12.22944 (10736.2330644)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:30:13.23944 (10736.4379985)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:30:13.23944 (10736.5439988)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:30:13.23944 (10736.6180245)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:30:13.23944 (10736.7559895)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:30:13.23944 (10737.0800003)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:30:58.3408 (10782.0425835)          Auto-Saving...
+19:30:59.4408 (10782.7621139)          		RobloxView::RobloxView - start
+19:30:59.4408 (10782.7621139)          			UserInput
+19:30:59.4408 (10782.9751199)          			Marshaller
+19:30:59.4408 (10782.9751199)          			ProfilingSection
+19:30:59.4408 (10782.9761199)          			BindToWorkspace
+19:30:59.4408 (10783.1291316)          			RenderRequestJob
+19:30:59.4408 (10783.1291316)          			RenderJob
+19:30:59.4408 (10783.1291316)          			WrapMouseJob
+19:30:59.4408 (10783.1291316)          			ConfigureStats
+19:30:59.4408 (10783.1291316)          		RobloxView::RobloxView - end
+19:31:13.18408 (10796.5822896)          		RobloxView::RobloxView - start
+19:31:13.18408 (10796.5822896)          			UserInput
+19:31:13.18408 (10796.6772350)          			Marshaller
+19:31:13.18408 (10796.6772350)          			ProfilingSection
+19:31:13.18408 (10796.6772350)          			BindToWorkspace
+19:31:13.18408 (10796.8232181)          			RenderRequestJob
+19:31:13.18408 (10796.8232181)          			RenderJob
+19:31:13.18408 (10796.8232181)          			WrapMouseJob
+19:31:13.18408 (10796.8232181)          			ConfigureStats
+19:31:13.18408 (10796.8242171)          		RobloxView::RobloxView - end
+19:31:27.32408 (10810.6066391)          Auto-Saving...
+19:31:28.33408 (10811.4347973)          		RobloxView::RobloxView - start
+19:31:28.33408 (10811.4347973)          			UserInput
+19:31:28.33408 (10811.5077473)          			Marshaller
+19:31:28.33408 (10811.5077473)          			ProfilingSection
+19:31:28.33408 (10811.5077473)          			BindToWorkspace
+19:31:28.33408 (10811.6479444)          			RenderRequestJob
+19:31:28.33408 (10811.6489394)          			RenderJob
+19:31:28.33408 (10811.6489394)          			WrapMouseJob
+19:31:28.33408 (10811.6489394)          			ConfigureStats
+19:31:28.33408 (10811.6489394)          		RobloxView::RobloxView - end
+19:31:44.49408 (10827.6416674)          		RobloxView::RobloxView - start
+19:31:44.49408 (10827.6426668)          			UserInput
+19:31:44.49408 (10827.7777309)          			Marshaller
+19:31:44.49408 (10827.7777309)          			ProfilingSection
+19:31:44.49408 (10827.7777309)          			BindToWorkspace
+19:31:44.49408 (10827.9265019)          			RenderRequestJob
+19:31:44.49408 (10827.9265019)          			RenderJob
+19:31:44.49408 (10827.9265019)          			WrapMouseJob
+19:31:44.49408 (10827.9265019)          			ConfigureStats
+19:31:44.49408 (10827.9284913)          		RobloxView::RobloxView - end
+19:31:56.61408 (10840.1686495)          Auto-Saving...
+19:31:57.62408 (10841.0756295)          		RobloxView::RobloxView - start
+19:31:57.62408 (10841.0756295)          			UserInput
+19:31:57.62408 (10841.1646565)          			Marshaller
+19:31:57.62408 (10841.1646565)          			ProfilingSection
+19:31:57.62408 (10841.1646565)          			BindToWorkspace
+19:31:58.63408 (10841.3576636)          			RenderRequestJob
+19:31:58.63408 (10841.3576636)          			RenderJob
+19:31:58.63408 (10841.3576636)          			WrapMouseJob
+19:31:58.63408 (10841.3576636)          			ConfigureStats
+19:31:58.63408 (10841.3576636)          		RobloxView::RobloxView - end
+19:32:08.7872 (10852.1903001)          		RobloxView::RobloxView - start
+19:32:08.7872 (10852.1903001)          			UserInput
+19:32:08.7872 (10852.2642874)          			Marshaller
+19:32:08.7872 (10852.2642874)          			ProfilingSection
+19:32:08.7872 (10852.2642874)          			BindToWorkspace
+19:32:09.8872 (10852.4062037)          			RenderRequestJob
+19:32:09.8872 (10852.4062037)          			RenderJob
+19:32:09.8872 (10852.4062037)          			WrapMouseJob
+19:32:09.8872 (10852.4062037)          			ConfigureStats
+19:32:09.8872 (10852.4071989)          		RobloxView::RobloxView - end
+19:32:32.31872 (10875.4333982)          Auto-Saving...
+19:32:35.34872 (10878.5721105)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:35.34872 (10878.8431716)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:35.34872 (10878.9796081)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:35.34872 (10879.0714741)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:36.35872 (10879.4570720)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:36.35872 (10879.5562075)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:36.35872 (10879.6343077)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:36.35872 (10879.7603608)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:37.36872 (10881.2440460)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:38.37872 (10882.0480275)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:39.38872 (10882.6651322)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:39.38872 (10882.6847286)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:39.38872 (10882.7940991)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:40.39872 (10884.3163273)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:41.40872 (10884.4360304)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:41.40872 (10884.4490101)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:42.41872 (10885.4040915)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:42.41872 (10885.5340886)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:42.41872 (10885.6910859)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:49.48872 (10892.9221313)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:49.48872 (10893.0291734)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:49.48872 (10893.2761286)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:50.49872 (10893.4151557)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:50.49872 (10893.5061911)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:50.49872 (10893.6491215)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:50.49872 (10893.7842149)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:50.49872 (10893.8692216)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:50.49872 (10893.9992289)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:51.50872 (10894.3621939)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:51.50872 (10894.8751377)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:51.50872 (10895.0032104)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:52.51872 (10895.7011680)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:52.51872 (10896.1651549)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:52.51872 (10896.2181717)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:52.51872 (10896.3131683)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:53.52872 (10896.4882135)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:53.52872 (10897.0331928)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:54.53872 (10897.3340678)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:58.57872 (10902.0491960)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:58.57872 (10902.1572662)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:59.58872 (10902.4192238)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:59.58872 (10902.5674471)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:59.58872 (10902.6521596)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:59.58872 (10902.7362676)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:59.58872 (10902.8682192)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:32:59.58872 (10903.0182399)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:00.59872 (10903.6962969)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:01.60872 (10904.5403145)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:01.60872 (10904.7453088)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:01.60872 (10904.8553116)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:01.60872 (10905.2663082)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:02.61872 (10905.3513317)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:02.61872 (10905.4543077)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:03.62872 (10906.7343379)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:03.62872 (10907.3033559)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:04.63872 (10907.3613574)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:04.63872 (10907.4513300)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:04.63872 (10907.6053331)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:05.64872 (10908.5623893)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:06.336 (10909.7293745)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:19.13336 (10923.0915743)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:19.13336 (10923.1940006)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:20.14336 (10923.4545578)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:20.14336 (10923.5745877)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:20.14336 (10923.6509575)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:20.14336 (10923.7357967)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:20.14336 (10923.9046079)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:20.14336 (10924.1075867)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:21.15336 (10924.5476396)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:23.17336 (10926.8506298)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:24.18336 (10927.7506911)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:24.18336 (10927.8236385)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:24.18336 (10927.9607072)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:25.19336 (10928.3353555)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:25.19336 (10928.4476711)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:25.19336 (10928.5766151)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:25.19336 (10928.8106418)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:28.22336 (10931.4246943)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:28.22336 (10931.5387149)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:33:29.23336 (10932.3826980)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:34:08.62336 (10971.5895981)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:34:10.64336 (10973.7155952)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:36:44.21728 (11127.4146684)          Auto-Saving...
+19:36:45.22728 (11128.4937685)          		RobloxView::RobloxView - start
+19:36:45.22728 (11128.4937685)          			UserInput
+19:36:45.22728 (11128.5772526)          			Marshaller
+19:36:45.22728 (11128.5772526)          			ProfilingSection
+19:36:45.22728 (11128.5772526)          			BindToWorkspace
+19:36:45.22728 (11128.7612649)          			RenderRequestJob
+19:36:45.22728 (11128.7612649)          			RenderJob
+19:36:45.22728 (11128.7622647)          			WrapMouseJob
+19:36:45.22728 (11128.7622647)          			ConfigureStats
+19:36:45.22728 (11128.7622647)          		RobloxView::RobloxView - end
+19:37:07.44728 (11150.9232876)          		RobloxView::RobloxView - start
+19:37:07.44728 (11150.9242877)          			UserInput
+19:37:07.44728 (11151.0752970)          			Marshaller
+19:37:07.44728 (11151.0752970)          			ProfilingSection
+19:37:07.44728 (11151.0752970)          			BindToWorkspace
+19:37:07.44728 (11151.2763117)          			RenderRequestJob
+19:37:07.44728 (11151.2763117)          			RenderJob
+19:37:07.44728 (11151.2763117)          			WrapMouseJob
+19:37:07.44728 (11151.2763117)          			ConfigureStats
+19:37:07.44728 (11151.2773118)          		RobloxView::RobloxView - end
+19:37:30.2192 (11173.4136136)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Assosiate'
+19:37:32.4192 (11175.4735400)          Auto-Saving...
+19:37:33.5192 (11176.8758600)          Auto-Saving...
+19:37:34.6192 (11177.4229508)          		RobloxView::RobloxView - start
+19:37:34.6192 (11177.4229508)          			UserInput
+19:37:34.6192 (11177.5029538)          			Marshaller
+19:37:34.6192 (11177.5039539)          			ProfilingSection
+19:37:34.6192 (11177.5039539)          			BindToWorkspace
+19:37:34.6192 (11177.7009659)          			RenderRequestJob
+19:37:34.6192 (11177.7019660)          			RenderJob
+19:37:34.6192 (11177.7019660)          			WrapMouseJob
+19:37:34.6192 (11177.7019660)          			ConfigureStats
+19:37:34.6192 (11177.7019660)          		RobloxView::RobloxView - end
+19:37:52.24192 (11195.9508606)          		RobloxView::RobloxView - start
+19:37:52.24192 (11195.9508606)          			UserInput
+19:37:52.24192 (11196.0397257)          			Marshaller
+19:37:52.24192 (11196.0397257)          			ProfilingSection
+19:37:52.24192 (11196.0397257)          			BindToWorkspace
+19:37:52.24192 (11196.1858647)          			RenderRequestJob
+19:37:52.24192 (11196.1868648)          			RenderJob
+19:37:52.24192 (11196.1868648)          			WrapMouseJob
+19:37:52.24192 (11196.1868648)          			ConfigureStats
+19:37:52.24192 (11196.1868648)          		RobloxView::RobloxView - end
+19:38:24.56192 (11228.2678457)          Auto-Saving...
+19:38:25.57192 (11229.0279534)          		RobloxView::RobloxView - start
+19:38:25.57192 (11229.0279534)          			UserInput
+19:38:25.57192 (11229.1228837)          			Marshaller
+19:38:25.57192 (11229.1238835)          			ProfilingSection
+19:38:25.57192 (11229.1238835)          			BindToWorkspace
+19:38:26.58192 (11229.3429212)          			RenderRequestJob
+19:38:26.58192 (11229.3429212)          			RenderJob
+19:38:26.58192 (11229.3429212)          			WrapMouseJob
+19:38:26.58192 (11229.3429212)          			ConfigureStats
+19:38:26.58192 (11229.3429212)          		RobloxView::RobloxView - end
+19:38:42.8656 (11245.4768004)          		RobloxView::RobloxView - start
+19:38:42.8656 (11245.4768004)          			UserInput
+19:38:42.8656 (11245.5558186)          			Marshaller
+19:38:42.8656 (11245.5558186)          			ProfilingSection
+19:38:42.8656 (11245.5558186)          			BindToWorkspace
+19:38:42.8656 (11245.7347810)          			RenderRequestJob
+19:38:42.8656 (11245.7347810)          			RenderJob
+19:38:42.8656 (11245.7347810)          			WrapMouseJob
+19:38:42.8656 (11245.7347810)          			ConfigureStats
+19:38:42.8656 (11245.7347810)          		RobloxView::RobloxView - end
+19:39:32.58656 (11296.2138406) Error:   Error in script: '=' expected near '<eof>'
+19:39:39.120 (11303.1880894)          > print(game.Workspace["HarpNet Assosiate"]["Left Arm"].CFrame)
+19:39:39.120 (11303.1910899)          -0.5, 4.41423368, -26.5, -2.52233724e-044, -0.999999404, -1.73870093e-022, 0.999999404, -3.78350585e-044, -2.92731817e-022, 2.92730479e-022, -1.7387051e-022, 1
+19:40:32.53120 (11355.6527466)          Auto-Saving...
+19:40:33.54120 (11356.4358076)          		RobloxView::RobloxView - start
+19:40:33.54120 (11356.4358076)          			UserInput
+19:40:33.54120 (11356.5228302)          			Marshaller
+19:40:33.54120 (11356.5228302)          			ProfilingSection
+19:40:33.54120 (11356.5228302)          			BindToWorkspace
+19:40:33.54120 (11356.7632958)          			RenderRequestJob
+19:40:33.54120 (11356.7632958)          			RenderJob
+19:40:33.54120 (11356.7632958)          			WrapMouseJob
+19:40:33.54120 (11356.7632958)          			ConfigureStats
+19:40:33.54120 (11356.7642909)          		RobloxView::RobloxView - end
+19:41:01.16584 (11384.9218877)          		RobloxView::RobloxView - start
+19:41:01.16584 (11384.9218877)          			UserInput
+19:41:02.17584 (11385.7359278)          			Marshaller
+19:41:02.17584 (11385.7359278)          			ProfilingSection
+19:41:02.17584 (11385.7359278)          			BindToWorkspace
+19:41:02.17584 (11385.9569520)          			RenderRequestJob
+19:41:02.17584 (11385.9569520)          			RenderJob
+19:41:02.17584 (11385.9569520)          			WrapMouseJob
+19:41:02.17584 (11385.9569520)          			ConfigureStats
+19:41:02.17584 (11385.9579521)          		RobloxView::RobloxView - end
+19:41:18.33584 (11402.1529660)          Auto-Saving...
+19:41:19.34584 (11403.0080287)          		RobloxView::RobloxView - start
+19:41:19.34584 (11403.0080287)          			UserInput
+19:41:19.34584 (11403.0990235)          			Marshaller
+19:41:19.34584 (11403.0990235)          			ProfilingSection
+19:41:19.34584 (11403.0990235)          			BindToWorkspace
+19:41:19.34584 (11403.2440327)          			RenderRequestJob
+19:41:19.34584 (11403.2440327)          			RenderJob
+19:41:19.34584 (11403.2440327)          			WrapMouseJob
+19:41:19.34584 (11403.2440327)          			ConfigureStats
+19:41:19.34584 (11403.2450327)          		RobloxView::RobloxView - end
+19:41:31.46584 (11415.1603158)          		RobloxView::RobloxView - start
+19:41:31.46584 (11415.1603158)          			UserInput
+19:41:32.47584 (11415.2903715)          			Marshaller
+19:41:32.47584 (11415.2903715)          			ProfilingSection
+19:41:32.47584 (11415.2903715)          			BindToWorkspace
+19:41:32.47584 (11415.4893295)          			RenderRequestJob
+19:41:32.47584 (11415.4893295)          			RenderJob
+19:41:32.47584 (11415.4903294)          			WrapMouseJob
+19:41:32.47584 (11415.4903294)          			ConfigureStats
+19:41:32.47584 (11415.4903294)          		RobloxView::RobloxView - end
+19:41:38.53584 (11421.3086950)          Auto-Saving...
+19:41:38.53584 (11422.0437453)          		RobloxView::RobloxView - start
+19:41:38.53584 (11422.0437453)          			UserInput
+19:41:38.53584 (11422.2482796)          			Marshaller
+19:41:38.53584 (11422.2482796)          			ProfilingSection
+19:41:38.53584 (11422.2482796)          			BindToWorkspace
+19:41:39.54584 (11422.3927538)          			RenderRequestJob
+19:41:39.54584 (11422.3927538)          			RenderJob
+19:41:39.54584 (11422.3937536)          			WrapMouseJob
+19:41:39.54584 (11422.3937536)          			ConfigureStats
+19:41:39.54584 (11422.3937536)          		RobloxView::RobloxView - end
+19:41:43.58584 (11427.1666505)          		RobloxView::RobloxView - start
+19:41:43.58584 (11427.1666505)          			UserInput
+19:41:43.58584 (11427.2596093)          			Marshaller
+19:41:43.58584 (11427.2596093)          			ProfilingSection
+19:41:43.58584 (11427.2596093)          			BindToWorkspace
+19:41:44.59584 (11427.3926361)          			RenderRequestJob
+19:41:44.59584 (11427.3926361)          			RenderJob
+19:41:44.59584 (11427.3926361)          			WrapMouseJob
+19:41:44.59584 (11427.3926361)          			ConfigureStats
+19:41:44.59584 (11427.3926361)          		RobloxView::RobloxView - end
+19:42:32.42048 (11475.5266474)          Auto-Saving...
+19:42:43.53048 (11486.5138827)          Auto-Saving...
+19:42:44.54048 (11487.2899496)          		RobloxView::RobloxView - start
+19:42:44.54048 (11487.2899496)          			UserInput
+19:42:44.54048 (11487.5459608)          			Marshaller
+19:42:44.54048 (11487.5459608)          			ProfilingSection
+19:42:44.54048 (11487.5459608)          			BindToWorkspace
+19:42:44.54048 (11487.7029698)          			RenderRequestJob
+19:42:44.54048 (11487.7029698)          			RenderJob
+19:42:44.54048 (11487.7029698)          			WrapMouseJob
+19:42:44.54048 (11487.7029698)          			ConfigureStats
+19:42:44.54048 (11487.7039698)          		RobloxView::RobloxView - end
+19:42:53.63048 (11496.9125759)          		RobloxView::RobloxView - start
+19:42:53.63048 (11496.9125759)          			UserInput
+19:42:53.63048 (11497.0319873)          			Marshaller
+19:42:53.63048 (11497.0319873)          			ProfilingSection
+19:42:53.63048 (11497.0319873)          			BindToWorkspace
+19:42:53.63048 (11497.2679673)          			RenderRequestJob
+19:42:53.63048 (11497.2679673)          			RenderJob
+19:42:53.63048 (11497.2679673)          			WrapMouseJob
+19:42:53.63048 (11497.2679673)          			ConfigureStats
+19:42:53.63048 (11497.2679673)          		RobloxView::RobloxView - end
+19:43:15.19512 (11518.9051697)          Auto-Saving...
+19:43:16.20512 (11519.7292237)          		RobloxView::RobloxView - start
+19:43:16.20512 (11519.7292237)          			UserInput
+19:43:16.20512 (11519.8282351)          			Marshaller
+19:43:16.20512 (11519.8282351)          			ProfilingSection
+19:43:16.20512 (11519.8282351)          			BindToWorkspace
+19:43:16.20512 (11520.0122452)          			RenderRequestJob
+19:43:16.20512 (11520.0132453)          			RenderJob
+19:43:16.20512 (11520.0132453)          			WrapMouseJob
+19:43:16.20512 (11520.0132453)          			ConfigureStats
+19:43:16.20512 (11520.0152456)          		RobloxView::RobloxView - end
+19:43:23.27512 (11526.5421239)          		RobloxView::RobloxView - start
+19:43:23.27512 (11526.5421239)          			UserInput
+19:43:23.27512 (11526.6161340)          			Marshaller
+19:43:23.27512 (11526.6161340)          			ProfilingSection
+19:43:23.27512 (11526.6161340)          			BindToWorkspace
+19:43:23.27512 (11526.7998653)          			RenderRequestJob
+19:43:23.27512 (11526.7998653)          			RenderJob
+19:43:23.27512 (11526.7998653)          			WrapMouseJob
+19:43:23.27512 (11526.8008604)          			ConfigureStats
+19:43:23.27512 (11526.8008604)          		RobloxView::RobloxView - end
+19:43:38.42512 (11541.3749817)          Auto-Saving...
+19:43:38.42512 (11542.2501487)          		RobloxView::RobloxView - start
+19:43:38.42512 (11542.2511497)          			UserInput
+19:43:39.43512 (11542.3312271)          			Marshaller
+19:43:39.43512 (11542.3312271)          			ProfilingSection
+19:43:39.43512 (11542.3322281)          			BindToWorkspace
+19:43:39.43512 (11542.5100651)          			RenderRequestJob
+19:43:39.43512 (11542.5100651)          			RenderJob
+19:43:39.43512 (11542.5100651)          			WrapMouseJob
+19:43:39.43512 (11542.5100651)          			ConfigureStats
+19:43:39.43512 (11542.5110651)          		RobloxView::RobloxView - end
+19:43:53.57512 (11556.9531038)          		RobloxView::RobloxView - start
+19:43:53.57512 (11556.9541041)          			UserInput
+19:43:53.57512 (11557.0371283)          			Marshaller
+19:43:53.57512 (11557.0371283)          			ProfilingSection
+19:43:53.57512 (11557.0381286)          			BindToWorkspace
+19:43:53.57512 (11557.1890866)          			RenderRequestJob
+19:43:53.57512 (11557.1890866)          			RenderJob
+19:43:53.57512 (11557.1890866)          			WrapMouseJob
+19:43:53.57512 (11557.1890866)          			ConfigureStats
+19:43:53.57512 (11557.1900865)          		RobloxView::RobloxView - end
+19:44:08.6976 (11571.5329820)          Auto-Saving...
+19:44:08.6976 (11572.1824686)          		RobloxView::RobloxView - start
+19:44:08.6976 (11572.1824686)          			UserInput
+19:44:08.6976 (11572.2724761)          			Marshaller
+19:44:08.6976 (11572.2724761)          			ProfilingSection
+19:44:08.6976 (11572.2734762)          			BindToWorkspace
+19:44:09.7976 (11572.4514854)          			RenderRequestJob
+19:44:09.7976 (11572.4514854)          			RenderJob
+19:44:09.7976 (11572.4514854)          			WrapMouseJob
+19:44:09.7976 (11572.4514854)          			ConfigureStats
+19:44:09.7976 (11572.4514854)          		RobloxView::RobloxView - end
+19:44:16.14976 (11579.7469133)          		RobloxView::RobloxView - start
+19:44:16.14976 (11579.7469133)          			UserInput
+19:44:16.14976 (11579.8459217)          			Marshaller
+19:44:16.14976 (11579.8459217)          			ProfilingSection
+19:44:16.14976 (11579.8459217)          			BindToWorkspace
+19:44:16.14976 (11579.9799229)          			RenderRequestJob
+19:44:16.14976 (11579.9799229)          			RenderJob
+19:44:16.14976 (11579.9799229)          			WrapMouseJob
+19:44:16.14976 (11579.9799229)          			ConfigureStats
+19:44:16.14976 (11579.9809229)          		RobloxView::RobloxView - end
+19:47:32.14368 (11775.5746788)          Auto-Saving...
+19:48:00.42368 (11803.9700898)          > Instance.new("ThumbnailCamera",game.Workspace)
+19:48:00.42368 (11803.9740898) Error:   Unable to create an Instance of type "ThumbnailCamera"
+19:48:00.42368 (11803.9770899)          Script 'Instance.new("ThumbnailCamera",game.Workspace)', Line 1
+19:48:00.42368 (11803.9790899)          Stack End
+19:48:05.47368 (11808.5511881)          > Instance.new("Camera",game.Workspace)
+19:49:25.61832 (11889.0440938)          > game.Workspace.Camera = game.Workspace.ThumbnailCamera
+19:49:25.61832 (11889.0620056) Error:   Camera is not a valid member of Workspace
+19:49:25.61832 (11889.0639958)          Script 'game.Workspace.Camera = game.Workspace.ThumbnailCamera', Line 1
+19:49:25.61832 (11889.0669811)          Stack End
+19:50:41.6760 (11964.9111606)          > game.Workspace.Camera .CameraSubject = game.Workspace["HarpNet Assosiate"].Torso
+19:52:32.52224 (12075.6267242)          Auto-Saving...
+19:52:58.12688 (12102.0254796)          Auto-Saving...
+19:53:00.14688 (12103.6200316)          Successfully published - dkxe's Place
+19:54:01.10152 (12165.1128960)          Auto-Saving...
+19:54:02.11152 (12165.8639450)          		RobloxView::RobloxView - start
+19:54:02.11152 (12165.8639450)          			UserInput
+19:54:02.11152 (12165.9299752)          			Marshaller
+19:54:02.11152 (12165.9299752)          			ProfilingSection
+19:54:02.11152 (12165.9299752)          			BindToWorkspace
+19:54:02.11152 (12166.0721104)          			RenderRequestJob
+19:54:02.11152 (12166.0731052)          			RenderJob
+19:54:02.11152 (12166.0731052)          			WrapMouseJob
+19:54:02.11152 (12166.0731052)          			ConfigureStats
+19:54:02.11152 (12166.0731052)          		RobloxView::RobloxView - end
+19:54:08.17152 (12172.1092984)          		RobloxView::RobloxView - start
+19:54:08.17152 (12172.1092984)          			UserInput
+19:54:08.17152 (12172.2053075)          			Marshaller
+19:54:08.17152 (12172.2053075)          			ProfilingSection
+19:54:08.17152 (12172.2053075)          			BindToWorkspace
+19:54:09.18152 (12172.3382954)          			RenderRequestJob
+19:54:09.18152 (12172.3382954)          			RenderJob
+19:54:09.18152 (12172.3382954)          			WrapMouseJob
+19:54:09.18152 (12172.3382954)          			ConfigureStats
+19:54:09.18152 (12172.3392950)          		RobloxView::RobloxView - end
+19:54:24.33152 (12187.3905748)          Auto-Saving...
+19:54:25.34152 (12188.4116483)          		RobloxView::RobloxView - start
+19:54:25.34152 (12188.4126484)          			UserInput
+19:54:25.34152 (12188.6036791)          			Marshaller
+19:54:25.34152 (12188.6036791)          			ProfilingSection
+19:54:25.34152 (12188.6036791)          			BindToWorkspace
+19:54:25.34152 (12188.7890792)          			RenderRequestJob
+19:54:25.34152 (12188.7890792)          			RenderJob
+19:54:25.34152 (12188.7890792)          			WrapMouseJob
+19:54:25.34152 (12188.7890792)          			ConfigureStats
+19:54:25.34152 (12188.7900781)          		RobloxView::RobloxView - end
+19:55:26.29616 (12249.5201629)          		RobloxView::RobloxView - start
+19:55:26.29616 (12249.5211631)          			UserInput
+19:55:26.29616 (12249.5951751)          			Marshaller
+19:55:26.29616 (12249.5951751)          			ProfilingSection
+19:55:26.29616 (12249.5951751)          			BindToWorkspace
+19:55:26.29616 (12249.7351558)          			RenderRequestJob
+19:55:26.29616 (12249.7351558)          			RenderJob
+19:55:26.29616 (12249.7351558)          			WrapMouseJob
+19:55:26.29616 (12249.7351558)          			ConfigureStats
+19:55:26.29616 (12249.7361556)          		RobloxView::RobloxView - end
+19:55:54.57616 (12278.0281599)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:55:55.58616 (12278.3058719)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:55:55.58616 (12278.4427630)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:55:55.58616 (12278.6237961)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:55:55.58616 (12278.7407948)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:55:55.58616 (12278.8818028)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:55:55.58616 (12278.9828002)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:55:55.58616 (12279.1038021)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:55:56.59616 (12279.4288205)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:55:56.59616 (12280.2183235)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:55:57.60616 (12280.3078946)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:55:57.60616 (12280.3983886)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:55:57.60616 (12280.5621261)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:55:57.60616 (12280.7008762)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:55:57.60616 (12281.0628320)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:55:58.61616 (12282.0598829)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:55:59.62616 (12282.3769047)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:55:59.62616 (12282.4688782)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:55:59.62616 (12282.5539058)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:55:59.62616 (12282.6858654)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:56:00.63616 (12284.2319149)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:56:01.64616 (12284.2649192)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:56:01.64616 (12284.4589197)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:56:01.64616 (12284.5210222)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:56:01.64616 (12284.6938616)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:56:02.080 (12285.4069375)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:56:02.080 (12285.5779074)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:56:02.080 (12285.6859320)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:56:02.080 (12285.8129645)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:56:03.1080 (12286.4449944)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:56:03.1080 (12286.6350211)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:56:03.1080 (12286.7850532)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:56:03.1080 (12286.9269421)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:56:04.2080 (12287.3010730)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:56:04.2080 (12287.5190583)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:56:04.2080 (12287.9090582)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:56:04.2080 (12288.0450576)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:56:04.2080 (12288.1740635)          IntelleSenseException: syntax error: [string ""]:1: '<eof>' expected near 'Zombie'
+19:56:25.23080 (12308.4246601)          Auto-Saving...
+19:56:26.24080 (12309.4137411)          		RobloxView::RobloxView - start
+19:56:26.24080 (12309.4137411)          			UserInput
+19:56:26.24080 (12309.5767317)          			Marshaller
+19:56:26.24080 (12309.5767317)          			ProfilingSection
+19:56:26.24080 (12309.5767317)          			BindToWorkspace
+19:56:26.24080 (12309.7427488)          			RenderRequestJob
+19:56:26.24080 (12309.7427488)          			RenderJob
+19:56:26.24080 (12309.7427488)          			WrapMouseJob
+19:56:26.24080 (12309.7427488)          			ConfigureStats
+19:56:26.24080 (12309.7427488)          		RobloxView::RobloxView - end
+19:57:11.3544 (12355.0679479)          		RobloxView::RobloxView - start
+19:57:11.3544 (12355.0679479)          			UserInput
+19:57:11.3544 (12355.1446817)          			Marshaller
+19:57:11.3544 (12355.1446817)          			ProfilingSection
+19:57:11.3544 (12355.1446817)          			BindToWorkspace
+19:57:12.4544 (12355.2989591)          			RenderRequestJob
+19:57:12.4544 (12355.2989591)          			RenderJob
+19:57:12.4544 (12355.2989591)          			WrapMouseJob
+19:57:12.4544 (12355.2989591)          			ConfigureStats
+19:57:12.4544 (12355.2999591)          		RobloxView::RobloxView - end
+19:57:32.24544 (12375.6782756)          Auto-Saving...
+20:01:50.20400 (12634.0551307)          Auto-Saving...
+20:01:51.21400 (12635.2122152)          		RobloxView::RobloxView - start
+20:01:51.21400 (12635.2122152)          			UserInput
+20:01:52.22400 (12635.3382193)          			Marshaller
+20:01:52.22400 (12635.3382193)          			ProfilingSection
+20:01:52.22400 (12635.3382193)          			BindToWorkspace
+20:01:52.22400 (12635.5132329)          			RenderRequestJob
+20:01:52.22400 (12635.5132329)          			RenderJob
+20:01:52.22400 (12635.5132329)          			WrapMouseJob
+20:01:52.22400 (12635.5132329)          			ConfigureStats
+20:01:52.22400 (12635.5132329)          		RobloxView::RobloxView - end
+20:02:53.17864 (12697.0156941)          		RobloxView::RobloxView - start
+20:02:53.17864 (12697.0156941)          			UserInput
+20:02:53.17864 (12697.0877452)          			Marshaller
+20:02:53.17864 (12697.0877452)          			ProfilingSection
+20:02:53.17864 (12697.0877452)          			BindToWorkspace
+20:02:54.18864 (12697.2336705)          			RenderRequestJob
+20:02:54.18864 (12697.2336705)          			RenderJob
+20:02:54.18864 (12697.2336705)          			WrapMouseJob
+20:02:54.18864 (12697.2336705)          			ConfigureStats
+20:02:54.18864 (12697.2346700)          		RobloxView::RobloxView - end
+20:04:29.48328 (12792.9150656)          Auto-Saving...
+20:04:30.49328 (12794.0888582)          		RobloxView::RobloxView - start
+20:04:30.49328 (12794.0888582)          			UserInput
+20:04:30.49328 (12794.2098665)          			Marshaller
+20:04:30.49328 (12794.2098665)          			ProfilingSection
+20:04:30.49328 (12794.2108666)          			BindToWorkspace
+20:04:31.50328 (12794.4098760)          			RenderRequestJob
+20:04:31.50328 (12794.4098760)          			RenderJob
+20:04:31.50328 (12794.4098760)          			WrapMouseJob
+20:04:31.50328 (12794.4098760)          			ConfigureStats
+20:04:31.50328 (12794.4108760)          		RobloxView::RobloxView - end
+20:07:11.13720 (12954.5398036)          		RobloxView::RobloxView - start
+20:07:11.13720 (12954.5398036)          			UserInput
+20:07:11.13720 (12954.6288105)          			Marshaller
+20:07:11.13720 (12954.6288105)          			ProfilingSection
+20:07:11.13720 (12954.6288105)          			BindToWorkspace
+20:07:11.13720 (12954.7618220)          			RenderRequestJob
+20:07:11.13720 (12954.7618220)          			RenderJob
+20:07:11.13720 (12954.7618220)          			WrapMouseJob
+20:07:11.13720 (12954.7618220)          			ConfigureStats
+20:07:11.13720 (12954.7618220)          		RobloxView::RobloxView - end
+20:07:32.34720 (12975.7832727)          Auto-Saving...
+20:07:33.35720 (12976.2619148)          Auto-Saving...
+20:07:33.35720 (12977.0934779)          		RobloxView::RobloxView - start
+20:07:33.35720 (12977.0934779)          			UserInput
+20:07:33.35720 (12977.1954855)          			Marshaller
+20:07:33.35720 (12977.1954855)          			ProfilingSection
+20:07:33.35720 (12977.1954855)          			BindToWorkspace
+20:07:34.36720 (12977.3614866)          			RenderRequestJob
+20:07:34.36720 (12977.3624866)          			RenderJob
+20:07:34.36720 (12977.3624866)          			WrapMouseJob
+20:07:34.36720 (12977.3624866)          			ConfigureStats
+20:07:34.36720 (12977.3624866)          		RobloxView::RobloxView - end
+20:08:52.49184 (13056.0482338)          		RobloxView::RobloxView - start
+20:08:52.49184 (13056.0492339)          			UserInput
+20:08:52.49184 (13056.1502492)          			Marshaller
+20:08:52.49184 (13056.1502492)          			ProfilingSection
+20:08:52.49184 (13056.1502492)          			BindToWorkspace
+20:08:53.50184 (13056.3522162)          			RenderRequestJob
+20:08:53.50184 (13056.3522162)          			RenderJob
+20:08:53.50184 (13056.3522162)          			WrapMouseJob
+20:08:53.50184 (13056.3532162)          			ConfigureStats
+20:08:53.50184 (13056.3532162)          		RobloxView::RobloxView - end
+20:09:01.58184 (13064.6562888)          Auto-Saving...
+20:12:32.7040 (13275.8406509)          Auto-Saving...
+20:15:11.34968 (13434.4159431)          Auto-Saving...
+20:15:12.35968 (13435.2735038)          		RobloxView::RobloxView - start
+20:15:12.35968 (13435.2735038)          			UserInput
+20:15:12.35968 (13435.6095255)          			Marshaller
+20:15:12.35968 (13435.6095255)          			ProfilingSection
+20:15:12.35968 (13435.6105256)          			BindToWorkspace
+20:15:12.35968 (13435.7785722)          			RenderRequestJob
+20:15:12.35968 (13435.7785722)          			RenderJob
+20:15:12.35968 (13435.7785722)          			WrapMouseJob
+20:15:12.35968 (13435.7785722)          			ConfigureStats
+20:15:12.35968 (13435.7795725)          		RobloxView::RobloxView - end
+20:18:57.64360 (13660.3268244)          		RobloxView::RobloxView - start
+20:18:57.64360 (13660.3268244)          			UserInput
+20:18:57.64360 (13660.4491543)          			Marshaller
+20:18:57.64360 (13660.4491543)          			ProfilingSection
+20:18:57.64360 (13660.4491543)          			BindToWorkspace
+20:18:57.64360 (13660.6398532)          			RenderRequestJob
+20:18:57.64360 (13660.6398532)          			RenderJob
+20:18:57.64360 (13660.6398532)          			WrapMouseJob
+20:18:57.64360 (13660.6408534)          			ConfigureStats
+20:18:57.64360 (13660.6408534)          		RobloxView::RobloxView - end
+20:22:32.17216 (13875.9654852)          Auto-Saving...
+20:24:00.39680 (13963.5707445)          Auto-Saving...
+20:24:06.45680 (13970.0885984)          		RobloxView::RobloxView - start
+20:24:06.45680 (13970.0895984)          			UserInput
+20:24:08.47680 (13971.5332287)          			Marshaller
+20:24:08.47680 (13971.5342289)          			ProfilingSection
+20:24:08.47680 (13971.5342289)          			BindToWorkspace
+20:24:08.47680 (13971.8182228)          			RenderRequestJob
+20:24:08.47680 (13971.8182228)          			RenderJob
+20:24:08.47680 (13971.8182228)          			WrapMouseJob
+20:24:08.47680 (13971.8182228)          			ConfigureStats
+20:24:08.47680 (13971.8192229)          		RobloxView::RobloxView - end
+20:30:24.30464 (14347.6911419)          		RobloxView::RobloxView - start
+20:30:24.30464 (14347.6911419)          			UserInput
+20:30:24.30464 (14347.9231588)          			Marshaller
+20:30:24.30464 (14347.9231588)          			ProfilingSection
+20:30:24.30464 (14347.9241589)          			BindToWorkspace
+20:30:25.31464 (14348.1594625)          			RenderRequestJob
+20:30:25.31464 (14348.1594625)          			RenderJob
+20:30:25.31464 (14348.1594625)          			WrapMouseJob
+20:30:25.31464 (14348.1594625)          			ConfigureStats
+20:30:25.31464 (14348.1604643)          		RobloxView::RobloxView - end
+20:31:32.32928 (14415.1829127)          Auto-Saving...
+20:31:34.34928 (14417.7794689)          Successfully published - dkxe's Place
+20:36:30.3248 (14713.3854100)          Auto-Saving...
+20:36:32.5248 (14715.3729888)          		RobloxView::RobloxView - start
+20:36:32.5248 (14715.3729888)          			UserInput
+20:36:32.5248 (14715.8740479)          			Marshaller
+20:36:32.5248 (14715.8740479)          			ProfilingSection
+20:36:32.5248 (14715.8740479)          			BindToWorkspace
+20:36:32.5248 (14716.0800352)          			RenderRequestJob
+20:36:32.5248 (14716.0800352)          			RenderJob
+20:36:32.5248 (14716.0800352)          			WrapMouseJob
+20:36:32.5248 (14716.0800352)          			ConfigureStats
+20:36:32.5248 (14716.0800352)          		RobloxView::RobloxView - end
+20:40:05.21640 (14928.8740035)          		RobloxView::RobloxView - start
+20:40:05.21640 (14928.8750037)          			UserInput
+20:40:05.21640 (14929.0220000)          			Marshaller
+20:40:05.21640 (14929.0220000)          			ProfilingSection
+20:40:05.21640 (14929.0220000)          			BindToWorkspace
+20:40:06.22640 (14929.2190155)          			RenderRequestJob
+20:40:06.22640 (14929.2190155)          			RenderJob
+20:40:06.22640 (14929.2200156)          			WrapMouseJob
+20:40:06.22640 (14929.2200156)          			ConfigureStats
+20:40:06.22640 (14929.2200156)          		RobloxView::RobloxView - end
+20:41:03.14104 (14986.3956417)          Auto-Saving...
+20:41:06.17104 (14989.3047602)          Successfully published - dkxe's Place
+20:44:40.34496 (15203.5543079)          Auto-Saving...
+20:44:41.35496 (15204.8353901)          		RobloxView::RobloxView - start
+20:44:41.35496 (15204.8353901)          			UserInput
+20:44:42.36496 (15205.0954084)          			Marshaller
+20:44:42.36496 (15205.0954084)          			ProfilingSection
+20:44:42.36496 (15205.0954084)          			BindToWorkspace
+20:44:42.36496 (15205.3694346)          			RenderRequestJob
+20:44:42.36496 (15205.3694346)          			RenderJob
+20:44:42.36496 (15205.3694346)          			WrapMouseJob
+20:44:42.36496 (15205.3694346)          			ConfigureStats
+20:44:42.36496 (15205.3714346)          		RobloxView::RobloxView - end
+20:45:48.36960 (15271.2985664)          		RobloxView::RobloxView - start
+20:45:48.36960 (15271.2985664)          			UserInput
+20:45:48.36960 (15271.5205807)          			Marshaller
+20:45:48.36960 (15271.5205807)          			ProfilingSection
+20:45:48.36960 (15271.5205807)          			BindToWorkspace
+20:45:48.36960 (15271.6986100)          			RenderRequestJob
+20:45:48.36960 (15271.6986100)          			RenderJob
+20:45:48.36960 (15271.6986100)          			WrapMouseJob
+20:45:48.36960 (15271.6986100)          			ConfigureStats
+20:45:48.36960 (15271.6986100)          		RobloxView::RobloxView - end
+20:47:04.47424 (15347.8424530)          Auto-Saving...
+20:47:07.50424 (15350.2501667)          Successfully published - dkxe's Place
+20:47:10.53424 (15353.0728130)          RobloxMainWindow::closeEvent
+20:47:11.54424 (15354.7979266)          RobloxMainWindow::~RobloxMainWindow
+27.05.2015 20:47:12.55424 (15355.8310388)End Log

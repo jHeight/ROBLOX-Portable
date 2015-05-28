@@ -1,0 +1,81 @@
+27.05.2015 08:06:33.29480 (178.9219614)Log "Roblox TaskScheduler Thread 1"
+08:06:33.29480 (178.9219614)          Layout Set Buttons index=1, InsertSets=8
+08:17:25.26120 (831.2269021)          Layout Set Buttons index=1, InsertSets=6
+08:17:29.30120 (835.1661915)          Layout Set Buttons index=1, InsertSets=6
+08:22:59.32440 (1165.3272079)          Weld created
+08:22:59.32440 (1165.3332063)          onEquipped
+08:22:59.32440 (1165.3382050)          Reloaded
+08:22:59.32440 (1165.3512391)          onEquipped
+08:23:08.41440 (1174.5977029)          Jumping
+08:24:16.43904 (1242.0305425)          Weld created
+08:24:16.43904 (1242.0365407)          onEquipped
+08:24:16.43904 (1242.0405394)          Reloaded
+08:24:16.43904 (1242.0605766)          onEquipped
+08:26:32.48832 (1378.4241841)          Baseplate waiting for Teams
+08:26:32.48832 (1378.4571790)          Baseplate waiting for Teams
+08:26:33.49832 (1378.6833083)          Baseplate waiting for Teams
+08:26:33.49832 (1378.7363531)          Baseplate waiting for Teams
+08:26:33.49832 (1378.7771760)          Baseplate waiting for Teams
+08:26:33.49832 (1378.8211446)          Baseplate waiting for Teams
+08:26:33.49832 (1379.1572469)          Baseplate waiting for Teams
+08:26:33.49832 (1379.2022521)          Baseplate waiting for Teams
+08:26:33.49832 (1379.2467201)          Baseplate waiting for Teams
+08:26:33.49832 (1379.2805517)          Baseplate waiting for Teams
+08:26:33.49832 (1379.3537587)          Baseplate waiting for Teams
+08:26:33.49832 (1379.3887614)          Baseplate waiting for Teams
+08:26:33.49832 (1379.4247642)          Baseplate waiting for Teams
+08:26:33.49832 (1379.4737650)          Baseplate waiting for Teams
+08:26:33.49832 (1379.5157674)          Baseplate waiting for Teams
+08:26:33.49832 (1379.5637738)          Baseplate waiting for Teams
+08:26:33.49832 (1379.6027771)          Baseplate waiting for Teams
+08:26:34.50832 (1379.6837862)          Baseplate waiting for Teams
+08:26:34.50832 (1379.7927880)          Baseplate waiting for Teams
+08:26:34.50832 (1379.8387899)          Baseplate waiting for Teams
+08:26:34.50832 (1379.8727993)          Baseplate waiting for Teams
+08:26:34.50832 (1379.9068027)          Baseplate waiting for Teams
+08:26:34.50832 (1380.0118211)          Baseplate waiting for Teams
+08:26:34.50832 (1380.1705091)          Baseplate waiting for Teams
+08:26:34.50832 (1380.2478807)          Baseplate waiting for Teams
+08:26:34.50832 (1380.6559648)          Baseplate waiting for Teams
+08:26:35.51832 (1380.6909978)          Baseplate waiting for Teams
+08:26:35.51832 (1380.7628609)          Baseplate waiting for Teams
+08:26:35.51832 (1380.8368066)          Baseplate waiting for Teams
+08:26:35.51832 (1381.0078932)          Baseplate waiting for Teams
+08:26:35.51832 (1381.1108820)          Baseplate waiting for Teams
+08:26:35.51832 (1381.1629319)          Baseplate waiting for Teams
+08:26:35.51832 (1381.3008729)          Baseplate waiting for Teams
+08:26:35.51832 (1381.4599013)          Baseplate waiting for Teams
+08:26:35.51832 (1381.4928996)          Baseplate waiting for Teams
+08:26:35.51832 (1381.5449578)          Baseplate waiting for Teams
+08:26:35.51832 (1381.5829781)          Baseplate waiting for Teams
+08:26:35.51832 (1381.6179968)          Baseplate waiting for Teams
+08:26:35.51832 (1381.6549118)          Baseplate waiting for Teams
+08:26:36.52832 (1381.6938967)          Baseplate waiting for Teams
+08:26:36.52832 (1381.8169376)          Baseplate waiting for Teams
+08:26:36.52832 (1382.4120208)          Baseplate waiting for Teams
+08:26:36.52832 (1382.4629756)          Baseplate waiting for Teams
+08:26:36.52832 (1382.4969693)          Baseplate waiting for Teams
+08:26:36.52832 (1382.5099668)          Jumping
+08:26:37.53832 (1382.6649963)          Baseplate waiting for Teams
+08:26:37.53832 (1382.8410035)          Baseplate waiting for Teams
+08:26:37.53832 (1383.0040199)          Baseplate waiting for Teams
+08:26:37.53832 (1383.0900569)          Baseplate waiting for Teams
+08:26:37.53832 (1383.1580376)          Baseplate waiting for Teams
+08:26:37.53832 (1383.2790240)          Baseplate waiting for Teams
+08:26:37.53832 (1383.5530345)          Baseplate waiting for Teams
+08:26:38.54832 (1383.7574662)          Baseplate waiting for Teams
+08:26:38.54832 (1383.8251325)          Baseplate waiting for Teams
+08:26:38.54832 (1383.8605572)          Baseplate waiting for Teams
+08:26:38.54832 (1384.2495843)          Baseplate waiting for Teams
+08:26:38.54832 (1384.3505859)          Baseplate waiting for Teams
+08:26:38.54832 (1384.3865720)          Baseplate waiting for Teams
+08:26:38.54832 (1384.5087229)          Baseplate waiting for Teams
+08:26:39.55832 (1384.7006104)          Baseplate waiting for Teams
+08:26:39.55832 (1384.7526233)          Baseplate waiting for Teams
+08:26:39.55832 (1384.7876276)          Baseplate waiting for Teams
+10:23:48.6944 (8414.2837838)          Reducing...
+10:25:04.17408 (8489.4283086)          Reducing...
+10:25:04.17408 (8489.9683673)          Done! Time taken: 0.95707497035619 seconds.
+10:25:42.55408 (8527.8166090)          Done! Time taken: 0.46295977383852 seconds.
+10:26:12.19872 (8557.9026733)          Reducing...
+10:26:13.20872 (8558.4207171)          Done! Time taken: 0.51504351908807 seconds.

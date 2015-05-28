@@ -1,0 +1,7 @@
+26.05.2015 09:37:11.27992 (0.6590908)Log "Roblox"
+09:37:11.27992 (0.6590908)          setAssetFolder content
+09:37:14.30992 (3.4223500)          Use the new http api: yes
+09:37:14.30992 (3.5593842)          CrashReporter Start
+09:37:14.30992 (3.6103868)          Initializing CrashEvent request, url: http://www.roblox.com/Error/Dmp.ashx?filename=C%3A%5CUsers%5CStudent%5CAppData%5CLocal%5CRoblox%5Clogs%5Clog%5F332DC%200%2C%20196%2C%200%2C%2059751%2EClient%2Ecrashevent
+09:37:15.31992 (4.9430091)          Initializing new game
+26.05.2015 09:38:21.32456 (71.2856316)End Log

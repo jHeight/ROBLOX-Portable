@@ -1,0 +1,123 @@
+26.05.2015 09:35:50.12528 (30.4734759)Log "Log Channel"
+09:35:50.12528 (30.4734759)          30.47148 0.0 ms zu:Video memory size: 521834496
+09:35:51.13528 (31.0745298)          31.07453 0.0 ms zu:Loaded shaders from folder D:\ROBLOX-Portable-master\RobloxVersions\version-615500bf52054337\content/../shaders/source
+09:35:51.13528 (31.0755298)          31.07553 0.0 ms zu:Compiled 37 VS 84 FS in 598 ms
+09:35:51.13528 (31.1585665)          31.15857 0.0 ms zu:Supported bones for skinning: 72
+09:35:55.17528 (35.5794856)          35.57949 0.0 ms zu:Image loaded from rbxasset://fonts/fonts.dds
+09:35:55.17528 (35.5794856)          35.57949 0.0 ms zu:Image dimensions 2048x1024 fmt 0  (decode 13 ms, upload 102 ms)
+09:35:55.17528 (35.5824859)          35.58249 0.0 ms zu:Image loaded from rbxasset://textures/wangIndex.dds
+09:35:55.17528 (35.5824859)          35.58249 0.0 ms zu:Image dimensions 128x128 fmt 1  (decode 0 ms, upload 0 ms)
+09:35:58.20528 (37.7532047)          37.75320 0.0 ms zu:Image loaded from rbxasset://textures/sky/sky512_rt.tex
+09:35:58.20528 (37.7532047)          37.75320 0.0 ms zu:Image dimensions 1024x1024 fmt 6  (decode 3 ms, upload 1 ms)
+09:35:58.20528 (37.7632060)          37.76321 0.0 ms zu:Image loaded from rbxasset://textures/sky/sky512_up.tex
+09:35:58.20528 (37.7632060)          37.76321 0.0 ms zu:Image dimensions 1024x1024 fmt 6  (decode 5 ms, upload 9 ms)
+09:35:58.20528 (37.9372223)          37.93722 0.0 ms zu:Image loaded from rbxasset://textures/sky/sky512_bk.tex
+09:35:58.20528 (37.9372223)          37.93722 0.0 ms zu:Image dimensions 1024x1024 fmt 6  (decode 3 ms, upload 5 ms)
+09:35:58.20528 (37.9392226)          37.93922 0.0 ms zu:Image loaded from rbxasset://textures/sky/sky512_lf.tex
+09:35:58.20528 (37.9392226)          37.93922 0.0 ms zu:Image dimensions 1024x1024 fmt 6  (decode 24 ms, upload 2 ms)
+09:35:58.20528 (37.9732273)          37.97323 0.0 ms zu:Image loaded from rbxasset://textures/sky/sky512_dn.tex
+09:35:58.20528 (37.9732273)          37.97323 0.0 ms zu:Image dimensions 1024x1024 fmt 6  (decode 4 ms, upload 10 ms)
+09:35:58.20528 (37.9792282)          37.97923 0.0 ms zu:Image loaded from rbxasset://textures/sky/sky512_ft.tex
+09:35:58.20528 (37.9792282)          37.97923 0.0 ms zu:Image dimensions 1024x1024 fmt 6  (decode 4 ms, upload 5 ms)
+09:35:58.20528 (38.0932440)          38.09324 0.0 ms zu:Image loaded from rbxasset://sky/sun.jpg
+09:35:58.20528 (38.0932440)          38.09324 0.0 ms zu:Image dimensions 128x128 fmt 3  (decode 1 ms, upload 49 ms)
+09:35:58.20528 (38.1522371)          38.15224 0.0 ms zu:Image loaded from rbxasset://sky/moon.jpg
+09:35:58.20528 (38.1522371)          38.15224 0.0 ms zu:Image dimensions 128x128 fmt 3  (decode 3 ms, upload 59 ms)
+09:35:58.20528 (38.6342955)          38.63430 0.0 ms zu:Image loaded from rbxasset://textures/Exit.png
+09:35:58.20528 (38.6352956)          38.63530 0.0 ms zu:Image dimensions 70x51 fmt 3  (decode 0 ms, upload 1 ms)
+09:35:58.20528 (38.6362958)          38.63630 0.0 ms zu:Image loaded from rbxasset://textures/Exit_ovr.png
+09:35:58.20528 (38.6362958)          38.63630 0.0 ms zu:Image dimensions 70x51 fmt 3  (decode 2 ms, upload 0 ms)
+09:35:58.20528 (38.7163055)          38.71630 0.0 ms zu:Image loaded from rbxasset://textures/Exit_dn.png
+09:35:58.20528 (38.7163055)          38.71630 0.0 ms zu:Image dimensions 70x51 fmt 3  (decode 21 ms, upload 0 ms)
+09:35:58.20528 (38.7173056)          38.71730 0.0 ms zu:Image loaded from rbxasset://textures/Roblox-loading-glow.png
+09:35:58.20528 (38.7173056)          38.71730 0.0 ms zu:Image dimensions 110x110 fmt 3  (decode 1 ms, upload 0 ms)
+09:35:59.21528 (38.8636351)          38.86063 0.0 ms zu:Image loaded from rbxasset://textures/Roblox-loading.png
+09:35:59.21528 (38.8636351)          38.86364 0.0 ms zu:Image dimensions 177x177 fmt 3  (decode 4 ms, upload 3 ms)
+09:35:59.21528 (38.8636351)          38.86364 0.0 ms zu:Image loaded from rbxasset://textures/ui/CloseButton_dn.png
+09:35:59.21528 (38.8636351)          38.86364 0.0 ms zu:Image dimensions 22x22 fmt 3  (decode 0 ms, upload 0 ms)
+09:35:59.21528 (39.0831167)          39.08312 0.0 ms zu:Image loaded from rbxasset://Textures/ArrowCursor.png
+09:35:59.21528 (39.0831167)          39.08312 0.0 ms zu:Image dimensions 64x64 fmt 3  (decode 0 ms, upload 3 ms)
+09:35:59.21528 (39.0831167)          39.08312 0.0 ms zu:Image loaded from rbxasset://textures/ui/TopBar/dropshadow.png
+09:35:59.21528 (39.0831167)          39.08312 0.0 ms zu:Image dimensions 18x3 fmt 3  (decode 0 ms, upload 0 ms)
+09:35:59.21528 (39.1143396)          39.11434 0.0 ms zu:Image loaded from rbxasset://textures/ui/Menu/Hamburger.png
+09:35:59.21528 (39.1143396)          39.11434 0.0 ms zu:Image dimensions 32x25 fmt 3  (decode 0 ms, upload 0 ms)
+09:35:59.21528 (39.1143396)          39.11434 0.0 ms zu:Image loaded from rbxasset://textures/ui/Backpack/Backpack.png
+09:35:59.21528 (39.1153397)          39.11534 0.0 ms zu:Image dimensions 22x28 fmt 3  (decode 0 ms, upload 0 ms)
+09:35:59.21528 (39.1633438)          39.16034 0.0 ms zu:Image loaded from rbxasset://textures/studs.dds
+09:35:59.21528 (39.1633438)          39.16335 0.0 ms zu:Image dimensions 128x2048 fmt 6  (decode 1 ms, upload 3 ms)
+09:35:59.21528 (39.1643439)          39.16434 0.0 ms zu:Image loaded from rbxasset://textures/concrete/diffuse.dds
+09:35:59.21528 (39.1643439)          39.16434 0.0 ms zu:Image dimensions 1024x1024 fmt 6  (decode 47 ms, upload 1 ms)
+09:35:59.21528 (39.2553707)          39.25537 0.0 ms zu:Image loaded from rbxasset://textures/concrete/normal.dds
+09:35:59.21528 (39.2553707)          39.25537 0.0 ms zu:Image dimensions 1024x1024 fmt 8  (decode 78 ms, upload 36 ms)
+09:35:59.21528 (39.2583713)          39.25737 0.0 ms zu:Image loaded from rbxasset://textures/concrete/specular.dds
+09:35:59.21528 (39.2583713)          39.25837 0.0 ms zu:Image dimensions 512x512 fmt 6  (decode 4 ms, upload 2 ms)
+09:35:59.21528 (39.4773727)          39.47737 0.0 ms zu:Image loaded from rbxasset://textures/concrete/normaldetail.dds
+09:35:59.21528 (39.4773727)          39.47737 0.0 ms zu:Image dimensions 512x512 fmt 8  (decode 20 ms, upload 0 ms)
+09:35:59.21528 (39.4803730)          39.48037 0.0 ms zu:Image loaded from rbxasset://textures/grass/diffuse.dds
+09:35:59.21528 (39.4833733)          39.48037 0.0 ms zu:Image dimensions 512x512 fmt 8  (decode 16 ms, upload 2 ms)
+09:36:00.22528 (39.9914242)          39.99142 0.0 ms zu:Image failed to load: http://www.roblox.com/asset/?id=137580676: Request failed
+09:36:02.24528 (41.9691175)          41.96912 0.0 ms zu:Image loaded from rbxasset://textures/grass/normal.dds
+09:36:02.24528 (41.9691175)          41.96912 0.0 ms zu:Image dimensions 512x512 fmt 8  (decode 18 ms, upload 0 ms)
+09:36:02.24528 (41.9701175)          41.97012 0.0 ms zu:Image loaded from rbxasset://textures/grass/specular.dds
+09:36:02.24528 (41.9701175)          41.97012 0.0 ms zu:Image dimensions 512x512 fmt 6  (decode 10 ms, upload 0 ms)
+09:36:02.24528 (42.1261385)          42.12614 0.0 ms zu:Image loaded from rbxasset://textures/grass/normaldetail.dds
+09:36:02.24528 (42.1261385)          42.12614 0.0 ms zu:Image dimensions 4x4 fmt 8  (decode 0 ms, upload 6 ms)
+09:36:02.24528 (42.1731426)          42.17314 0.0 ms zu:Image loaded from rbxasset://textures/fabric/diffuse.dds
+09:36:02.24528 (42.1731426)          42.17314 0.0 ms zu:Image dimensions 512x512 fmt 8  (decode 22 ms, upload 3 ms)
+09:36:02.24528 (42.1751427)          42.17514 0.0 ms zu:Image loaded from rbxasset://textures/fabric/normal.dds
+09:36:02.24528 (42.1751427)          42.17514 0.0 ms zu:Image dimensions 512x512 fmt 8  (decode 20 ms, upload 1 ms)
+09:36:02.24528 (42.2891540)          42.28915 0.0 ms zu:Image loaded from rbxasset://textures/fabric/specular.dds
+09:36:02.24528 (42.2891540)          42.28915 0.0 ms zu:Image dimensions 512x512 fmt 6  (decode 6 ms, upload 9 ms)
+09:36:02.24528 (42.2891540)          42.28915 0.0 ms zu:Image loaded from rbxasset://textures/fabric/normaldetail.dds
+09:36:02.24528 (42.2891540)          42.28915 0.0 ms zu:Image dimensions 4x4 fmt 8  (decode 0 ms, upload 0 ms)
+09:36:02.24528 (42.3131649)          42.31316 0.0 ms zu:Image loaded from http://www.roblox.com/asset/?id=24204708
+09:36:02.24528 (42.3131649)          42.31316 0.0 ms zu:Image dimensions 256x256 fmt 3  (decode 2 ms, upload 3 ms)
+09:36:02.24528 (42.3151652)          42.31517 0.0 ms zu:Image loaded from http://www.roblox.com/asset/?id=45688114
+09:36:02.24528 (42.3151652)          42.31517 0.0 ms zu:Image dimensions 256x256 fmt 3  (decode 3 ms, upload 1 ms)
+09:36:02.24528 (42.3731750)          42.37318 0.0 ms zu:Image loaded from http://www.roblox.com/asset/?id=52810480
+09:36:02.24528 (42.3731750)          42.37318 0.0 ms zu:Image dimensions 216x256 fmt 3  (decode 4 ms, upload 1 ms)
+09:36:02.24528 (42.3751754)          42.37518 0.0 ms zu:Image loaded from http://www.roblox.com/asset/?id=128584755
+09:36:02.24528 (42.3751754)          42.37518 0.0 ms zu:Image dimensions 256x157 fmt 3  (decode 30 ms, upload 1 ms)
+09:36:02.24528 (42.3951788)          42.39418 0.0 ms zu:Image loaded from rbxasset://textures/face.png
+09:36:02.24528 (42.3951788)          42.39518 0.0 ms zu:Image dimensions 128x128 fmt 3  (decode 1 ms, upload 2 ms)
+09:36:02.24528 (42.3961789)          42.39618 0.0 ms zu:Image loaded from http://www.roblox.com/asset/?id=237806313
+09:36:02.24528 (42.3961789)          42.39618 0.0 ms zu:Image dimensions 245x252 fmt 3  (decode 3 ms, upload 1 ms)
+09:36:02.24528 (42.4752592)          42.47526 0.0 ms zu:Image loaded from http://www.roblox.com/asset/?id=127830021
+09:36:02.24528 (42.4752592)          42.47526 0.0 ms zu:Image dimensions 256x256 fmt 3  (decode 4 ms, upload 1 ms)
+09:36:02.24528 (42.4772603)          42.47726 0.0 ms zu:Image loaded from http://www.roblox.com/asset/?id=139955255
+09:36:02.24528 (42.4772603)          42.47726 0.0 ms zu:Image dimensions 256x185 fmt 3  (decode 3 ms, upload 1 ms)
+09:36:03.25528 (43.2692440)          43.26925 0.0 ms zu:Image loaded from http://www.roblox.com/asset/?id=171935778
+09:36:03.25528 (43.2692440)          43.26925 0.0 ms zu:Image dimensions 267x200 fmt 3  (decode 6 ms, upload 0 ms)
+09:36:03.25528 (43.2702441)          43.27024 0.0 ms zu:Image loaded from http://www.roblox.com/asset/?id=166871502
+09:36:03.25528 (43.2702441)          43.27024 0.0 ms zu:Image dimensions 283x178 fmt 3  (decode 8 ms, upload 1 ms)
+09:36:03.25528 (43.2972445)          43.29725 0.0 ms zu:Image loaded from http://www.roblox.com/asset/?id=16373319
+09:36:03.25528 (43.2972445)          43.29725 0.0 ms zu:Image dimensions 256x256 fmt 3  (decode 4 ms, upload 0 ms)
+09:36:03.25528 (43.2982445)          43.29824 0.0 ms zu:Image loaded from http://www.roblox.com/asset/?id=65989957
+09:36:03.25528 (43.2982445)          43.29824 0.0 ms zu:Image dimensions 256x256 fmt 3  (decode 8 ms, upload 1 ms)
+09:36:03.25528 (43.3192641)          43.31926 0.0 ms zu:Image loaded from http://www.roblox.com/asset/?id=31008017
+09:36:03.25528 (43.3192641)          43.31926 0.0 ms zu:Image dimensions 256x256 fmt 3  (decode 5 ms, upload 1 ms)
+09:36:03.25528 (43.3282657)          43.32827 0.0 ms zu:Image loaded from rbxasset://Textures/ArrowFarCursor.png
+09:36:03.25528 (43.3282657)          43.32827 0.0 ms zu:Image dimensions 64x64 fmt 3  (decode 0 ms, upload 8 ms)
+09:36:03.25528 (43.3672726)          43.36727 0.0 ms zu:Image loaded from rbxasset://textures/particles/sparkles_main.dds
+09:36:03.25528 (43.3682727)          43.36827 0.0 ms zu:Image dimensions 128x128 fmt 8  (decode 0 ms, upload 7 ms)
+09:36:03.25528 (43.3682727)          43.36827 0.0 ms zu:Image loaded from rbxasset://textures/particles/sparkles_color.dds
+09:36:03.25528 (43.3682727)          43.36827 0.0 ms zu:Image dimensions 128x32 fmt 8  (decode 0 ms, upload 0 ms)
+09:36:03.25528 (43.4142713)          43.41427 0.0 ms zu:Image loaded from rbxasset://textures/particles/common_alpha.dds
+09:36:03.25528 (43.4142713)          43.41427 0.0 ms zu:Image dimensions 128x32 fmt 8  (decode 0 ms, upload 0 ms)
+09:36:03.25528 (43.4142713)          43.41427 0.0 ms zu:Image loaded from rbxasset://textures/particles/forcefield_vortex_main.dds
+09:36:03.25528 (43.4142713)          43.41427 0.0 ms zu:Image dimensions 128x128 fmt 8  (decode 0 ms, upload 0 ms)
+09:36:03.25528 (43.4282726)          43.42827 0.0 ms zu:Image loaded from rbxasset://textures/particles/forcefield_vortex_color.dds
+09:36:03.25528 (43.4282726)          43.42827 0.0 ms zu:Image dimensions 128x32 fmt 7  (decode 0 ms, upload 0 ms)
+09:36:03.25528 (43.4292727)          43.42927 0.0 ms zu:Image loaded from rbxasset://textures/sparkle.png
+09:36:03.25528 (43.4292727)          43.42927 0.0 ms zu:Image dimensions 32x32 fmt 3  (decode 0 ms, upload 0 ms)
+09:36:03.25528 (43.4532749)          43.45327 0.0 ms zu:Image loaded from rbxasset://textures/particles/forcefield_glow_main.dds
+09:36:03.25528 (43.4532749)          43.45327 0.0 ms zu:Image dimensions 256x256 fmt 8  (decode 0 ms, upload 0 ms)
+09:36:03.25528 (43.4572753)          43.45728 0.0 ms zu:Image loaded from rbxasset://textures/particles/forcefield_glow_color.dds
+09:36:03.25528 (43.4572753)          43.45728 0.0 ms zu:Image dimensions 128x32 fmt 8  (decode 0 ms, upload 0 ms)
+09:36:03.25528 (43.6172881)          43.61629 0.0 ms zu:Image loaded from rbxasset://textures/particles/forcefield_glow_alpha.dds
+09:36:03.25528 (43.6172881)          43.61729 0.0 ms zu:Image dimensions 128x32 fmt 8  (decode 0 ms, upload 1 ms)
+09:36:03.25528 (43.6202884)          43.62029 0.0 ms zu:Image loaded from http://www.roblox.com/asset/?id=8561740
+09:36:03.25528 (43.6202884)          43.62029 0.0 ms zu:Image dimensions 585x559 fmt 3  (decode 24 ms, upload 3 ms)
+09:36:03.25528 (43.6492913)          43.64929 0.0 ms zu:Image loaded from http://www.roblox.com/asset/?id=47991609
+09:36:03.25528 (43.6492913)          43.64929 0.0 ms zu:Image dimensions 256x256 fmt 3  (decode 4 ms, upload 0 ms)
+26.05.2015 09:36:13.35528 (53.4137713)End Log

@@ -1,0 +1,7 @@
+27.05.2015 12:21:45.6056 (9.9775906)Log "Roblox TaskScheduler Thread 1"
+12:21:45.6056 (9.9775906)          Starting script
+12:21:45.6056 (10.0836042)          ! Joining game '6bc48fba-84ba-40da-a74d-9b51c56831b7' place 235264088 at 207.198.105.154
+12:21:46.7056 (10.8746650) Warning: Connecting to 207.198.105.154:50350
+12:21:47.8056 (11.1928464) Warning: Connection accepted from 207.198.105.154|50350
+
+27.05.2015 12:28:59.46840 (443.7986396)End Log

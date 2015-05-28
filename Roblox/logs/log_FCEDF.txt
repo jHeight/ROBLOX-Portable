@@ -1,0 +1,12 @@
+26.05.2015 09:08:44.24928 (1.6772042)Log "RobloxStudio"
+09:08:44.24928 (1.6772042)          CrashReporter Start
+09:08:44.24928 (1.6982081)          Initializing CrashEvent request, url: http://www.roblox.com/Error/Dmp.ashx?filename=C%3A%5CUsers%5CStudent%5CAppData%5CLocal%5CRoblox%5Clogs%5Clog%5FFCEDF%200%2C%20196%2C%200%2C%2059751%2ERobloxStudio%2Ecrashevent
+09:08:44.24928 (1.7001877)          RobloxMainWindow::RobloxMainWindow - start
+09:08:46.26928 (3.6813614)          setAssetFolder C:/Program Files/Roblox/Versions/version-615500bf52054337/content
+09:08:54.34928 (12.3828209)          Use the new http api: yes
+09:09:05.45928 (22.9227896)          RobloxMainWindow::handleFileOpen 
+09:09:05.45928 (22.9267905)          RobloxMainWindow::handleFileOpen 
+09:09:05.45928 (23.0167858)          RobloxMainWindow::RobloxMainWindow - end
+09:09:21.61928 (38.8274919)          RobloxMainWindow::closeEvent
+09:09:21.61928 (38.9475360)          RobloxMainWindow::~RobloxMainWindow
+26.05.2015 09:09:23.63928 (40.9991822)End Log

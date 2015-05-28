@@ -1,0 +1,8 @@
+26.05.2015 08:24:16.43904 (57.8597371)Log "Roblox TaskScheduler Thread 1"
+08:24:16.43904 (57.8597371) Error:   No assetUrl set
+08:24:16.43904 (57.8597371)          Script "Insert Script.lua", Line 6
+08:24:16.43904 (57.8607372)          stack end
+08:24:16.43904 (57.8607372) Error:   Insert Script.lua:8: attempt to index field 'ScreenGui' (a nil value)
+08:24:16.43904 (57.8607372)          Script "Insert Script.lua", Line 8
+08:24:16.43904 (57.8607372)          stack end
+26.05.2015 09:03:07.15608 (2388.9885307)End Log

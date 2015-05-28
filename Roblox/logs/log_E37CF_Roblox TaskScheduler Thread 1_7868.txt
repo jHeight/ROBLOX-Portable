@@ -1,0 +1,1112 @@
+27.05.2015 16:40:33.2024 (557.5723296)Log "Roblox TaskScheduler Thread 1"
+16:40:33.2024 (557.5733271) Error:   Workspace.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+16:40:33.2024 (557.5733271)          Stack Begin
+16:40:33.2024 (557.5743245)          Script 'Workspace.Training Dummy.Respawn', Line 7
+16:40:33.2024 (557.5743245)          Stack End
+17:13:55.37944 (2558.7980975) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:13:55.37944 (2558.7990989)          Stack Begin
+17:13:55.37944 (2558.7990989)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:13:55.37944 (2558.7990989)          Stack End
+17:13:55.37944 (2558.9074653) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:13:55.37944 (2558.9074653)          Stack Begin
+17:13:55.37944 (2558.9084616)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:13:55.37944 (2558.9084616)          Stack End
+17:13:57.39944 (2560.8262902) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:13:57.39944 (2560.8262902)          Stack Begin
+17:13:57.39944 (2560.8262902)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:13:57.39944 (2560.8262902)          Stack End
+17:14:01.43944 (2564.8620880) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:14:01.43944 (2564.8640861)          Stack Begin
+17:14:01.43944 (2564.8640861)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:14:01.43944 (2564.8640861)          Stack End
+17:14:03.45944 (2567.1369420) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:14:03.45944 (2567.1379385)          Stack Begin
+17:14:03.45944 (2567.1379385)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:14:03.45944 (2567.1379385)          Stack End
+17:14:04.46944 (2568.1231516) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:14:04.46944 (2568.1231516)          Stack Begin
+17:14:04.46944 (2568.1231516)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:14:04.46944 (2568.1231516)          Stack End
+17:14:04.46944 (2568.1866779) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:14:04.46944 (2568.1866779)          Stack Begin
+17:14:04.46944 (2568.1866779)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:14:04.46944 (2568.2561045)          Stack End
+17:14:07.49944 (2571.2076150) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:14:07.49944 (2571.2076150)          Stack Begin
+17:14:07.49944 (2571.2076150)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:14:07.49944 (2571.2076150)          Stack End
+17:14:08.50944 (2572.2115961) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:14:08.50944 (2572.2125962)          Stack Begin
+17:14:08.50944 (2572.2125962)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:14:08.50944 (2572.2125962)          Stack End
+17:14:09.51944 (2573.2236704) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:14:09.51944 (2573.2246706)          Stack Begin
+17:14:09.51944 (2573.2246706)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:14:09.51944 (2573.2246706)          Stack End
+17:14:11.53944 (2575.2708761) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:14:11.53944 (2575.2718768)          Stack Begin
+17:14:11.53944 (2575.2718768)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:14:11.53944 (2575.2718768)          Stack End
+17:14:11.53944 (2575.2928902) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:14:11.53944 (2575.2928902)          Stack Begin
+17:14:11.53944 (2575.2928902)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:14:11.53944 (2575.2928902)          Stack End
+17:14:12.54944 (2576.3033163) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:14:12.54944 (2576.3043151)          Stack Begin
+17:14:12.54944 (2576.3043151)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:14:12.54944 (2576.3043151)          Stack End
+17:14:13.55944 (2577.3871853) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:14:13.55944 (2577.3881906)          Stack Begin
+17:14:13.55944 (2577.3881906)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:14:13.55944 (2577.3881906)          Stack End
+17:14:14.56944 (2578.3265398) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:14:14.56944 (2578.3275439)          Stack Begin
+17:14:14.56944 (2578.3275439)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:14:14.56944 (2578.3275439)          Stack End
+17:14:40.17408 (2604.0718844) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:14:40.17408 (2604.0718844)          Stack Begin
+17:14:40.17408 (2604.0718844)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:14:40.17408 (2604.0718844)          Stack End
+17:14:44.21408 (2608.1756507) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:14:44.21408 (2608.1766501)          Stack Begin
+17:14:44.21408 (2608.1766501)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:14:44.21408 (2608.1766501)          Stack End
+17:14:51.28408 (2615.4068788) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:14:51.28408 (2615.4068788)          Stack Begin
+17:14:51.28408 (2615.4068788)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:14:51.28408 (2615.4068788)          Stack End
+17:15:01.38408 (2625.5815013) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:15:01.38408 (2625.5815013)          Stack Begin
+17:15:01.38408 (2625.5815013)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:15:01.38408 (2625.5815013)          Stack End
+17:21:55.59192 (3038.9676054) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:21:55.59192 (3038.9676054)          Stack Begin
+17:21:55.59192 (3038.9686055)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:21:55.59192 (3038.9706056)          Stack End
+17:21:55.59192 (3038.9946075) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:21:55.59192 (3038.9946075)          Stack Begin
+17:21:55.59192 (3038.9946075)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:21:55.59192 (3038.9946075)          Stack End
+17:21:56.60192 (3039.9771673) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:21:56.60192 (3039.9771673)          Stack Begin
+17:21:56.60192 (3039.9811676)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:21:56.60192 (3039.9811676)          Stack End
+17:21:58.62192 (3042.0203192) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:21:58.62192 (3042.0283100)          Stack Begin
+17:21:58.62192 (3042.0373099)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:21:58.62192 (3042.0453099)          Stack End
+17:22:00.64192 (3044.0579511) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:22:00.64192 (3044.0579511)          Stack Begin
+17:22:00.64192 (3044.0589511)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:22:00.64192 (3044.0589511)          Stack End
+17:22:07.5656 (3051.1564465) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:22:07.5656 (3051.1574465)          Stack Begin
+17:22:07.5656 (3051.1574465)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:22:07.5656 (3051.1574465)          Stack End
+17:22:12.10656 (3056.2761143) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:22:12.10656 (3056.2771105)          Stack Begin
+17:22:12.10656 (3056.2771105)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:22:12.10656 (3056.2771105)          Stack End
+17:22:29.27656 (3073.5513281) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:22:29.27656 (3073.5513281)          Stack Begin
+17:22:29.27656 (3073.5513281)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:22:29.27656 (3073.5513281)          Stack End
+17:23:25.18120 (3128.9440408) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:23:25.18120 (3128.9440408)          Stack Begin
+17:23:25.18120 (3128.9450409)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:23:25.18120 (3128.9450409)          Stack End
+17:23:27.20120 (3130.9901852) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:23:27.20120 (3130.9901852)          Stack Begin
+17:23:27.20120 (3130.9901852)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:23:27.20120 (3130.9901852)          Stack End
+17:23:29.22120 (3133.0857659) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:23:29.22120 (3133.0857659)          Stack Begin
+17:23:29.22120 (3133.0867649)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:23:29.22120 (3133.0867649)          Stack End
+17:23:33.26120 (3137.2206295) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:23:33.26120 (3137.2216296)          Stack Begin
+17:23:33.26120 (3137.2216296)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:23:33.26120 (3137.2216296)          Stack End
+17:23:44.37120 (3148.5003762) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:23:44.37120 (3148.5003762)          Stack Begin
+17:23:44.37120 (3148.5013763)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:23:44.37120 (3148.5013763)          Stack End
+17:23:44.37120 (3148.5013763) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:23:44.37120 (3148.5013763)          Stack Begin
+17:23:44.37120 (3148.5013763)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:23:44.37120 (3148.5013763)          Stack End
+17:23:45.38120 (3149.2589207) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:23:45.38120 (3149.2589207)          Stack Begin
+17:23:45.38120 (3149.2589207)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:23:45.38120 (3149.2589207)          Stack End
+17:23:49.42120 (3153.6187369) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:23:49.42120 (3153.6187369)          Stack Begin
+17:23:49.42120 (3153.6187369)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:23:49.42120 (3153.6187369)          Stack End
+17:23:55.48120 (3159.2846250) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:23:55.48120 (3159.2856250)          Stack Begin
+17:23:55.48120 (3159.2856250)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:23:55.48120 (3159.2866251)          Stack End
+17:23:57.50120 (3160.8002254) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+17:23:57.50120 (3160.8012254)          Stack Begin
+17:23:57.50120 (3160.8012254)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+17:23:57.50120 (3160.8012254)          Stack End
+18:23:15.3640 (6719.1160912) Error:   exception while signalling: The Parent property of Workspace is locked, current parent: dkxe's Place, new parent Player
+18:23:20.8640 (6723.7732019) Error:   exception while signalling: The Parent property of Workspace is locked, current parent: dkxe's Place, new parent Player
+19:54:35.44152 (12199.0157910)          Boop recieved from zarm
+19:54:36.45152 (12199.5058238)          Boop recieved from zarm
+19:54:36.45152 (12199.5148252)          Boop recieved from zarm
+19:54:45.54152 (12209.0243304)          Bang recieved from zarm
+19:54:45.54152 (12209.1964619)          Boop recieved from zarm
+19:54:46.55152 (12209.5363681)          Bang recieved from zarm
+19:54:46.55152 (12209.8423924)          Boop recieved from zarm
+19:54:47.56152 (12210.6019445)          Boop recieved from zarm
+19:54:47.56152 (12210.9099553)          Boop recieved from zarm
+19:54:47.56152 (12210.9949620)          Boop recieved from zarm
+19:54:47.56152 (12211.1129562)          Boop recieved from zarm
+19:54:47.56152 (12211.1469550)          Boop recieved from zarm
+19:54:47.56152 (12211.2349607)          Boop recieved from zarm
+19:54:48.57152 (12211.3209618)          Boop recieved from zarm
+19:54:55.64152 (12219.0701280)          Bang recieved from zarm
+19:54:55.64152 (12219.2421394)          Bang recieved from zarm
+19:54:56.65152 (12219.2471392) Error:   Torso is not a valid member of Workspace
+19:54:56.65152 (12219.2601388)          Script 'Workspace.Radioactive Zombie.zarm.My First Kill Script', Line 6
+19:54:56.65152 (12219.2681385)          Stack End
+19:54:57.616 (12220.2962185) Error:   Workspace.Radioactive Zombie.Respawn:7: attempt to index field 'Parent' (a nil value)
+19:54:57.616 (12220.3042195)          Stack Begin
+19:54:57.616 (12220.3111833)          Script 'Workspace.Radioactive Zombie.Respawn', Line 7
+19:54:57.616 (12220.3181818)          Stack End
+19:55:00.3616 (12224.0432514)          Boop recieved from zarm
+19:55:00.3616 (12224.0722405)          Boop recieved from zarm
+19:55:00.3616 (12224.1223036)          Boop recieved from zarm
+19:55:01.4616 (12224.3292690)          Boop recieved from zarm
+19:55:01.4616 (12224.3992682)          Boop recieved from zarm
+19:55:01.4616 (12224.5562849)          Boop recieved from zarm
+19:55:01.4616 (12224.5572849)          Boop recieved from zarm
+19:55:01.4616 (12224.9783230)          Boop recieved from zarm
+19:55:01.4616 (12224.9963255)          Boop recieved from zarm
+19:55:02.5616 (12226.0703711)          Boop recieved from zarm
+19:55:03.6616 (12226.4343529)          Boop recieved from zarm
+19:55:03.6616 (12226.7293748)          Boop recieved from zarm
+19:55:03.6616 (12227.1214124)          Boop recieved from zarm
+19:55:03.6616 (12227.1244132)          Boop recieved from zarm
+19:55:05.8616 (12228.8309825)          Boop recieved from zarm
+19:55:05.8616 (12229.0659932)          Boop recieved from zarm
+19:55:06.9616 (12229.5040530)          Boop recieved from zarm
+19:55:07.10616 (12230.2805105)          Boop recieved from zarm
+19:55:07.10616 (12230.4355093)          Boop recieved from zarm
+19:55:07.10616 (12230.5035100)          Boop recieved from zarm
+19:55:07.10616 (12230.7838063)          Boop recieved from zarm
+19:55:07.10616 (12230.8419870)          Boop recieved from zarm
+19:55:07.10616 (12230.9370339)          Boop recieved from zarm
+19:55:07.10616 (12230.9430345)          Boop recieved from zarm
+19:55:08.11616 (12232.1795380)          Boop recieved from zarm
+19:55:09.12616 (12232.9956174)          Boop recieved from zarm
+19:55:10.13616 (12233.6961599)          Boop recieved from zarm
+19:55:11.14616 (12234.3336380)          Bang recieved from zarm
+19:55:11.14616 (12234.3536407)          Boop recieved from zarm
+19:55:11.14616 (12234.4326335)          Bang recieved from zarm
+19:55:12.15616 (12235.4366764) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+19:55:12.15616 (12235.4366764)          Stack Begin
+19:55:12.15616 (12235.4376764)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+19:55:12.15616 (12235.4376764)          Stack End
+19:55:12.15616 (12235.4546749) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+19:55:12.15616 (12235.4546749)          Stack Begin
+19:55:12.15616 (12235.4546749)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+19:55:12.15616 (12235.4546749)          Stack End
+19:55:12.15616 (12235.4556748) Error:   Workspace.Radioactive Zombie.Respawn:7: attempt to index field 'Parent' (a nil value)
+19:55:12.15616 (12235.4556748)          Stack Begin
+19:55:12.15616 (12235.4556748)          Script 'Workspace.Radioactive Zombie.Respawn', Line 7
+19:55:12.15616 (12235.4556748)          Stack End
+19:55:12.15616 (12235.4706734) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+19:55:12.15616 (12235.4716734)          Stack Begin
+19:55:12.15616 (12235.4716734)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+19:55:12.15616 (12235.4716734)          Stack End
+19:55:13.16616 (12237.1697213)          Boop recieved from zarm
+19:55:14.17616 (12237.3777407)          Boop recieved from zarm
+19:55:14.17616 (12237.4997399)          Boop recieved from zarm
+19:55:14.17616 (12237.6207451)          Boop recieved from zarm
+19:55:14.17616 (12238.1418997)          Boop recieved from zarm
+19:55:15.18616 (12238.2447379)          Boop recieved from zarm
+19:55:15.18616 (12238.5107706)          Boop recieved from zarm
+19:55:15.18616 (12238.5787491)          Boop recieved from zarm
+19:55:15.18616 (12238.8668099)          Boop recieved from zarm
+19:55:15.18616 (12239.0722327)          Boop recieved from zarm
+19:55:16.19616 (12239.6416089)          Boop recieved from zarm
+19:55:16.19616 (12239.7951475)          Boop recieved from zarm
+19:55:16.19616 (12240.0143536)          Boop recieved from zarm
+19:55:17.20616 (12240.4919387)          Boop recieved from zarm
+19:55:17.20616 (12240.9804049)          Boop recieved from zarm
+19:55:19.22616 (12242.9084821)          Boop recieved from zarm
+19:55:19.22616 (12243.0095019)          Boop recieved from zarm
+19:55:19.22616 (12243.0955060)          Boop recieved from zarm
+19:55:20.23616 (12244.0450203)          Boop recieved from zarm
+19:55:20.23616 (12244.0800207)          Boop recieved from zarm
+19:55:24.27616 (12247.2890839)          Bang recieved from zarm
+19:55:24.27616 (12247.2990824)          Boop recieved from zarm
+19:55:24.27616 (12247.3820855)          Bang recieved from zarm
+19:55:24.27616 (12247.5181255)          Bang recieved from zarm
+19:56:31.29080 (12314.7754832)          Boop recieved from zarm
+19:56:31.29080 (12314.9060326)          Boop recieved from zarm
+19:56:31.29080 (12314.9070326)          Boop recieved from zarm
+19:56:31.29080 (12314.9070326)          Boop recieved from zarm
+19:56:31.29080 (12315.0680443)          Boop recieved from zarm
+19:56:31.29080 (12315.0940462)          Boop recieved from zarm
+19:56:31.29080 (12315.0940462)          Boop recieved from zarm
+19:56:31.29080 (12315.0950463)          Boop recieved from zarm
+19:56:41.39080 (12324.7868929)          Bang recieved from zarm
+19:56:41.39080 (12325.0828974)          Bang recieved from zarm
+19:56:58.56080 (12341.9762712)          Boop recieved from zarm
+19:57:08.544 (12351.9794569)          Bang recieved from zarm
+20:02:00.30400 (12643.6633154)          Boop recieved from Left Arm
+20:02:00.30400 (12643.6722708)          Boop recieved from Left Arm
+20:02:00.30400 (12643.6792361)          Boop recieved from Left Arm
+20:02:01.31400 (12644.7698303)          Boop recieved from Left Arm
+20:02:02.32400 (12646.0803591)          Boop recieved from Left Arm
+20:02:02.32400 (12646.0803591)          Boop recieved from Left Arm
+20:02:03.33400 (12646.2522504)          Boop recieved from Left Arm
+20:02:03.33400 (12646.2522504)          Boop recieved from Left Arm
+20:02:03.33400 (12646.3733730)          Boop recieved from Left Arm
+20:02:03.33400 (12646.3733730)          Boop recieved from Left Arm
+20:02:10.40400 (12653.7077257)          Bang recieved from Torso
+20:02:12.42400 (12656.0946176)          Bang recieved from Torso
+20:02:12.42400 (12656.0956176)          Bang recieved from Head
+20:02:12.42400 (12656.1296174)          Bang recieved from Head
+20:02:13.43400 (12656.2576315)          Bang recieved from Head
+20:02:13.43400 (12656.2586315)          Bang recieved from Right Arm
+20:02:13.43400 (12656.6946215)          Bang recieved from Head
+20:02:14.44400 (12657.8696750) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:02:14.44400 (12657.8756756)          Stack Begin
+20:02:14.44400 (12657.8766757)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:02:14.44400 (12657.8766757)          Stack End
+20:02:14.44400 (12657.8906665) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:02:14.44400 (12657.8906665)          Stack Begin
+20:02:14.44400 (12657.8906665)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:02:14.44400 (12657.8906665)          Stack End
+20:02:20.50400 (12663.7131522)          Boop recieved from Right Arm
+20:02:20.50400 (12663.9768021)          Boop recieved from Right Arm
+20:02:20.50400 (12664.0012142)          Boop recieved from Right Arm
+20:02:27.57400 (12670.5248906)          Boop recieved from Right Arm
+20:02:27.57400 (12670.5298906)          Boop recieved from Right Arm
+20:02:27.57400 (12670.5738904)          Boop recieved from Right Arm
+20:02:27.57400 (12670.5948929)          Boop recieved from Right Arm
+20:02:27.57400 (12670.6968992)          Boop recieved from Right Arm
+20:02:27.57400 (12670.8349034)          Boop recieved from Right Arm
+20:02:27.57400 (12671.0869021)          Boop recieved from Left Arm
+20:02:28.58400 (12671.3929563)          Boop recieved from Left Arm
+20:02:28.58400 (12671.5129380)          Boop recieved from Left Arm
+20:02:28.58400 (12671.7319091)          Boop recieved from Left Arm
+20:02:28.58400 (12671.9029110)          Boop recieved from Left Arm
+20:02:28.58400 (12672.0479816)          Boop recieved from Left Arm
+20:02:29.59400 (12672.2289843)          Boop recieved from Left Arm
+20:02:30.60400 (12673.6739817)          Boop recieved from Right Arm
+20:02:30.60400 (12673.6919953)          Bang recieved from Left Arm
+20:02:30.60400 (12674.1380200)          Boop recieved from Right Arm
+20:02:31.61400 (12674.7810620)          Boop recieved from Right Arm
+20:02:31.61400 (12675.0315681) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:02:31.61400 (12675.0395685)          Stack Begin
+20:02:31.61400 (12675.0455688)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:02:31.61400 (12675.0515691)          Stack End
+20:02:32.62400 (12675.5746108)          Boop recieved from Right Arm
+20:02:32.62400 (12675.6826097)          Boop recieved from Right Arm
+20:02:32.62400 (12675.7376136)          Boop recieved from Right Arm
+20:02:32.62400 (12675.7896198)          Boop recieved from Right Arm
+20:02:32.62400 (12675.8686272)          Boop recieved from Right Arm
+20:02:37.1864 (12680.5424008)          Bang recieved from Head
+20:02:37.1864 (12680.5473749)          Bang recieved from Torso
+20:02:37.1864 (12680.5861549)          Bang recieved from Head
+20:02:37.1864 (12680.6032248)          Bang recieved from Right Arm
+20:02:37.1864 (12680.6202948)          Bang recieved from Head
+20:02:37.1864 (12680.7604113)          Bang recieved from Head
+20:02:37.1864 (12680.8449081)          Bang recieved from Head
+20:02:37.1864 (12680.8962386)          Bang recieved from Head
+20:02:37.1864 (12681.0632425)          Bang recieved from Torso
+20:02:37.1864 (12681.0632425)          Bang recieved from Head
+20:02:38.2864 (12681.5262515)          Bang recieved from Head
+20:02:38.2864 (12681.5312511) Error:   Workspace.Radioactive Zombie.Left Arm.My First Kill Script:8: attempt to index field 'Parent' (a nil value)
+20:02:38.2864 (12681.5312511)          Stack Begin
+20:02:38.2864 (12681.5312511)          Script 'Workspace.Radioactive Zombie.Left Arm.My First Kill Script', Line 8
+20:02:38.2864 (12681.5312511)          Stack End
+20:02:38.2864 (12681.7463255)          Bang recieved from Head
+20:02:38.2864 (12681.7473259) Error:   Workspace.Radioactive Zombie.Left Arm.My First Kill Script:8: attempt to index field 'Parent' (a nil value)
+20:02:38.2864 (12681.7473259)          Stack Begin
+20:02:38.2864 (12681.7473259)          Script 'Workspace.Radioactive Zombie.Left Arm.My First Kill Script', Line 8
+20:02:38.2864 (12681.7473259)          Stack End
+20:02:38.2864 (12681.9172970)          Bang recieved from Head
+20:02:38.2864 (12681.9232976) Error:   Workspace.Radioactive Zombie.Left Arm.My First Kill Script:8: attempt to index field 'Parent' (a nil value)
+20:02:38.2864 (12681.9292982)          Stack Begin
+20:02:38.2864 (12681.9362990)          Script 'Workspace.Radioactive Zombie.Left Arm.My First Kill Script', Line 8
+20:02:38.2864 (12681.9422996)          Stack End
+20:02:38.2864 (12682.0642770)          Bang recieved from Head
+20:02:38.2864 (12682.0652770) Error:   Workspace.Radioactive Zombie.Left Arm.My First Kill Script:8: attempt to index field 'Parent' (a nil value)
+20:02:38.2864 (12682.0652770)          Stack Begin
+20:02:38.2864 (12682.0652770)          Script 'Workspace.Radioactive Zombie.Left Arm.My First Kill Script', Line 8
+20:02:38.2864 (12682.0662769)          Stack End
+20:02:38.2864 (12682.0982848) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:02:38.2864 (12682.1002848)          Stack Begin
+20:02:38.2864 (12682.1002848)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:02:38.2864 (12682.1002848)          Stack End
+20:02:38.2864 (12682.2022898) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:02:38.2864 (12682.2022898)          Stack Begin
+20:02:38.2864 (12682.2022898)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:02:38.2864 (12682.2032898)          Stack End
+20:02:39.3864 (12682.2362912)          Bang recieved from Head
+20:02:39.3864 (12682.2362912) Error:   Workspace.Radioactive Zombie.Left Arm.My First Kill Script:8: attempt to index field 'Parent' (a nil value)
+20:02:39.3864 (12682.2362912)          Stack Begin
+20:02:39.3864 (12682.2372912)          Script 'Workspace.Radioactive Zombie.Left Arm.My First Kill Script', Line 8
+20:02:39.3864 (12682.2372912)          Stack End
+20:02:39.3864 (12682.9262833)          Bang recieved from Torso
+20:02:39.3864 (12682.9262833) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:8: attempt to index field 'Parent' (a nil value)
+20:02:39.3864 (12682.9262833)          Stack Begin
+20:02:39.3864 (12682.9262833)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 8
+20:02:39.3864 (12682.9262833)          Stack End
+20:02:39.3864 (12683.0123172)          Bang recieved from Head
+20:02:39.3864 (12683.0133172) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:8: attempt to index field 'Parent' (a nil value)
+20:02:39.3864 (12683.0133172)          Stack Begin
+20:02:39.3864 (12683.0133172)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 8
+20:02:39.3864 (12683.0133172)          Stack End
+20:02:39.3864 (12683.0803554)          Bang recieved from Head
+20:02:39.3864 (12683.0863578) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:8: attempt to index field 'Parent' (a nil value)
+20:02:39.3864 (12683.0933606)          Stack Begin
+20:02:39.3864 (12683.1003634)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 8
+20:02:39.3864 (12683.1073662)          Stack End
+20:02:40.4864 (12684.1394074)          Bang recieved from Head
+20:02:40.4864 (12684.1414083) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:8: attempt to index field 'Parent' (a nil value)
+20:02:40.4864 (12684.1424088)          Stack Begin
+20:02:40.4864 (12684.1424088)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 8
+20:02:40.4864 (12684.1424088)          Stack End
+20:02:41.5864 (12684.3263517)          Bang recieved from Head
+20:02:41.5864 (12684.3273518) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:8: attempt to index field 'Parent' (a nil value)
+20:02:41.5864 (12684.3273518)          Stack Begin
+20:02:41.5864 (12684.3273518)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 8
+20:02:41.5864 (12684.3273518)          Stack End
+20:02:41.5864 (12684.7893510)          Bang recieved from Head
+20:02:41.5864 (12684.7893510) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:8: attempt to index field 'Parent' (a nil value)
+20:02:41.5864 (12684.7893510)          Stack Begin
+20:02:41.5864 (12684.7893510)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 8
+20:02:41.5864 (12684.7893510)          Stack End
+20:02:41.5864 (12685.1673683)          Bang recieved from Head
+20:02:41.5864 (12685.1723684) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:8: attempt to index field 'Parent' (a nil value)
+20:02:41.5864 (12685.1783686)          Stack Begin
+20:02:41.5864 (12685.1853608)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 8
+20:02:41.5864 (12685.1913605)          Stack End
+20:02:42.6864 (12685.5823744)          Bang recieved from Head
+20:02:42.6864 (12685.5823744) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:8: attempt to index field 'Parent' (a nil value)
+20:02:42.6864 (12685.5823744)          Stack Begin
+20:02:42.6864 (12685.5833744)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 8
+20:02:42.6864 (12685.5833744)          Stack End
+20:02:42.6864 (12685.7453962)          Bang recieved from Head
+20:02:42.6864 (12685.7463964) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:8: attempt to index field 'Parent' (a nil value)
+20:02:42.6864 (12685.7463964)          Stack Begin
+20:02:42.6864 (12685.7463964)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 8
+20:02:42.6864 (12685.7463964)          Stack End
+20:02:42.6864 (12685.8823952)          Bang recieved from Head
+20:02:42.6864 (12685.8833953) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:8: attempt to index field 'Parent' (a nil value)
+20:02:42.6864 (12685.8833953)          Stack Begin
+20:02:42.6864 (12685.8833953)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 8
+20:02:42.6864 (12685.8833953)          Stack End
+20:04:46.65328 (12810.0262039)          Boop recieved from Right Arm
+20:04:46.65328 (12810.0742160)          Boop recieved from Left Arm
+20:04:46.65328 (12810.1362073)          Boop recieved from Left Arm
+20:04:46.65328 (12810.1392068)          Boop recieved from Right Arm
+20:04:46.65328 (12810.2012253)          Boop recieved from Right Arm
+20:04:47.792 (12810.2992266)          Boop recieved from Left Arm
+20:04:47.792 (12810.3842381)          Boop recieved from Left Arm
+20:04:47.792 (12810.4562459)          Boop recieved from Left Arm
+20:04:47.792 (12810.5302493)          Boop recieved from Left Arm
+20:04:47.792 (12810.5884216)          Boop recieved from Left Arm
+20:04:47.792 (12810.6415031)          Boop recieved from Left Arm
+20:04:56.9792 (12819.9897185)          Bang recieved from Torso
+20:04:56.9792 (12820.0017235)          Bang recieved from Head
+20:04:56.9792 (12820.0517446)          Bang recieved from Head
+20:04:56.9792 (12820.0946653)          Bang recieved from Torso
+20:04:56.9792 (12820.1426472)          Bang recieved from Head
+20:04:56.9792 (12820.1436468)          Bang recieved from Left Arm
+20:04:57.10792 (12820.2206842)          Bang recieved from Head
+20:04:57.10792 (12820.5427421)          Bang recieved from Head
+20:04:57.10792 (12820.5437424) Error:   Workspace.Radioactive Zombie.Left Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:04:57.10792 (12820.5437424)          Stack Begin
+20:04:57.10792 (12820.5437424)          Script 'Workspace.Radioactive Zombie.Left Arm.My First Kill Script', Line 9
+20:04:57.10792 (12820.5437424)          Stack End
+20:04:57.10792 (12820.6497069)          Bang recieved from Head
+20:04:57.10792 (12820.6497069) Error:   Workspace.Radioactive Zombie.Left Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:04:57.10792 (12820.6647052)          Stack Begin
+20:04:57.10792 (12820.6657051)          Script 'Workspace.Radioactive Zombie.Left Arm.My First Kill Script', Line 9
+20:04:57.10792 (12820.6657051)          Stack End
+20:04:57.10792 (12820.8587416)          Boop recieved from Left Arm
+20:04:58.11792 (12821.3658065) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:04:58.11792 (12821.3668016)          Stack Begin
+20:04:58.11792 (12821.3668016)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:04:58.11792 (12821.3668016)          Stack End
+20:05:07.20792 (12830.8682507)          Bang recieved from Left Arm
+20:05:16.29792 (12839.6092317)          Boop recieved from Left Arm
+20:05:16.29792 (12839.7451990)          Boop recieved from Right Arm
+20:05:16.29792 (12839.8596643)          Boop recieved from Right Arm
+20:05:16.29792 (12840.0501355)          Boop recieved from Right Arm
+20:05:18.31792 (12841.7892282)          Boop recieved from Right Arm
+20:05:19.32792 (12842.2511516)          Boop recieved from Left Arm
+20:05:19.32792 (12842.2571511)          Boop recieved from Left Arm
+20:05:19.32792 (12842.6851685)          Boop recieved from Left Arm
+20:05:26.39792 (12849.8653531)          Bang recieved from Right Arm
+20:05:26.39792 (12850.0597778)          Bang recieved from FakeHead
+20:05:29.42792 (12852.2748971)          Bang recieved from Torso
+20:05:29.42792 (12852.6868394)          Bang recieved from FakeHead
+20:05:29.42792 (12852.7724292)          Bang recieved from Right Arm
+20:05:40.53792 (12863.5971336)          Bang recieved from Left Arm
+20:05:40.53792 (12863.9691144)          Boop recieved from Left Arm
+20:05:40.53792 (12863.9691144)          Boop recieved from Left Arm
+20:05:41.54792 (12864.2121715)          Boop recieved from Left Arm
+20:05:41.54792 (12864.2271726)          Boop recieved from Right Arm
+20:05:41.54792 (12864.4642006)          Boop recieved from Right Arm
+20:05:41.54792 (12864.4991922)          Boop recieved from Left Arm
+20:05:41.54792 (12864.6002077)          Boop recieved from Left Arm
+20:05:41.54792 (12864.6872043)          Boop recieved from Right Arm
+20:05:41.54792 (12864.8612266) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:05:41.54792 (12864.8612266)          Stack Begin
+20:05:41.54792 (12864.8612266)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:05:41.54792 (12864.8612266)          Stack End
+20:05:41.54792 (12864.8622267) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:05:41.54792 (12864.8622267)          Stack Begin
+20:05:41.54792 (12864.8622267)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:05:41.54792 (12864.8622267)          Stack End
+20:05:48.61792 (12871.5329364)          Boop recieved from Right Arm
+20:05:48.61792 (12871.7884115)          Boop recieved from Left Arm
+20:05:48.61792 (12871.7984124)          Boop recieved from Right Arm
+20:05:48.61792 (12871.8144139)          Boop recieved from Left Arm
+20:05:50.63792 (12874.0473610)          Boop recieved from Right Arm
+20:05:50.63792 (12874.1222112)          Boop recieved from Right Arm
+20:05:50.63792 (12874.1600225)          Boop recieved from Right Arm
+20:05:51.64792 (12874.4024874)          Bang recieved from Head
+20:05:51.64792 (12874.4224864)          Bang recieved from Head
+20:05:51.64792 (12874.4224864)          Bang recieved from Torso
+20:05:51.64792 (12874.4825031)          Boop recieved from Right Arm
+20:05:51.64792 (12874.4825031)          Boop recieved from Right Arm
+20:05:51.64792 (12874.4975050)          Boop recieved from Right Arm
+20:05:51.64792 (12874.5075062)          Bang recieved from Head
+20:05:51.64792 (12874.5415105)          Bang recieved from Head
+20:05:51.64792 (12874.6123652)          Bang recieved from Head
+20:05:51.64792 (12874.6375172)          Boop recieved from Right Arm
+20:05:52.256 (12875.9755735) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:05:52.256 (12875.9765736)          Stack Begin
+20:05:52.256 (12875.9905751)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:05:52.256 (12875.9965757)          Stack End
+20:05:52.256 (12876.0065767) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:05:52.256 (12876.0065767)          Stack Begin
+20:05:52.256 (12876.0065767)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:05:52.256 (12876.0065767)          Stack End
+20:05:52.256 (12876.0075768) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:05:52.256 (12876.0075768)          Stack Begin
+20:05:52.256 (12876.0075768)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:05:52.256 (12876.0075768)          Stack End
+20:05:52.256 (12876.0075768) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:05:52.256 (12876.0085769)          Stack Begin
+20:05:52.256 (12876.0085769)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:05:52.256 (12876.0085769)          Stack End
+20:05:52.256 (12876.0365797) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:05:52.256 (12876.0365797)          Stack Begin
+20:05:52.256 (12876.0365797)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:05:52.256 (12876.0365797)          Stack End
+20:05:58.6256 (12881.5384415)          Bang recieved from Torso
+20:05:58.6256 (12881.6062480)          Bang recieved from Left Arm
+20:05:58.6256 (12881.8152693)          Bang recieved from Head
+20:05:58.6256 (12882.0762550)          Bang recieved from Head
+20:05:58.6256 (12882.0762550) Error:   Workspace.Radioactive Zombie.Left Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:05:58.6256 (12882.0762550)          Stack Begin
+20:05:58.6256 (12882.0762550)          Script 'Workspace.Radioactive Zombie.Left Arm.My First Kill Script', Line 9
+20:05:58.6256 (12882.0762550)          Stack End
+20:05:59.7256 (12882.5763373)          Bang recieved from Right Arm
+20:05:59.7256 (12882.5773373) Error:   Workspace.Radioactive Zombie.Left Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:05:59.7256 (12882.5773373)          Stack Begin
+20:05:59.7256 (12882.5773373)          Script 'Workspace.Radioactive Zombie.Left Arm.My First Kill Script', Line 9
+20:05:59.7256 (12882.5773373)          Stack End
+20:05:59.7256 (12883.0348218) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:05:59.7256 (12883.0348218)          Stack Begin
+20:05:59.7256 (12883.0348218)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:05:59.7256 (12883.0348218)          Stack End
+20:05:59.7256 (12883.0538243) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:05:59.7256 (12883.0538243)          Stack Begin
+20:05:59.7256 (12883.0538243)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:05:59.7256 (12883.0548244)          Stack End
+20:05:59.7256 (12883.0548244) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:05:59.7256 (12883.0548244)          Stack Begin
+20:05:59.7256 (12883.0548244)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:05:59.7256 (12883.0548244)          Stack End
+20:05:59.7256 (12883.0789421) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:05:59.7256 (12883.0789421)          Stack Begin
+20:05:59.7256 (12883.0789421)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:05:59.7256 (12883.0789421)          Stack End
+20:05:59.7256 (12883.0789421) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:05:59.7256 (12883.0789421)          Stack Begin
+20:05:59.7256 (12883.0789421)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:05:59.7256 (12883.0799433)          Stack End
+20:06:00.8256 (12884.0573761)          Bang recieved from Head
+20:06:00.8256 (12884.0573761) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:00.8256 (12884.0573761)          Stack Begin
+20:06:00.8256 (12884.0573761)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 9
+20:06:00.8256 (12884.0573761)          Stack End
+20:06:00.8256 (12884.1274145)          Bang recieved from Left Arm
+20:06:00.8256 (12884.1284149) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:00.8256 (12884.1284149)          Stack Begin
+20:06:00.8256 (12884.1294152)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 9
+20:06:00.8256 (12884.1294152)          Stack End
+20:06:01.9256 (12884.4226355)          Bang recieved from Right Arm
+20:06:01.9256 (12884.4226355) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:01.9256 (12884.4236405)          Stack Begin
+20:06:01.9256 (12884.4236405)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 9
+20:06:01.9256 (12884.4236405)          Stack End
+20:06:01.9256 (12884.5076742)          Bang recieved from Head
+20:06:01.9256 (12884.5076742) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:01.9256 (12884.5076742)          Stack Begin
+20:06:01.9256 (12884.5076742)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 9
+20:06:01.9256 (12884.5086692)          Stack End
+20:06:01.9256 (12884.6448704)          Bang recieved from Left Arm
+20:06:01.9256 (12884.6488704) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:01.9256 (12884.6488704)          Stack Begin
+20:06:01.9256 (12884.6488704)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 9
+20:06:01.9256 (12884.6498704)          Stack End
+20:06:06.14256 (12889.4175328)          Boop recieved from Left Arm
+20:06:06.14256 (12889.6875482)          Boop recieved from Left Arm
+20:06:06.14256 (12889.8845634)          Boop recieved from Left Arm
+20:06:06.14256 (12889.9735702)          Boop recieved from Left Arm
+20:06:06.14256 (12889.9795706)          Boop recieved from Left Arm
+20:06:06.14256 (12890.0275741)          Boop recieved from Left Arm
+20:06:06.14256 (12890.0275741)          Boop recieved from Left Arm
+20:06:06.14256 (12890.0275741)          Boop recieved from Left Arm
+20:06:06.14256 (12890.1155815)          Boop recieved from Left Arm
+20:06:07.15256 (12890.2915825)          Boop recieved from Left Arm
+20:06:07.15256 (12890.4426109)          Boop recieved from Left Arm
+20:06:07.15256 (12890.4616137)          Boop recieved from Left Arm
+20:06:07.15256 (12890.7726233)          Boop recieved from Left Arm
+20:06:07.15256 (12890.9427057)          Boop recieved from Right Arm
+20:06:07.15256 (12891.0586264)          Boop recieved from Right Arm
+20:06:07.15256 (12891.0636253)          Boop recieved from Right Arm
+20:06:07.15256 (12891.1956547)          Boop recieved from Right Arm
+20:06:07.15256 (12891.2006551)          Boop recieved from Right Arm
+20:06:08.16256 (12891.2276572)          Boop recieved from Left Arm
+20:06:08.16256 (12891.9216927)          Boop recieved from Right Arm
+20:06:08.16256 (12892.0517268)          Boop recieved from Left Arm
+20:06:08.16256 (12892.0567279)          Boop recieved from Left Arm
+20:06:08.16256 (12892.1697096)          Boop recieved from Left Arm
+20:06:09.17256 (12892.2587153)          Boop recieved from Left Arm
+20:06:13.21256 (12896.8788765)          Boop recieved from Left Arm
+20:06:13.21256 (12896.8839008)          Boop recieved from Left Arm
+20:06:13.21256 (12897.1381881)          Boop recieved from Left Arm
+20:06:14.22256 (12897.3667969)          Boop recieved from Left Arm
+20:06:14.22256 (12897.4363411)          Boop recieved from Left Arm
+20:06:15.23256 (12898.8338909)          Boop recieved from Right Arm
+20:06:15.23256 (12898.8818982)          Boop recieved from Right Arm
+20:06:15.23256 (12899.0269067)          Boop recieved from Right Arm
+20:06:15.23256 (12899.0809149)          Boop recieved from Right Arm
+20:06:15.23256 (12899.1449214)          Boop recieved from Right Arm
+20:06:16.24256 (12899.5599150)          Boop recieved from Right Arm
+20:06:16.24256 (12899.7169300)          Bang recieved from Left Leg
+20:06:16.24256 (12899.8849511)          Bang recieved from Right Arm
+20:06:16.24256 (12899.8859512)          Bang recieved from Torso
+20:06:16.24256 (12899.9839535)          Bang recieved from Right Arm
+20:06:16.24256 (12900.0409558)          Bang recieved from Torso
+20:06:16.24256 (12900.0409558)          Bang recieved from Head
+20:06:16.24256 (12900.0409558)          Bang recieved from Left Arm
+20:06:16.24256 (12900.1319745)          Bang recieved from Head
+20:06:17.25256 (12900.5809869)          Bang recieved from Head
+20:06:17.25256 (12900.5819870) Error:   Workspace.Radioactive Zombie.Left Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:17.25256 (12900.5819870)          Stack Begin
+20:06:17.25256 (12900.5819870)          Script 'Workspace.Radioactive Zombie.Left Arm.My First Kill Script', Line 9
+20:06:17.25256 (12900.5819870)          Stack End
+20:06:17.25256 (12900.9470096)          Bang recieved from Right Arm
+20:06:17.25256 (12900.9470096) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:17.25256 (12900.9470096)          Stack Begin
+20:06:17.25256 (12900.9470096)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 9
+20:06:17.25256 (12900.9470096)          Stack End
+20:06:17.25256 (12901.0660319)          Bang recieved from Torso
+20:06:17.25256 (12901.0660319) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:17.25256 (12901.0660319)          Stack Begin
+20:06:17.25256 (12901.0670320)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 9
+20:06:17.25256 (12901.0670320)          Stack End
+20:06:17.25256 (12901.0670320)          Bang recieved from Head
+20:06:17.25256 (12901.0670320) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:17.25256 (12901.0670320)          Stack Begin
+20:06:17.25256 (12901.0670320)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 9
+20:06:17.25256 (12901.0670320)          Stack End
+20:06:17.25256 (12901.1330119)          Bang recieved from Head
+20:06:17.25256 (12901.1330119) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:17.25256 (12901.1340119)          Stack Begin
+20:06:17.25256 (12901.1340119)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 9
+20:06:17.25256 (12901.1340119)          Stack End
+20:06:17.25256 (12901.1340119)          Bang recieved from Torso
+20:06:17.25256 (12901.1340119) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:17.25256 (12901.1340119)          Stack Begin
+20:06:17.25256 (12901.1340119)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 9
+20:06:17.25256 (12901.1340119)          Stack End
+20:06:18.26256 (12901.2280200)          Bang recieved from Head
+20:06:18.26256 (12901.2350203) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:18.26256 (12901.2410205)          Stack Begin
+20:06:18.26256 (12901.2500208)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 9
+20:06:18.26256 (12901.2550209)          Stack End
+20:06:18.26256 (12901.2640212)          Bang recieved from Head
+20:06:18.26256 (12901.2640212) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:18.26256 (12901.2640212)          Stack Begin
+20:06:18.26256 (12901.2640212)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 9
+20:06:18.26256 (12901.2640212)          Stack End
+20:06:18.26256 (12901.2690260) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:06:18.26256 (12901.2690260)          Stack Begin
+20:06:18.26256 (12901.2690260)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:06:18.26256 (12901.2690260)          Stack End
+20:06:18.26256 (12901.3010285) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:06:18.26256 (12901.3020286)          Stack Begin
+20:06:18.26256 (12901.3020286)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:06:18.26256 (12901.3020286)          Stack End
+20:06:18.26256 (12901.3020286) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:06:18.26256 (12901.3020286)          Stack Begin
+20:06:18.26256 (12901.3020286)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:06:18.26256 (12901.3020286)          Stack End
+20:06:18.26256 (12901.3020286) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:06:18.26256 (12901.3030287)          Stack Begin
+20:06:18.26256 (12901.3030287)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:06:18.26256 (12901.3030287)          Stack End
+20:06:18.26256 (12901.3030287)          Bang recieved from Left Arm
+20:06:18.26256 (12901.3030287) Error:   Workspace.Radioactive Zombie.Left Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:18.26256 (12901.3030287)          Stack Begin
+20:06:18.26256 (12901.3030287)          Script 'Workspace.Radioactive Zombie.Left Arm.My First Kill Script', Line 9
+20:06:18.26256 (12901.3030287)          Stack End
+20:06:18.26256 (12901.3790305)          Bang recieved from Head
+20:06:18.26256 (12901.3790305) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:18.26256 (12901.3790305)          Stack Begin
+20:06:18.26256 (12901.3790305)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 9
+20:06:18.26256 (12901.3800305)          Stack End
+20:06:18.26256 (12901.8630538)          Bang recieved from Right Arm
+20:06:18.26256 (12901.8630538) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:18.26256 (12901.8640537)          Stack Begin
+20:06:18.26256 (12901.8640537)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 9
+20:06:18.26256 (12901.8640537)          Stack End
+20:06:18.26256 (12901.9330801)          Bang recieved from Head
+20:06:18.26256 (12901.9340803) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:18.26256 (12901.9340803)          Stack Begin
+20:06:18.26256 (12901.9340803)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 9
+20:06:18.26256 (12901.9340803)          Stack End
+20:06:18.26256 (12902.0570688)          Bang recieved from Torso
+20:06:18.26256 (12902.0570688) Error:   Workspace.Radioactive Zombie.Left Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:18.26256 (12902.0570688)          Stack Begin
+20:06:18.26256 (12902.0570688)          Script 'Workspace.Radioactive Zombie.Left Arm.My First Kill Script', Line 9
+20:06:18.26256 (12902.0570688)          Stack End
+20:06:18.26256 (12902.0730726)          Bang recieved from Head
+20:06:18.26256 (12902.0730726) Error:   Workspace.Radioactive Zombie.Left Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:18.26256 (12902.0730726)          Stack Begin
+20:06:18.26256 (12902.0740726)          Script 'Workspace.Radioactive Zombie.Left Arm.My First Kill Script', Line 9
+20:06:18.26256 (12902.0740726)          Stack End
+20:06:18.26256 (12902.1780836)          Bang recieved from Head
+20:06:18.26256 (12902.1780836) Error:   Workspace.Radioactive Zombie.Left Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:18.26256 (12902.1780836)          Stack Begin
+20:06:18.26256 (12902.1780836)          Script 'Workspace.Radioactive Zombie.Left Arm.My First Kill Script', Line 9
+20:06:18.26256 (12902.1790837)          Stack End
+20:06:18.26256 (12902.1840842)          Boop recieved from Left Arm
+20:06:19.27256 (12902.2330892)          Boop recieved from Left Arm
+20:06:19.27256 (12902.2751252)          Bang recieved from Head
+20:06:19.27256 (12902.2801272) Error:   Workspace.Radioactive Zombie.Left Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:19.27256 (12902.2871300)          Stack Begin
+20:06:19.27256 (12902.2951332)          Script 'Workspace.Radioactive Zombie.Left Arm.My First Kill Script', Line 9
+20:06:19.27256 (12902.3011356)          Stack End
+20:06:19.27256 (12902.7211265)          Boop recieved from Left Arm
+20:06:19.27256 (12903.1126998)          Boop recieved from Left Arm
+20:06:20.28256 (12903.3256663)          Boop recieved from Left Arm
+20:06:21.29256 (12904.3577206)          Boop recieved from Right Arm
+20:06:21.29256 (12904.3577206)          Boop recieved from Right Arm
+20:06:23.31256 (12906.8498554)          Bang recieved from Right Arm
+20:06:23.31256 (12906.8998324)          Bang recieved from Head
+20:06:23.31256 (12906.8998324)          Bang recieved from Torso
+20:06:23.31256 (12907.0068489)          Boop recieved from Right Arm
+20:06:24.32256 (12907.2388546)          Bang recieved from Head
+20:06:24.32256 (12907.2388546) Error:   Workspace.Radioactive Zombie.Left Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:24.32256 (12907.2388546)          Stack Begin
+20:06:24.32256 (12907.2388546)          Script 'Workspace.Radioactive Zombie.Left Arm.My First Kill Script', Line 9
+20:06:24.32256 (12907.2388546)          Stack End
+20:06:24.32256 (12907.3238650)          Boop recieved from Right Arm
+20:06:24.32256 (12907.3808957)          Bang recieved from Head
+20:06:24.32256 (12907.3808957) Error:   Workspace.Radioactive Zombie.Left Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:24.32256 (12907.3818960)          Stack Begin
+20:06:24.32256 (12907.3818960)          Script 'Workspace.Radioactive Zombie.Left Arm.My First Kill Script', Line 9
+20:06:24.32256 (12907.3818960)          Stack End
+20:06:24.32256 (12907.6683873)          Boop recieved from Left Arm
+20:06:24.32256 (12907.7043888)          Boop recieved from Right Arm
+20:06:24.32256 (12907.7043888)          Boop recieved from Left Arm
+20:06:24.32256 (12907.8823217)          Boop recieved from Left Arm
+20:06:24.32256 (12908.0154065)          Boop recieved from Right Arm
+20:06:24.32256 (12908.1523478)          Boop recieved from Right Arm
+20:06:25.33256 (12908.2089224)          Boop recieved from Right Arm
+20:06:25.33256 (12908.2779395)          Boop recieved from Left Arm
+20:06:25.33256 (12908.2839405)          Boop recieved from Right Arm
+20:06:25.33256 (12908.4111963)          Boop recieved from Right Arm
+20:06:26.34256 (12909.5019703) Error:   Workspace.Radioactive Zombie.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:06:26.34256 (12909.5029701)          Stack Begin
+20:06:26.34256 (12909.5029701)          Script 'Workspace.Radioactive Zombie.Respawn', Line 7
+20:06:26.34256 (12909.5029701)          Stack End
+20:06:31.39256 (12914.6280237)          Boop recieved from Right Arm
+20:06:31.39256 (12914.6410231)          Boop recieved from Right Arm
+20:06:31.39256 (12914.6750403)          Boop recieved from Right Arm
+20:06:31.39256 (12914.8100571)          Boop recieved from Right Arm
+20:06:31.39256 (12914.8600633)          Boop recieved from Right Arm
+20:06:32.40256 (12915.3619666)          Boop recieved from Right Arm
+20:06:32.40256 (12915.4430487)          Boop recieved from Right Arm
+20:06:32.40256 (12916.0110351)          Boop recieved from Right Arm
+20:06:32.40256 (12916.1120912)          Boop recieved from Right Arm
+20:06:33.41256 (12916.2310271)          Boop recieved from Right Arm
+20:06:33.41256 (12916.4240265)          Boop recieved from Right Arm
+20:06:41.49256 (12924.6175541)          Bang recieved from Left Arm
+20:06:41.49256 (12924.8198270)          Bang recieved from Head
+20:06:41.49256 (12924.8198270) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:41.49256 (12924.8198270)          Stack Begin
+20:06:41.49256 (12924.8198270)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 9
+20:06:41.49256 (12924.8198270)          Stack End
+20:06:41.49256 (12924.8820667)          Bang recieved from Head
+20:06:41.49256 (12924.8830688) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:41.49256 (12924.8830688)          Stack Begin
+20:06:41.49256 (12924.8830688)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 9
+20:06:41.49256 (12924.8830688)          Stack End
+20:06:41.49256 (12925.0287145)          Boop recieved from Right Arm
+20:06:41.49256 (12925.0366987)          Boop recieved from Right Arm
+20:06:41.49256 (12925.0436848)          Boop recieved from Right Arm
+20:06:41.49256 (12925.0506709)          Bang recieved from Head
+20:06:41.49256 (12925.0506709) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:41.49256 (12925.0516690)          Stack Begin
+20:06:41.49256 (12925.0516690)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 9
+20:06:41.49256 (12925.0516690)          Stack End
+20:06:42.50256 (12925.5543489)          Boop recieved from Right Arm
+20:06:42.50256 (12925.6004439)          Bang recieved from Head
+20:06:42.50256 (12925.6004439) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:42.50256 (12925.6014443)          Stack Begin
+20:06:42.50256 (12925.6014443)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 9
+20:06:42.50256 (12925.6014443)          Stack End
+20:06:42.50256 (12925.6084476)          Boop recieved from Left Arm
+20:06:42.50256 (12925.6134499)          Boop recieved from Left Arm
+20:06:42.50256 (12925.7313671)          Bang recieved from Head
+20:06:42.50256 (12925.7313671) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:06:42.50256 (12925.7323667)          Stack Begin
+20:06:42.50256 (12925.7323667)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 9
+20:06:42.50256 (12925.7323667)          Stack End
+20:06:42.50256 (12925.7433626) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:06:42.50256 (12925.7433626)          Stack Begin
+20:06:42.50256 (12925.7433626)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:06:42.50256 (12925.7433626)          Stack End
+20:06:43.51256 (12926.7554668) Error:   Workspace.Radioactive Zombie.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:06:43.51256 (12926.7554668)          Stack Begin
+20:06:43.51256 (12926.7554668)          Script 'Workspace.Radioactive Zombie.Respawn', Line 7
+20:06:43.51256 (12926.7554668)          Stack End
+20:06:44.52256 (12927.4227272) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:06:44.52256 (12927.4227272)          Stack Begin
+20:06:44.52256 (12927.4227272)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:06:44.52256 (12927.4227272)          Stack End
+20:06:49.57256 (12932.2561879)          Boop recieved from Right Arm
+20:06:49.57256 (12932.2741930)          Boop recieved from Right Arm
+20:07:01.3720 (12944.5130363)          Boop recieved from Right Arm
+20:07:01.3720 (12944.5200011)          Boop recieved from Right Arm
+20:07:01.3720 (12944.5259710)          Boop recieved from Right Arm
+20:07:01.3720 (12944.6392989)          Boop recieved from Right Arm
+20:07:01.3720 (12944.7062890)          Boop recieved from Right Arm
+20:07:01.3720 (12944.7933013)          Boop recieved from Right Arm
+20:07:04.6720 (12947.9765180)          Boop recieved from Left Arm
+20:07:04.6720 (12947.9775181)          Boop recieved from Left Arm
+20:07:04.6720 (12947.9775181)          Boop recieved from Left Arm
+20:07:04.6720 (12947.9775181)          Boop recieved from Left Arm
+20:07:04.6720 (12947.9795182)          Boop recieved from Right Arm
+20:07:04.6720 (12947.9845186)          Boop recieved from Left Arm
+20:07:08.10720 (12951.8592184)          Boop recieved from Right Arm
+20:07:39.41720 (12983.0613261)          Boop recieved from Right Arm
+20:07:44.46720 (12987.2441304)          Boop recieved from Left Arm
+20:07:44.46720 (12987.7311583)          Boop recieved from Right Arm
+20:07:44.46720 (12987.8041693)          Boop recieved from Right Arm
+20:07:44.46720 (12987.9061729)          Boop recieved from Left Arm
+20:07:44.46720 (12987.9101731)          Boop recieved from Left Arm
+20:07:48.50720 (12991.3107529)          Boop recieved from Left Arm
+20:07:48.50720 (12991.3707513)          Boop recieved from Left Arm
+20:07:48.50720 (12991.4853836)          Boop recieved from Left Arm
+20:07:48.50720 (12991.4904096)          Boop recieved from Left Arm
+20:07:48.50720 (12991.6342584)          Boop recieved from Left Arm
+20:07:48.50720 (12991.8397723)          Boop recieved from Right Arm
+20:07:48.50720 (12991.8457725)          Boop recieved from Right Arm
+20:07:48.50720 (12991.8637762)          Boop recieved from Left Arm
+20:07:48.50720 (12991.9037787)          Boop recieved from Right Arm
+20:07:48.50720 (12991.9107792)          Boop recieved from Right Arm
+20:07:48.50720 (12992.0067951)          Boop recieved from Left Arm
+20:07:48.50720 (12992.0627919)          Boop recieved from Left Arm
+20:07:48.50720 (12992.0677920)          Boop recieved from Right Arm
+20:07:48.50720 (12992.0677920)          Boop recieved from Right Arm
+20:07:49.51720 (12992.2438048)          Boop recieved from Right Arm
+20:07:49.51720 (12992.3487218)          Boop recieved from Left Arm
+20:07:49.51720 (12992.5904431)          Boop recieved from Left Arm
+20:07:49.51720 (12992.5954672)          Boop recieved from Left Arm
+20:07:49.51720 (12992.6477175)          Boop recieved from Left Arm
+20:07:49.51720 (12992.7334561)          Boop recieved from Left Arm
+20:07:49.51720 (12992.8208160)          Boop recieved from Left Arm
+20:07:49.51720 (12993.0757614)          Bang recieved from Left Arm
+20:07:49.51720 (12993.1563536)          Bang recieved from Head
+20:07:49.51720 (12993.1563536)          Bang recieved from HumanoidRootPart
+20:07:49.51720 (12993.1778403)          Bang recieved from Torso
+20:07:50.52720 (12993.3658407)          Bang recieved from Left Arm
+20:07:50.52720 (12993.3658407)          Bang recieved from Left Arm
+20:07:51.53720 (12994.9543799) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:07:51.53720 (12994.9543799)          Stack Begin
+20:07:51.53720 (12994.9543799)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:07:51.53720 (12994.9543799)          Stack End
+20:07:54.56720 (12997.2455918)          Bang recieved from Right Arm
+20:07:54.56720 (12997.6635886)          Bang recieved from Head
+20:07:54.56720 (12997.7646082)          Bang recieved from Head
+20:07:55.57720 (12998.9960212) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:07:55.57720 (12998.9960212)          Stack Begin
+20:07:55.57720 (12998.9970162)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:07:55.57720 (12998.9970162)          Stack End
+20:07:55.57720 (12998.9970162) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:07:55.57720 (12998.9970162)          Stack Begin
+20:07:55.57720 (12998.9980113)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:07:55.57720 (12998.9980113)          Stack End
+20:07:55.57720 (12999.0732011) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:07:55.57720 (12999.0732011)          Stack Begin
+20:07:55.57720 (12999.0732011)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:07:55.57720 (12999.0732011)          Stack End
+20:07:58.60720 (13001.3283554)          Bang recieved from Right Arm
+20:07:58.60720 (13001.3813503)          Bang recieved from Left Arm
+20:07:58.60720 (13001.5053578)          Bang recieved from Torso
+20:07:58.60720 (13001.5113582)          Bang recieved from Head
+20:07:58.60720 (13001.8483790)          Bang recieved from Right Arm
+20:07:58.60720 (13002.0153837)          Bang recieved from Head
+20:07:59.61720 (13002.2654340)          Bang recieved from Head
+20:07:59.61720 (13002.2654340) Error:   Workspace.Radioactive Zombie.Right Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:07:59.61720 (13002.2654340)          Stack Begin
+20:07:59.61720 (13002.2664344)          Script 'Workspace.Radioactive Zombie.Right Arm.My First Kill Script', Line 9
+20:07:59.61720 (13002.2664344)          Stack End
+20:07:59.61720 (13002.6024229)          Bang recieved from Head
+20:07:59.61720 (13002.6024229) Error:   Workspace.Radioactive Zombie.Left Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:07:59.61720 (13002.6024229)          Stack Begin
+20:07:59.61720 (13002.6024229)          Script 'Workspace.Radioactive Zombie.Left Arm.My First Kill Script', Line 9
+20:07:59.61720 (13002.6024229)          Stack End
+20:07:59.61720 (13002.6264207)          Bang recieved from Torso
+20:07:59.61720 (13002.6264207) Error:   Workspace.Radioactive Zombie.Left Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:07:59.61720 (13002.6264207)          Stack Begin
+20:07:59.61720 (13002.6264207)          Script 'Workspace.Radioactive Zombie.Left Arm.My First Kill Script', Line 9
+20:07:59.61720 (13002.6264207)          Stack End
+20:07:59.61720 (13002.7494383)          Bang recieved from Head
+20:07:59.61720 (13002.7494383) Error:   Workspace.Radioactive Zombie.Left Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:07:59.61720 (13002.7494383)          Stack Begin
+20:07:59.61720 (13002.7494383)          Script 'Workspace.Radioactive Zombie.Left Arm.My First Kill Script', Line 9
+20:07:59.61720 (13002.7494383)          Stack End
+20:07:59.61720 (13002.7884494)          Bang recieved from Head
+20:07:59.61720 (13002.8004510) Error:   Workspace.Radioactive Zombie.Left Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:07:59.61720 (13002.8074519)          Stack Begin
+20:07:59.61720 (13002.8154530)          Script 'Workspace.Radioactive Zombie.Left Arm.My First Kill Script', Line 9
+20:07:59.61720 (13002.8214538)          Stack End
+20:07:59.61720 (13002.8344555)          Bang recieved from Head
+20:07:59.61720 (13002.8344555) Error:   Workspace.Radioactive Zombie.Left Arm.My First Kill Script:9: attempt to index field 'Parent' (a nil value)
+20:07:59.61720 (13002.8344555)          Stack Begin
+20:07:59.61720 (13002.8344555)          Script 'Workspace.Radioactive Zombie.Left Arm.My First Kill Script', Line 9
+20:07:59.61720 (13002.8354556)          Stack End
+20:07:59.61720 (13003.0819632) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:07:59.61720 (13003.0899618)          Stack Begin
+20:07:59.61720 (13003.0989603)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:07:59.61720 (13003.1049593)          Stack End
+20:07:59.61720 (13003.1129579) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:07:59.61720 (13003.1139577)          Stack Begin
+20:07:59.61720 (13003.1139577)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:07:59.61720 (13003.1139577)          Stack End
+20:07:59.61720 (13003.1549507) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:07:59.61720 (13003.1549507)          Stack Begin
+20:07:59.61720 (13003.1549507)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:07:59.61720 (13003.1549507)          Stack End
+20:07:59.61720 (13003.1549507) Error:   Workspace.Model.Training Dummy.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:07:59.61720 (13003.1549507)          Stack Begin
+20:07:59.61720 (13003.1549507)          Script 'Workspace.Model.Training Dummy.Respawn', Line 7
+20:07:59.61720 (13003.1549507)          Stack End
+20:08:08.5184 (13011.8219149)          Boop recieved from Left Arm
+20:08:08.5184 (13011.9869157)          Boop recieved from Left Arm
+20:08:08.5184 (13012.0059153)          Boop recieved from Left Arm
+20:08:08.5184 (13012.0059153)          Boop recieved from Left Arm
+20:08:08.5184 (13012.0059153)          Boop recieved from Left Arm
+20:08:08.5184 (13012.0209150)          Boop recieved from Right Arm
+20:08:08.5184 (13012.1209384)          Boop recieved from Left Arm
+20:08:09.6184 (13013.1288681)          Boop recieved from Left Arm
+20:08:10.7184 (13014.1225705)          Boop recieved from Right Arm
+20:08:10.7184 (13014.1375716)          Boop recieved from Right Arm
+20:08:11.8184 (13014.3845823)          Boop recieved from Right Arm
+20:08:11.8184 (13014.5636035)          Boop recieved from Left Arm
+20:08:11.8184 (13014.5856048)          Boop recieved from Left Arm
+20:08:11.8184 (13014.5856048)          Boop recieved from Left Arm
+20:08:11.8184 (13014.7506184)          Boop recieved from Right Arm
+20:08:11.8184 (13014.7766169)          Boop recieved from Left Arm
+20:08:11.8184 (13014.8236192)          Boop recieved from Left Arm
+20:08:11.8184 (13014.8416201)          Boop recieved from Right Arm
+20:08:11.8184 (13014.8836240)          Boop recieved from Left Arm
+20:08:11.8184 (13014.9196263)          Boop recieved from Right Arm
+20:08:11.8184 (13014.9386275)          Boop recieved from Left Arm
+20:08:11.8184 (13014.9866362)          Boop recieved from Right Arm
+20:08:11.8184 (13015.0216401)          Boop recieved from Left Arm
+20:08:11.8184 (13015.0646393)          Boop recieved from Right Arm
+20:08:11.8184 (13015.0856405)          Boop recieved from Right Arm
+20:08:11.8184 (13015.1306430)          Boop recieved from Right Arm
+20:08:12.9184 (13015.2006491)          Boop recieved from Right Arm
+20:08:12.9184 (13015.2346515)          Boop recieved from Right Arm
+20:08:12.9184 (13015.2786546)          Boop recieved from Right Arm
+20:08:16.13184 (13019.3921427) Error:   Workspace.Radioactive Zombie.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:08:16.13184 (13019.4001627)          Stack Begin
+20:08:16.13184 (13019.4071802)          Script 'Workspace.Radioactive Zombie.Respawn', Line 7
+20:08:16.13184 (13019.4131951)          Stack End
+20:08:18.15184 (13021.7578318)          Boop recieved from Left Arm
+20:08:18.15184 (13021.7578318)          Boop recieved from Right Arm
+20:08:18.15184 (13021.8119071)          Boop recieved from Right Arm
+20:08:18.15184 (13021.8229041)          Boop recieved from Left Arm
+20:08:18.15184 (13021.8229041)          Boop recieved from Right Arm
+20:08:18.15184 (13021.8239038)          Boop recieved from Left Arm
+20:08:18.15184 (13022.0769826)          Boop recieved from Right Arm
+20:08:18.15184 (13022.0769826)          Boop recieved from Left Arm
+20:08:18.15184 (13022.1329960)          Boop recieved from Left Arm
+20:08:19.16184 (13022.3089628)          Boop recieved from Right Arm
+20:08:19.16184 (13022.4087089)          Boop recieved from Right Arm
+20:08:19.16184 (13022.4127292)          Boop recieved from Left Arm
+20:08:19.16184 (13022.4127292)          Boop recieved from Left Arm
+20:08:19.16184 (13022.4489124)          Boop recieved from Left Arm
+20:08:19.16184 (13022.4489124)          Boop recieved from Right Arm
+20:08:19.16184 (13022.4709277)          Boop recieved from Right Arm
+20:08:19.16184 (13022.4709277)          Boop recieved from Left Arm
+20:08:28.25184 (13031.5378263)          Boop recieved from Left Arm
+20:08:28.25184 (13031.5658243)          Boop recieved from Left Arm
+20:08:28.25184 (13032.1608651)          Boop recieved from Left Arm
+20:08:29.26184 (13032.2251863)          Boop recieved from Left Arm
+20:08:29.26184 (13032.2251863)          Boop recieved from Left Arm
+20:08:29.26184 (13032.3061455)          Boop recieved from Left Arm
+20:08:29.26184 (13032.3220666)          Boop recieved from Right Arm
+20:08:29.26184 (13032.3449533)          Boop recieved from Left Arm
+20:08:29.26184 (13032.3835212)          Boop recieved from Left Arm
+20:08:29.26184 (13032.3895285)          Boop recieved from Left Arm
+20:08:29.26184 (13032.4455963)          Boop recieved from Left Arm
+20:08:29.26184 (13032.4465975)          Boop recieved from Left Arm
+20:08:29.26184 (13032.4465975)          Boop recieved from Left Arm
+20:08:29.26184 (13032.4465975)          Boop recieved from Right Arm
+20:08:29.26184 (13032.4465975)          Boop recieved from Right Arm
+20:08:29.26184 (13032.4596133)          Boop recieved from Right Arm
+20:08:29.26184 (13032.6813973)          Boop recieved from Right Arm
+20:08:29.26184 (13032.6863977)          Boop recieved from Right Arm
+20:08:30.27184 (13033.4559631)          Boop recieved from Left Arm
+20:08:30.27184 (13033.4604351)          Boop recieved from Left Arm
+20:08:30.27184 (13033.4664045)          Boop recieved from Left Arm
+20:08:30.27184 (13033.5221183)          Boop recieved from Right Arm
+20:08:30.27184 (13033.5260978)          Boop recieved from Left Arm
+20:08:30.27184 (13033.5469905)          Boop recieved from Left Arm
+20:08:30.27184 (13033.5519649)          Boop recieved from Left Arm
+20:08:30.27184 (13033.5569394)          Boop recieved from Left Arm
+20:08:30.27184 (13033.5624494)          Boop recieved from Right Arm
+20:08:30.27184 (13033.5674501)          Boop recieved from Right Arm
+20:08:30.27184 (13033.5724508)          Boop recieved from Right Arm
+20:08:30.27184 (13033.5864528)          Boop recieved from Left Arm
+20:08:30.27184 (13033.7244571)          Boop recieved from Left Arm
+20:08:30.27184 (13033.7284573)          Boop recieved from Left Arm
+20:08:30.27184 (13033.7364577)          Boop recieved from Left Arm
+20:08:30.27184 (13033.7364577)          Boop recieved from Right Arm
+20:08:30.27184 (13034.1586481)          Boop recieved from Right Arm
+20:08:31.28184 (13034.2094290)          Boop recieved from Right Arm
+20:08:31.28184 (13034.2664921)          Boop recieved from Right Arm
+20:08:31.28184 (13034.6615156)          Boop recieved from Right Arm
+20:08:31.28184 (13034.7595219)          Boop recieved from Right Arm
+20:08:31.28184 (13034.8275300)          Boop recieved from Right Arm
+20:08:31.28184 (13034.8275300)          Boop recieved from Right Arm
+20:08:31.28184 (13034.8275300)          Boop recieved from Right Arm
+20:08:31.28184 (13034.8315304)          Boop recieved from Right Arm
+20:08:31.28184 (13034.8315304)          Boop recieved from Right Arm
+20:08:31.28184 (13034.8325304)          Boop recieved from Right Arm
+20:08:31.28184 (13034.9085337)          Boop recieved from Right Arm
+20:08:31.28184 (13034.9145340)          Boop recieved from Right Arm
+20:08:31.28184 (13034.9195344)          Boop recieved from Right Arm
+20:08:32.29184 (13035.4885362)          Boop recieved from Left Arm
+20:08:32.29184 (13035.4895345)          Boop recieved from Left Arm
+20:08:32.29184 (13035.4895345)          Boop recieved from Left Arm
+20:08:32.29184 (13035.5005154)          Boop recieved from Left Arm
+20:08:32.29184 (13035.7746273)          Boop recieved from Right Arm
+20:08:32.29184 (13035.7746273)          Boop recieved from Right Arm
+20:08:32.29184 (13035.7826302)          Boop recieved from Right Arm
+20:08:32.29184 (13035.7896327)          Boop recieved from Right Arm
+20:08:32.29184 (13035.7896327)          Boop recieved from Left Arm
+20:08:32.29184 (13035.7906330)          Boop recieved from Left Arm
+20:08:32.29184 (13035.7906330)          Boop recieved from Right Arm
+20:08:32.29184 (13036.0181193)          Boop recieved from Left Arm
+20:08:32.29184 (13036.0841086)          Boop recieved from Right Arm
+20:08:32.29184 (13036.1201074)          Boop recieved from Left Arm
+20:08:33.30184 (13036.2611353)          Boop recieved from Right Arm
+20:08:33.30184 (13036.2781374)          Boop recieved from Left Arm
+20:08:33.30184 (13036.3531467)          Boop recieved from Left Arm
+20:08:33.30184 (13036.4001334)          Boop recieved from Right Arm
+20:08:33.30184 (13036.7821607)          Boop recieved from Right Arm
+20:08:33.30184 (13036.8011618)          Boop recieved from Right Arm
+20:08:37.34184 (13040.6988361) Error:   Workspace.Radioactive Zombie.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:08:37.34184 (13040.6998362)          Stack Begin
+20:08:37.34184 (13040.6998362)          Script 'Workspace.Radioactive Zombie.Respawn', Line 7
+20:08:37.34184 (13040.6998362)          Stack End
+20:08:38.35184 (13041.7489160)          Boop recieved from Right Arm
+20:08:38.35184 (13041.7999123)          Boop recieved from Right Arm
+20:08:38.35184 (13041.7999123)          Boop recieved from Left Arm
+20:08:38.35184 (13041.9350179)          Boop recieved from Right Arm
+20:08:38.35184 (13041.9350179)          Boop recieved from Left Arm
+20:08:38.35184 (13041.9689807)          Boop recieved from Right Arm
+20:08:38.35184 (13042.0159844)          Boop recieved from Right Arm
+20:08:38.35184 (13042.0509872)          Boop recieved from Right Arm
+20:08:38.35184 (13042.0509872)          Boop recieved from Left Arm
+20:08:38.35184 (13042.0589878)          Boop recieved from Left Arm
+20:08:39.36184 (13042.2489418)          Boop recieved from Right Arm
+20:08:39.36184 (13042.2489418)          Boop recieved from Left Arm
+20:08:39.36184 (13042.2810467)          Boop recieved from Right Arm
+20:08:39.36184 (13042.2900548)          Boop recieved from Left Arm
+20:08:39.36184 (13042.3571145)          Boop recieved from Right Arm
+20:08:39.36184 (13042.5538908)          Boop recieved from Left Arm
+20:08:43.40184 (13046.7746568) Error:   Workspace.Radioactive Zombie.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:08:43.40184 (13046.7816576)          Stack Begin
+20:08:43.40184 (13046.7876584)          Script 'Workspace.Radioactive Zombie.Respawn', Line 7
+20:08:43.40184 (13046.7936591)          Stack End
+20:08:45.42184 (13048.5278056)          Boop recieved from Right Arm
+20:08:46.43184 (13049.4257790)          Boop recieved from Right Arm
+20:08:46.43184 (13049.4257790)          Boop recieved from Right Arm
+20:08:46.43184 (13049.4347789)          Boop recieved from Left Arm
+20:08:46.43184 (13049.4357789)          Boop recieved from Right Arm
+20:08:46.43184 (13049.4357789)          Boop recieved from Right Arm
+20:08:46.43184 (13049.4357789)          Boop recieved from Right Arm
+20:08:46.43184 (13049.6768671)          Boop recieved from Right Arm
+20:08:46.43184 (13049.8319060)          Boop recieved from Left Arm
+20:08:46.43184 (13049.9043965)          Boop recieved from Left Arm
+20:08:46.43184 (13050.0062965)          Boop recieved from Right Arm
+20:08:46.43184 (13050.0582710)          Boop recieved from Left Arm
+20:08:46.43184 (13050.1103958)          Boop recieved from Left Arm
+20:08:46.43184 (13050.1334074)          Boop recieved from Right Arm
+20:08:46.43184 (13050.1374094)          Boop recieved from Left Arm
+20:08:47.44184 (13050.2213164)          Boop recieved from Right Arm
+20:08:47.44184 (13050.2323128)          Boop recieved from Left Arm
+20:08:47.44184 (13050.3185754)          Boop recieved from Left Arm
+20:08:47.44184 (13050.3386055)          Boop recieved from Right Arm
+20:08:47.44184 (13050.3653471)          Boop recieved from Right Arm
+20:08:50.47184 (13053.9055875) Error:   Workspace.Radioactive Zombie.Respawn:7: attempt to index field 'Parent' (a nil value)
+20:08:50.47184 (13053.9055875)          Stack Begin
+20:08:50.47184 (13053.9055875)          Script 'Workspace.Radioactive Zombie.Respawn', Line 7
+20:08:50.47184 (13053.9075874)          Stack End
+20:08:51.48184 (13054.5091522)          Boop recieved from Right Arm
+20:08:51.48184 (13054.5091522)          Boop recieved from Right Arm
+20:08:51.48184 (13054.5291573)          Boop recieved from Right Arm
+20:08:51.48184 (13054.5301575)          Boop recieved from Right Arm
+20:08:51.48184 (13054.5441611)          Boop recieved from Right Arm
+20:24:17.56680 (13980.8098515)          Boop recieved from Left Arm
+20:24:17.56680 (13980.8798544)          Boop recieved from Left Arm
+20:24:17.56680 (13980.8808544)          Boop recieved from Left Arm
+20:24:17.56680 (13980.8908548)          Boop recieved from Left Arm
+20:24:17.56680 (13981.1398574)          Boop recieved from Left Arm
+20:24:18.57680 (13981.2608823)          Boop recieved from Left Arm
+20:24:18.57680 (13981.3598917)          Boop recieved from Left Arm
+20:24:18.57680 (13981.3788933)          Boop recieved from Left Arm
+20:24:18.57680 (13981.4589014)          Boop recieved from Left Arm
+20:24:18.57680 (13981.4879042)          Boop recieved from Left Arm
+20:24:18.57680 (13981.5119016)          Boop recieved from Left Arm
+20:24:18.57680 (13981.5459033)          Boop recieved from Left Arm
+20:24:18.57680 (13981.5689044)          Boop recieved from Left Arm
+20:24:18.57680 (13981.6639114)          Boop recieved from Left Arm
+20:24:18.57680 (13981.6889130)          Boop recieved from Left Arm
+20:24:18.57680 (13981.7199167)          Boop recieved from Left Arm
+20:24:18.57680 (13981.7699207)          Boop recieved from Left Arm
+20:24:18.57680 (13981.7959227)          Boop recieved from Left Arm
+20:24:18.57680 (13982.0379363)          Boop recieved from Left Arm
+20:24:19.58680 (13982.3964659)          Boop recieved from Left Arm
+20:24:19.58680 (13982.4136538)          Boop recieved from Left Arm
+20:24:19.58680 (13982.4497188)          Boop recieved from Left Arm
+20:24:19.58680 (13982.4767675)          Boop recieved from Left Arm
+20:44:52.46496 (15215.2146271)          Boop recieved from Right Arm
+20:44:52.46496 (15215.2469147)          Boop recieved from Right Arm
+27.05.2015 20:47:12.55424 (15355.5439798)End Log

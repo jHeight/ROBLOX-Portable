@@ -1,0 +1,8 @@
+Application Log
+Start: Wed May 27 12:21:38 2015
+
+_____________________________________________________
+
+    ###    Shutdown    ###
+
+Closing log file

@@ -1,0 +1,9 @@
+26.05.2015 10:26:11.18872 (18.3040850)Log "Roblox TaskScheduler Thread 2"
+10:26:11.18872 (18.3040850)          Starting script
+10:26:11.18872 (18.5163785)          ! Joining game 'a12a43f7-6c14-4fdb-99d9-49679e97ec8b' place 185178088 at 198.143.129.50
+10:26:12.19872 (18.5753724) Warning: Connecting to 198.143.129.50:65478
+10:26:12.19872 (19.2151585) Warning: Connection accepted from 198.143.129.50|65478
+
+10:26:12.19872 (19.3043798) Warning: ClassDescriptor failed to learn ThumbnailGenerator
+10:26:16.23872 (22.5880027) Error:   Players.zsoltisawesome.Backpack.JSword.Local Gui
+26.05.2015 10:46:03.31224 (1209.9304262)End Log

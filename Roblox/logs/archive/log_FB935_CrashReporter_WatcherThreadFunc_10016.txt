@@ -1,0 +1,10 @@
+25.05.2015 12:34:11.31160 (3.8900517)Log "CrashReporter_WatcherThreadFunc"
+12:34:11.31160 (3.8930553)          WatcherThread Started.
+12:50:20.17120 (972.9267614)          StartProcessException...
+12:50:23.20120 (975.9839284)          DoneProcessException
+12:50:23.20120 (975.9839284)          Uploading .crashevent...
+12:50:23.20120 (975.9839284)          Crash Event post
+12:50:24.21120 (976.7703328)          Crash Event posted, response: OK
+12:50:24.21120 (976.7703328)          Done uploading .crashevent...
+12:50:24.21120 (976.7703328)          WatcherThread Exiting.
+25.05.2015 12:50:24.21120 (976.7713329)End Log
