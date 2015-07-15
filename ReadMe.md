@@ -8,6 +8,6 @@ How to use:
 
 Go to ROBLOXVersions, go into latest and click ROBLOXStudioBeta for ROBLOX Studio
 
-For Roblox Player, it is slightly more complicated. Log into your account on ROBLOX Studio and then exit. Then hold shift and right click in an empty space and select "Open command window here" or something like that. Then type "RobloxPlayerBeta.exe --play --id 1500" without the quotes and replace 1500 with the place ID.
+For Roblox Player, it is slightly more complicated. Log into your account on ROBLOX Studio and then exit. Then hold shift and right click in an empty space in the ROBLOXVersions folder and select "Open command window here" or something like that. Then type "RobloxPlayerBeta.exe --play --id 1500" without the quotes and replace 1500 with the place ID.
 
-Keep in mind that you can create shortcuts to them. 
+Keep in mind that you can create shortcuts to them and with Roblox Player you can make sortcuts to individual games. Neat, huh? 
