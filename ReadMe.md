@@ -1,5 +1,7 @@
 # v0.50.0.0 Version of ROBLOX Portable. 
 
+EDIT : Added Start.bat to make quicker launch
+
 This is an easily made portable version of ROBLOX. 
 
 If you want to know the version ID, it is version-7b5c4ce60310443e for Studio and version-dd5b203ef99a4823 for Player. I just merge the folders and it works fine.
